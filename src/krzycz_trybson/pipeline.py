@@ -176,7 +176,7 @@ async def main():
         save_dir = Path(args.save_dir)
         save_dir.mkdir(parents=True, exist_ok=True)
 
-        output_file = save_dir / f"{str(uuid.uuid4())}.wav"
+        output_file = save_dir / f"{str(uuid.uuid4())}"
         output_file.parent.mkdir(parents=True, exist_ok=True)
 
         logger.info(f"Downloading YouTube video: {args.youtube_url}")
