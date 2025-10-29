@@ -27,6 +27,7 @@ nltk = "^3.9.1"
 notebook = "^7.4.5"
 sentencepiece = "^0.2.1"
 language-tool-python = "^2.9.4"
+transformers = "^4.57.1"
 
 
 [tool.poetry.group.dev.dependencies]
