@@ -1,0 +1,915 @@
+Start Time,End Time,Sentence,Translation,Emotion_fine,Emotion_core,Intensity,sentence_length,Language,predicted_emotion,emotion_final,Sentence_corrected
+00:00:00,00:00:07,"Program zawiera tresci nieodpowiednie dla widzow niepelnoletnich oraz takie, ktore moga urazic niektorych doroslych.",The program contains content inappropriate for underage viewers and content that may offend some adults.,warning,fear,mild,14,formal,disgust,disgust,"Program zawiera treści nieodpowiednie dla widzów niepełnoletnich oraz takie, które mogą urazić niektórych dorosłych."
+00:00:07,00:00:09,Ogladasz na wlasna odpowiedzialnosc.,You watch at your own risk.,caution,fear,mild,4,informal,fear,fear,oglądasz na własną odpowiedzialność.
+00:00:10,00:00:13,Jedziemy do Piekowa!,We're going to Pięków!,excitement,happiness,moderate,3,informal,happiness,happiness,Jedziemy do piękowa!
+00:00:14,00:00:17,"Krakowiacek jeden, a okolicow siedem.","One Krakowiacek, and seven surroundings.",pride,happiness,mild,5,informal,neutral,happiness,"Krakowiacek jeden, a okolic siedem."
+00:00:19,00:00:22,"Tak go dzgnalem w ta tarcze i widzialem, ze sie wkurwil.",So I stabbed him in that shield and I saw that he got pissed off.,irritation,anger,moderate,11,informal,anger,anger,"tak go dźgnąłem w tą tarczę i widziałem, że się wkurzył."
+00:00:25,00:00:26,I co kurde?,So what the hell?,defiance,anger,mild,3,informal,anger,anger,I co kurde?
+00:00:26,00:00:28,Jestesmy na pelnej pisie!,We're going full throttle!,enthusiasm,happiness,intense,4,informal,anger,happiness,jesteśmy na pełnej pisie!
+00:00:31,00:00:33,O szostej w nocy pojechalem do szpitala.,At six at night I went to the hospital.,concern,fear,moderate,7,informal,fear,fear,O szóstej w nocy pojechałem do szpitala.
+00:00:33,00:00:35,Tak zajebiscie zle sie czulem.,I felt fucking awful.,misery,sadness,intense,5,informal,disgust,anger,tak zajebiście źle się czułem.
+00:00:37,00:00:39,A w nocy czules sie jakby cale zycie ci przelecialo przed oczy?,And at night did you feel like your whole life flashed before your eyes?,reflection,surprise,moderate,12,informal,fear,surprise,A w nocy czułeś się jakby całe życie ci przeleciało przed oczy?
+00:00:39,00:00:40,No.,No.,indifference,neutral,neutral,1,informal,neutral,anger,No.
+00:00:41,00:00:42,Tak dlugo pracujesz?,Have you been working that long?,curiosity,neutral,mild,3,informal,neutral,neutral,tak długo pracujesz?
+00:00:43,00:00:44,To jest moj nos.,This is my nose.,assertion,neutral,neutral,4,informal,neutral,neutral,To jest mój nos.
+00:00:44,00:00:45,Aha.,Aha.,acknowledgment,neutral,neutral,1,informal,disgust,neutral,Aha.
+00:00:45,00:00:46,Takze Wojtek nic nie powyrywal.,So Wojtek didn't tear anything out.,relief,happiness,mild,5,informal,neutral,happiness,także Wojtek nic nie powyrywał.
+00:00:47,00:00:48,Nieudany balet!,Failed ballet!,disappointment,sadness,moderate,2,informal,anger,sadness,Nieudany balet!
+00:00:50,00:00:52,Ej kurwa studenciki pojebalo was!,"Hey fuck, students, are you out of your minds!",outrage,anger,intense,5,informal,anger,anger,Ej kurwa studenciki pojebało was!
+00:00:53,00:00:55,Nie wiem jak mozna pomilic kibel z bidetem.,I don't know how you can confuse a toilet with a bidet.,bewilderment,surprise,mild,8,informal,surprise,surprise,nie wiem jak można pomylić kibel z bidetem.
+00:00:57,00:00:59,"Jestem nie tylko przystojny, ale i swietnie wyposazony.","I am not only handsome, but also well-endowed.",pride,happiness,moderate,8,informal,happiness,happiness,"Jestem nie tylko przystojny, ale i świetnie wyposażony."
+00:01:00,00:01:02,"Meza szukam, milosc sie szukam.","I'm looking for a husband, I'm looking for love.",longing,sadness,moderate,5,informal,sadness,sadness,"męża szukam, miłość się szukam."
+00:01:03,00:01:04,Miec sie mega pompa.,To be super pumped.,excitement,happiness,intense,4,informal,neutral,happiness,mieć się mega pompą.
+00:01:05,00:01:07,Ja robie rozpychuche! Ja!,I'm making a mess! Me!,assertiveness,anger,moderate,4,informal,anger,anger,Ja robię rozpychuchę! Ja!
+00:01:07,00:01:09,Jestem najwieksza pogromca wszystkich gasek.,I am the greatest vanquisher of all geese.,pride,happiness,moderate,5,informal,happiness,happiness,Jestem największą pogromcą wszystkich gąsek.
+00:01:09,00:01:11,Jestem naturalna pieknoscia.,I am a natural beauty.,pride,happiness,mild,3,informal,happiness,happiness,Jestem naturalną pięknością.
+00:01:12,00:01:14,"Wszystkie dziewczyny i wszyscy parkety sa moje, tylko moje.","All the girls and all the dance floors are mine, only mine.",possessiveness,anger,moderate,9,informal,neutral,anger,"Wszystkie dziewczyny i wszyscy parkiety są moje, tylko moje."
+00:01:15,00:01:17,"Jestem mala, ale jak Ci przywale to sie zginiesz.","I am small, but if I hit you, you'll be gone.",threat,anger,intense,9,informal,fear,anger,"Jestem mała, ale jak Ci przywalę to się zginiesz."
+00:01:18,00:01:19,LOKSAN SZOL!,ŁOKSAN SPEAKS!,announcement,surprise,moderate,2,informal,neutral,surprise,ŁOKSAN SZEDŁ!
+00:01:22,00:01:23,Gdzie jedziemy?,Where are we going?,curiosity,neutral,mild,2,informal,neutral,neutral,Gdzie jedziemy?
+00:01:23,00:01:25,Jedziemy do Piekowa!,We're going to Pięków!,excitement,happiness,moderate,3,informal,happiness,happiness,Jedziemy do piękowa!
+00:01:26,00:01:27,Zapolowac nas smogu.,Hunt us in the smog.,foreboding,fear,moderate,3,informal,disgust,fear,zapoluje nas smog.
+00:01:27,00:01:28,Na dziewice.,For the virgin.,contempt,disgust,mild,2,informal,neutral,disgust,Na dziewicę.
+00:01:30,00:01:31,Do Polski!,To Poland!,longing,happiness,mild,2,informal,happiness,happiness,Do Polski!
+00:01:51,00:01:53,Dojechalismy do Krakowa na pelnej kurwie.,We arrived in Krakow at full throttle.,excitement,happiness,intense,6,informal,neutral,happiness,dojechaliśmy do Krakowa na pełnej kurwie.
+00:01:54,00:01:56,"Wjechalismy tam wszyscy, cala ekipa.","We all went in there, the whole crew.",camaraderie,happiness,mild,5,informal,neutral,happiness,"wjechaliśmy tam wszyscy, całą ekipą."
+00:02:00,00:02:04,"Po prostu jest pelno ludzi, jest ciagle wszedzie muzyka gra, wszedzie jakies tance.","There are just lots of people, there is always music playing everywhere, there are dances everywhere.",liveliness,happiness,moderate,13,informal,neutral,happiness,"Po prostu jest pełno ludzi, jest ciągle wszędzie muzyka gra, wszędzie jakieś tance."
+00:02:04,00:02:08,"Jacys Hiszpanie tanczyli, czy nie wiadomo kto. Ciemni byli w kazdym badz razie.","Some Spaniards were dancing, or maybe it wasn't clear who. They were dark-skinned anyway.",prejudice,disgust,moderate,13,informal,neutral,disgust,"Jacys Hiszpanie tańczyli, czy nie wiadomo kto. Ciemni byli w każdym bądź razie."
+00:02:10,00:02:15,Pawel mnie wzial na rece i oczywiscie zaprowadzil do tych ludzi pijanych czy tam nacpanych.,Paweł picked me up and of course led me to those drunk or maybe high people.,apprehension,fear,moderate,15,informal,disgust,fear,Paweł mnie wziął na ręce i oczywiście zaprowadził do tych ludzi pijanych czy tam naćpanych.
+00:02:15,00:02:19,"Nie potanczylam sobie dlugo, bo stwierdzilam, ze to nie moj klimat tanca.","I didn't dance for long, because I decided that this wasn't my kind of dance atmosphere.",disinterest,neutral,mild,12,informal,neutral,neutral,"nie potańczyłam sobie długo, bo stwierdziłam, że to nie mój klimat tanca."
+00:02:21,00:02:25,"Szlismy pozniej przy jakims kurcze scenie, jakims kurcze tancu ludowym.","We were later walking by some, damn, stage, some, damn, folk dance.",confusion,neutral,mild,10,informal,disgust,neutral,"szliśmy później przy jakimś kurcze scenie, jakimś kurcze tańcu ludowym."
+00:02:25,00:02:28,Przygrywaly tam dziewczyny tam na jakis tam.,"The girls were playing music there, there on some kind of something.",confusion,neutral,mild,7,informal,disgust,neutral,przygrywały tam dziewczyny tam na jakiś tam.
+00:02:28,00:02:33,"No jak sie na tych kurwa, co tam pizdo pizdo skrzypca.","Well, what about those fuckers, who are fiddling there like pizdo pizdo.",contempt,disgust,intense,11,informal,anger,anger,"No jak się na tych kurwa, co tam pizdo pizdo skrzypcach."
+00:02:35,00:02:37,Ale ja pierdole.,But fuck me.,frustration,anger,moderate,3,informal,anger,anger,Ale ja pierdolę.
+00:02:37,00:02:42,"Wskoczylismy szybko tam, zrobilismy male show, zeby tam potanczyc z tymi babciami.","We jumped in there quickly, put on a little show to dance with those grandmas.",playfulness,happiness,mild,12,informal,neutral,happiness,"wskoczyliśmy szybko tam, zrobiliśmy małe show, żeby tam potańczyć z tymi babciami."
+00:02:42,00:02:46,"W Krakowie CGW, na okolniku 7.","In Krakow CGW, at Okolnik 7.",neutrality,neutral,neutral,6,informal,fear,neutral,"W Krakowie CGW, na Okolniku 7."
+00:02:46,00:02:51,"Ogolnie zobaczylem, ze w Krakowie, ze wszystkie dziewczyny sie usmiechaja jak przechodza.","Generally, I noticed that in Krakow, all the girls smile as they walk by.",appreciation,happiness,mild,12,informal,happiness,happiness,"ogólnie zobaczyłem, że w Krakowie, że wszystkie dziewczyny się uśmiechają jak przechodzą."
+00:02:51,00:02:56,"I podobno nawet Tyson dwa razy mi zwrocil uwage, ze zobacz stary, ta dziewczyna stanela","And apparently even Tyson pointed out to me twice, like look man, that girl stopped",recollection,neutral,mild,15,informal,neutral,neutral,"I podobno nawet Tyson dwa razy mi zwrócił uwagę, że zobacz stary, tą dziewczyna stanęła"
+00:02:56,00:02:59,i obraca sie tak i patrzy za toba.,and he turns like this and looks after you.,curiosity,surprise,mild,8,informal,anger,surprise,i obraca się tak i patrzy za tobą.
+00:02:59,00:03:01,To bylo mile.,That was nice.,appreciation,happiness,mild,3,informal,happiness,happiness,To było miłe.
+00:03:01,00:03:03,Ale moze to wlasnie ten Krakow tak przyciaga.,But maybe it's this Krakow that attracts so much.,curiosity,surprise,mild,8,informal,neutral,surprise,Ale może to właśnie ten Krakow tak przyciąga.
+00:03:03,00:03:08,"Moze ta hiszpanska, jakas tam podobizna moja do Hiszpana.","Maybe the Spanish one, some kind of resemblance of mine to a Spaniard.",self-reflection,neutral,neutral,9,informal,neutral,neutral,"może tą hiszpańska, jakas tam podobizna moja do Hiszpana."
+00:03:15,00:03:19,"Jak zesmy szly z Ewelina, to stal taki facet z takim pieskiem.","When Ewelina and I were walking, there was a guy standing with a little dog.",recollection,neutral,neutral,12,informal,disgust,neutral,"jak żeśmy szly z Eweliną, to stał taki facet z takim pieskiem."
+00:03:19,00:03:22,Gosciu nas jakims kotem przestraszyl.,The guy scared us with some cat.,startlement,surprise,mild,5,informal,fear,fear,gościu nas jakimś kotem przestraszył.
+00:03:23,00:03:25,Jak zesmy sie zaczely drzec.,How we started yelling at each other.,conflict,anger,moderate,5,informal,surprise,anger,jak żeśmy się zaczęły drzec.
+00:03:25,00:03:28,"Boze, jak ja sie wystraszylam.","God, how scared I was.",alarm,fear,intense,5,informal,fear,fear,"Boze, jak ja się wystraszylam."
+00:03:28,00:03:31,"No masakra, nie? To bylo przestraszne.","Total massacre, right? That was terrifying.",horror,fear,intense,6,informal,fear,fear,"No masakra, nie? To było przestraszne."
+00:03:33,00:03:35,Kolo sceny stal rycerz.,A knight stood by the stage.,calm,neutral,neutral,4,informal,disgust,neutral,Kolo sceny stał rycerz.
+00:03:35,00:03:38,No i zbrojem. Ale chuj tam.,And I will arm myself. But fuck it.,resignation,sadness,moderate,6,informal,anger,anger,No i zbrojem. Ale chuj tam.
+00:03:38,00:03:40,Wygladal na kozaka.,He looked like a tough guy.,admiration,happiness,mild,3,informal,disgust,happiness,Wygladal na kozaka.
+00:03:40,00:03:42,"To mowie, musisz sie ze mna zmierzyc.","That's what I'm saying, you have to face me.",challenge,anger,moderate,7,informal,anger,anger,"To mowie, musisz się że mna zmierzyc."
+00:03:42,00:03:43,Siema.,Hi.,greeting,neutral,neutral,1,informal,neutral,neutral,Siema.
+00:03:43,00:03:46,"Podjal on meski boj, tam wymachiwal.","He undertook a manly fight, he was brandishing there.",determination,anger,moderate,6,informal,disgust,anger,"Podjal on meski boj, tam wymachiwal."
+00:03:46,00:03:49,"W pewnym momencie na mnie wynakl, ktory psal.","At some point, he barked at me, the one who was barking.",startlement,surprise,mild,8,informal,neutral,surprise,"W pewnym momencie na mnie wynakl, ktory psal."
+00:03:50,00:03:53,"Tak go dzgnalem w ta tarcze i widzialem, ze sie wkurwil.",So I stabbed him in that shield and I saw that he got pissed off.,provocation,anger,moderate,11,informal,anger,anger,"tak go dźgnąłem w tą tarczę i widziałem, że się wkurzył."
+00:03:54,00:03:58,W sensie chuj po koniec juz macha szybciej tym mieczem.,"I mean, fuck, at the end he already swings that sword faster.",frustration,anger,moderate,10,informal,disgust,anger,W sensie chuj po KONIEC już macha szybciej tym mieczem.
+00:03:58,00:04:01,"Ale dawalem rade tam, nadrawialem.","But I managed there, I made up for it.",resilience,happiness,mild,5,informal,neutral,happiness,"Ale dawalem rade tam, nadrawialem."
+00:04:01,00:04:03,Oszczedzilem chlopa.,I spared the guy.,relief,happiness,mild,2,informal,disgust,happiness,Oszczedzilem chlopa.
+00:04:03,00:04:05,"No co, kurwa no.","Well, fuck, no.",frustration,anger,moderate,4,informal,anger,anger,"No co, kurwa no."
+00:04:05,00:04:08,"Niech sobie chlopak tam dorobi, nie?","Let the boy earn some extra money there, right?",acceptance,neutral,mild,6,informal,neutral,neutral,"Niech sobie chlopak tam dorobi, nie?"
+00:04:13,00:04:15,Pochodzilismy troche po rynku.,We walked a bit around the market square.,contentment,happiness,mild,4,informal,fear,happiness,Pochodzilismy troche po rynku.
+00:04:15,00:04:16,Nie spac!,Don't sleep!,command,anger,moderate,2,informal,anger,anger,nie spac!
+00:04:16,00:04:17,Nie spac!,Don't sleep!,command,anger,moderate,2,informal,anger,anger,nie spac!
+00:04:17,00:04:18,Zapierdalac!,Fuck off!,hostility,anger,intense,1,informal,anger,anger,Zapierdalac!
+00:04:18,00:04:19,Zapierdalac!,Fuck off!,hostility,anger,intense,1,informal,anger,anger,Zapierdalac!
+00:04:21,00:04:23,Bylismy na smoku.,We were on the dragon.,nostalgia,happiness,mild,3,informal,neutral,happiness,Bylismy na smoku.
+00:04:23,00:04:25,Smok ogolnie jest kozakiem.,The dragon is generally a badass.,admiration,happiness,mild,4,informal,happiness,happiness,Smok ogólnie jest kozakiem.
+00:04:25,00:04:27,Ja ogolnie nie widzialem smoka nigdy.,I have never seen a dragon in general.,curiosity,neutral,neutral,6,informal,disgust,neutral,Ja ogólnie nie widziałem smoka nigdy.
+00:04:27,00:04:29,Gdzie ogien?,Where is the fire?,concern,fear,moderate,2,informal,neutral,neutral,Gdzie ogien?
+00:04:29,00:04:30,Taki przyjadowy troszke.,A bit spiteful.,spite,anger,mild,3,informal,anger,anger,Taki przyjadowy troszke.
+00:04:30,00:04:32,"Ja myslalem, ze troszeczke wiekszy bedzie, nie?","I thought it would be a little bigger, right?",disappointment,sadness,mild,7,informal,neutral,neutral,"Ja myslalem, że troszeczke wiekszy bedzie, nie?"
+00:04:32,00:04:34,"Chcielismy znalezc dla niego dziewice,","We wanted to find a virgin for him,",expectation,neutral,mild,5,informal,neutral,neutral,"Chcielismy znalezc dla niego dziewicę,"
+00:04:34,00:04:37,ale w calym Krajakowie nie znalezlismy takiej.,but in all of Krajaków we didn't find one like that.,disappointment,sadness,mild,7,informal,neutral,sadness,ale w calym Krajakowie nie znalezlismy takiej.
+00:04:37,00:04:38,A nie zonie ogien?,And not fire to the wife?,confusion,surprise,mild,4,informal,anger,surprise,A nie zonie ogien?
+00:04:38,00:04:40,Zrobimy sobie zdjecie na smoku.,We will take a photo on the dragon.,anticipation,happiness,mild,5,informal,neutral,happiness,Zrobimy sobie zdjecie na smoku.
+00:04:43,00:04:45,Ja nie wchodze na to.,I'm not going on that.,refusal,fear,moderate,5,informal,disgust,fear,Ja nie wchodze na to.
+00:04:47,00:04:48,Jestem!,I'm here!,presence,happiness,mild,1,informal,surprise,happiness,Jestem!
+00:04:48,00:04:50,"Kurwa, tutaj wejsc?","Fuck, go in here?",confusion,surprise,moderate,3,informal,anger,anger,"kurwa, tutaj wejsc?"
+00:04:50,00:04:52,"Czekaj, ja musze wejsc z drugiej strony.","Wait, I have to enter from the other side.",impatience,neutral,mild,7,informal,neutral,neutral,"Czekaj, ja musze wejsc z drugiej strony."
+00:04:52,00:04:53,Wszyscy weszli na tego smoka.,Everyone got on that dragon.,curiosity,neutral,neutral,5,informal,neutral,neutral,wszyscy weszli na tego smoka.
+00:04:53,00:04:56,"Ja oczywiscie nie, bo zalozylam pojebane jakies obcasy.","Of course not me, because I put on some fucked up heels.",frustration,anger,moderate,8,informal,anger,anger,"Ja oczywiście nie, bo zalozylam pojebane jakieś obcasy."
+00:04:56,00:04:58,"Mi sie spierdolila swego, wiec sobie...","Mine got fucked up, so I...",frustration,anger,moderate,6,informal,anger,anger,"Mi się spierdolila swego, wiec sobie..."
+00:04:58,00:05:01,wzialam sobie kolo smoka.,I took a seat near the dragon.,contentment,happiness,mild,4,informal,disgust,happiness,wzialam sobie kolo smoka.
+00:05:01,00:05:02,"Dawaj, tu jade.","Come on, I'm coming here.",determination,neutral,mild,3,informal,neutral,neutral,"Dawaj, tu jade."
+00:05:02,00:05:04,"Nie, naprawde, nie wejde na to.","No, really, I won't get on that.",refusal,fear,moderate,6,informal,disgust,fear,"nie, naprawdę, nie wejde na to."
+00:05:04,00:05:06,W tych butach sie spieprze i sie polamie. Nie chce.,In these shoes I'll fall and break myself. I don't want to.,dread,fear,moderate,10,informal,fear,fear,W tych butach się spieprze i się polamie. nie chcę.
+00:05:06,00:05:07,Chodz.,Come.,invitation,neutral,neutral,1,informal,neutral,neutral,Chodz.
+00:05:07,00:05:08,"Nie, naprawde.","No, really.",insistence,neutral,mild,2,informal,surprise,neutral,"nie, naprawdę."
+00:05:08,00:05:09,Tu ustan.,Stand here.,command,neutral,neutral,2,informal,anger,neutral,Tu ustan.
+00:05:09,00:05:11,"Ewelina nie wyszla, bo sie chyba bala.",Ewelina didn't go out because she was probably afraid.,apprehension,fear,moderate,7,informal,fear,fear,"Eweliną nie wyszla, bo się chyba bala."
+00:05:11,00:05:13,Jestem.,I am.,neutrality,neutral,neutral,1,informal,neutral,neutral,Jestem.
+00:05:13,00:05:14,"Dobra, Kataniu.","Alright, Kataniu.",acceptance,neutral,neutral,2,informal,neutral,neutral,"dobra, Kataniu."
+00:05:14,00:05:15,Wszyscy weszli na smoka.,Everyone got on the dragon.,excitement,happiness,moderate,4,informal,neutral,happiness,wszyscy weszli na smoka.
+00:05:15,00:05:17,"Ja postanowilem, zeby byc troszke wyzej,","I decided to be a little higher,",aspiration,happiness,mild,6,informal,neutral,happiness,"Ja postanowilem, żeby byc troszke wyzej,"
+00:05:17,00:05:19,zeby byc blizej zionacej glowy.,to be closer to the gaping head.,curiosity,neutral,mild,5,informal,sadness,neutral,żeby byc blizej zionacej glowy.
+00:05:19,00:05:20,"Dobra, do punktu.","Alright, to the point.",impatience,anger,mild,3,informal,neutral,anger,"dobra, do punktu."
+00:05:20,00:05:21,"A nie, bo Wojtek jest tam na gorze.","Oh no, because Wojtek is up there.",concern,fear,mild,8,informal,neutral,fear,"A nie, bo Wojtek jest tam na gorze."
+00:05:21,00:05:22,"Wojtek, uwazaj.","Wojtek, be careful.",concern,fear,mild,2,informal,neutral,fear,"Wojtek, uwazaj."
+00:05:23,00:05:24,Kazdy z nas go trzymal.,Each of us held it.,reminiscence,neutral,neutral,5,informal,neutral,neutral,każdy z nas go trzymal.
+00:05:24,00:05:27,"Ja im wisialem, mocno go trzymalem.","I was hanging on them, I was holding him tightly.",determination,neutral,moderate,6,informal,disgust,neutral,"Ja im wisialem, mocno go trzymalem."
+00:05:29,00:05:31,"Tak go scislem, ze az zional ogniem.",I squeezed him so hard that he breathed fire.,dominance,anger,intense,7,informal,disgust,anger,"tak go scislem, że az zional ogniem."
+00:05:35,00:05:37,"Smok zional, to poczulem takie goraco,","The dragon breathed, then I felt such heat,",alarm,fear,moderate,6,informal,disgust,fear,"Smok zional, to poczulem takie goraco,"
+00:05:37,00:05:39,"ze bylem pewien, ze zaraz mi spali wlosy.",that I was sure they were about to burn my hair.,apprehension,fear,moderate,8,informal,fear,fear,"że bylem pewien, że zaraz mi spali wlosy."
+00:05:46,00:05:47,Nie.,No.,rejection,anger,mild,1,informal,neutral,anger,nie.
+00:05:51,00:05:55,"Weszlismy do baru, no i prosilismy tam takiego pana,","We entered the bar, and we asked a man there,",recollection,neutral,neutral,9,informal,disgust,neutral,"Weszlismy do baru, no i prosilismy tam takiego pana,"
+00:05:55,00:05:56,zeby wlaczylem TV.,so that I turned on the TV.,expectation,neutral,neutral,3,informal,neutral,neutral,żeby wlaczylem TV.
+00:05:57,00:05:58,I nagle slysze krzyk.,And suddenly I hear a scream.,alarm,fear,moderate,4,informal,fear,fear,I nagle slysze krzyk.
+00:05:58,00:06:00,"Odwracam sie, patrze.","I turn around, I look.",curiosity,neutral,neutral,3,informal,neutral,neutral,"Odwracam się, patrze."
+00:06:02,00:06:04,"To nasza reklama, ekipa z Warszawy.","This is our advertisement, the team from Warsaw.",pride,happiness,mild,6,informal,neutral,happiness,"To nasza reklama, ekipą z Warszawy."
+00:06:04,00:06:05,"Nie, to...","No, it's...",hesitation,neutral,mild,2,informal,neutral,neutral,"nie, to..."
+00:06:05,00:06:06,Ja nie plywam.,I don't swim.,indifference,neutral,neutral,3,informal,neutral,neutral,Ja nie plywam.
+00:06:06,00:06:07,Ja nie plywam.,I don't swim.,indifference,neutral,neutral,3,informal,neutral,neutral,Ja nie plywam.
+00:06:07,00:06:09,"Ja nie jestem w klasie, nie tak samo wam.","I'm not in the classroom, it's not the same for you.",alienation,sadness,moderate,9,informal,neutral,sadness,"Ja nie jestem w klasie, nie tak samo wam."
+00:06:09,00:06:10,Ja nie plywam.,I don't swim.,indifference,neutral,neutral,3,informal,neutral,neutral,Ja nie plywam.
+00:06:10,00:06:12,Dziewczyny zajebiscie sie podniecily.,The girls got really excited.,excitement,happiness,intense,4,informal,happiness,happiness,Dziewczyny zajebiście się podniecily.
+00:06:12,00:06:13,Ja tak samo.,Me too.,agreement,neutral,neutral,3,informal,neutral,neutral,Ja tak samo.
+00:06:13,00:06:16,"Jak zobaczylem te nasze spoty, to po prostu dostalem energii.","When I saw our spots, I just got energized.",excitement,happiness,moderate,10,informal,happiness,happiness,"jak zobaczyłem te nasze spoty, to po prostu dostalem energii."
+00:06:18,00:06:19,"Ej, byla platyna jakas.","Hey, there was some platinum.",curiosity,surprise,mild,4,informal,neutral,surprise,"Ej, byla platyna jakas."
+00:06:20,00:06:23,"Jezu, kochany, to bylo niesamowite.","Jesus, dear, that was amazing.",awe,happiness,intense,5,informal,surprise,happiness,"Jezu, kochany, to było niesamowite."
+00:06:23,00:06:27,"Ja spalem w basenie, nagle znowu ja ujezdzajac na szpinie.","I was sleeping in the pool, suddenly again I was riding on a spinach.",confusion,surprise,moderate,10,informal,surprise,surprise,"Ja spalem w basenie, nagle znowu ja ujezdzajac na szpinie."
+00:06:28,00:06:30,"Nie, no po prostu to bylo szalenstwo, naprawde.","No, it was just madness, really.",astonishment,surprise,intense,8,informal,disgust,surprise,"nie, no po prostu to było szalenstwo, naprawdę."
+00:06:30,00:06:32,Ja bylam tak podjarana.,I was so excited.,excitement,happiness,intense,4,informal,happiness,happiness,Ja bylam tak podjarana.
+00:06:32,00:06:33,"Masakra, jogurt.","Massacre, yogurt.",disappointment,disgust,moderate,2,informal,neutral,disgust,"Masakra, jogurt."
+00:06:33,00:06:34,"To wiesz, ze do tej pory.","You know, until now.",resignation,neutral,neutral,6,informal,neutral,neutral,"To wiesz, że do tej pory."
+00:06:36,00:06:37,Zjedlismy sobie dobre jadlo.,We ate some good food.,satisfaction,happiness,mild,4,informal,neutral,happiness,Zjedlismy sobie dobre jadlo.
+00:06:37,00:06:39,Limuzyna podjechala pod nas.,The limousine pulled up to us.,expectation,surprise,mild,4,informal,neutral,surprise,Limuzyna podjechala pod nas.
+00:06:39,00:06:41,"Zapraszamy, drogie panie.","Welcome, dear ladies.",warmth,happiness,mild,3,informal,neutral,happiness,"Zapraszamy, drogie panie."
+00:06:41,00:06:42,"Zapraszamy, drogie panie.","Welcome, dear ladies.",warmth,happiness,mild,3,informal,neutral,happiness,"Zapraszamy, drogie panie."
+00:06:42,00:06:43,Wypad.,Get out.,dismissal,anger,moderate,1,informal,anger,anger,Wypad.
+00:06:44,00:06:45,"No i na impreze, nie?","And to the party, right?",expectation,happiness,mild,5,informal,neutral,neutral,"No i na impreze, nie?"
+00:06:47,00:06:50,"Jechalismy przez centrum, dlatego otworzylismy szyber dach.","We were driving through the city center, so we opened the sunroof.",contentment,happiness,mild,7,informal,neutral,happiness,"Jechalismy przez centrum, dlatego otworzylismy szyber dach."
+00:06:51,00:06:54,Ogladajcie ekipe z Warszawy!,Watch the crew from Warsaw!,enthusiasm,happiness,moderate,4,informal,happiness,happiness,Ogladajcie ekipe z Warszawy!
+00:06:57,00:06:59,Warsaw!,Warsaw!,excitement,happiness,mild,1,informal,surprise,happiness,Warsaw!
+00:06:59,00:07:00,Puszczylismy do ludzi co chwile.,We sent it out to people every now and then.,routine,neutral,neutral,5,informal,neutral,neutral,Puszczylismy do ludzi co chwile.
+00:07:00,00:07:02,"Warsaw, ogladajcie, Warsaw.","Warsaw, watch, Warsaw.",exhortation,neutral,neutral,3,informal,neutral,neutral,"Warsaw, ogladajcie, Warsaw."
+00:07:03,00:07:05,Warszawa!,Warsaw!,excitement,happiness,mild,1,informal,surprise,happiness,Warszawa!
+00:07:06,00:07:08,"Nasze haslo, nie spac, zwiedzac.","Our motto, don't sleep, explore.",enthusiasm,happiness,moderate,5,informal,neutral,happiness,"nasze haslo, nie spac, zwiedzac."
+00:07:08,00:07:10,Zapierdalac!,Fuck off!,hostility,anger,intense,1,informal,anger,anger,Zapierdalac!
+00:07:10,00:07:13,Ekipa z Warszawy!,Team from Warsaw!,pride,happiness,mild,3,informal,surprise,happiness,ekipą z Warszawy!
+00:07:13,00:07:15,Na chwile sie da juz pozytywnie.,"For a moment, it's already possible to be positive.",hope,happiness,mild,6,informal,neutral,happiness,Na chwile się da już pozytywnie.
+00:07:15,00:07:18,"Wiecej do NRG, Warszawa 4 bedzie!","More to NRG, Warsaw 4 will be!",anticipation,happiness,moderate,6,informal,neutral,happiness,"Wiecej do NRG, Warszawa 4 bedzie!"
+00:07:18,00:07:20,"Ania chrzczala, zapraszamy do NRG.","Ania was having a christening, we invite you to NRG.",invitation,happiness,mild,5,informal,happiness,happiness,"Ania chrzczala, zapraszamy do NRG."
+00:07:23,00:07:26,"I brzmiamy, Warszawa 4, wielkie krzyki dla was!","And we sound, Warsaw 4, big shouts for you!",excitement,happiness,intense,8,informal,happiness,happiness,"I brzmiamy, Warszawa 4, wielkie krzyki dla was!"
+00:07:27,00:07:28,No i co?,So what now?,curiosity,neutral,neutral,3,informal,surprise,surprise,No i co?
+00:07:28,00:07:31,"I brzmiamy, Warszawa 4, wielkie krzyki dla was!","And we sound, Warsaw 4, big shouts for you!",excitement,happiness,intense,8,informal,happiness,happiness,"I brzmiamy, Warszawa 4, wielkie krzyki dla was!"
+00:07:38,00:07:40,"Przybijalismy piatki tam na przystankach,","We were high-fiving there at the bus stops,",camaraderie,happiness,mild,5,informal,anger,happiness,"Przybijalismy piatki tam na przystankach,"
+00:07:40,00:07:43,"chcielismy porwac jedna laske, ale sie nie dalo.","We wanted to kidnap one girl, but it wasn't possible.",frustration,sadness,mild,8,informal,sadness,sadness,"chcielismy porwac jedną laske, ale się nie dalo."
+00:07:46,00:07:48,"Chodzi o to, zeby pobudzic troszke ludzi,","The point is to stimulate people a little,",motivation,happiness,mild,7,informal,neutral,happiness,"Chodzi o to, żeby pobudzic troszke ludzi,"
+00:07:48,00:07:50,pobudzic ludzi w Krakowie.,to energize people in Krakow.,motivation,happiness,mild,4,informal,happiness,happiness,pobudzic ludzi w Krakowie.
+00:07:50,00:07:51,"Pokazac, ze sie dobrze bawimy,","Show that we are having a good time,",enjoyment,happiness,mild,5,informal,neutral,happiness,"Pokazac, że się dobrze bawimy,"
+00:07:51,00:07:52,"ze sie dobrze bawimy,","that we are having a good time,",enjoyment,happiness,mild,4,informal,happiness,happiness,"że się dobrze bawimy,"
+00:07:52,00:07:53,"ze sie dobrze bawimy,","that we are having a good time,",enjoyment,happiness,mild,4,informal,happiness,happiness,"że się dobrze bawimy,"
+00:07:53,00:07:54,"ze sie dobrze bawimy,","that we are having a good time,",enjoyment,happiness,mild,4,informal,happiness,happiness,"że się dobrze bawimy,"
+00:07:54,00:07:55,"ze sie dobrze bawimy,","that we are having a good time,",enjoyment,happiness,mild,4,informal,happiness,happiness,"że się dobrze bawimy,"
+00:07:55,00:07:57,"pokazac, ze sie dobrze bawimy",to show that we are having a good time,enjoyment,happiness,mild,5,informal,happiness,happiness,"pokazac, że się dobrze bawimy"
+00:07:57,00:07:59,"i ze dajemy czadu wszedzie, gdzie jestesmy,","and that we rock everywhere we are,",confidence,happiness,moderate,7,informal,neutral,happiness,"i że dajemy czadu wszędzie, gdzie jesteśmy,"
+00:07:59,00:08:00,ze ekipa nie spi.,that the crew is not sleeping.,alertness,neutral,neutral,4,informal,sadness,neutral,że ekipą nie spi.
+00:08:04,00:08:06,W ogole byl calkiem taki mily i fajny dzien.,"Overall, it was quite a nice and pleasant day.",contentment,happiness,mild,9,informal,happiness,happiness,W ogóle byl calkiem taki mily i fajny dzien.
+00:08:06,00:08:08,Taki po prostu bylismy ekipa.,We were just a team like that.,nostalgia,happiness,mild,5,informal,neutral,happiness,Taki po prostu bylismy ekipą.
+00:08:14,00:08:16,Wjechalismy do klubu juz tez na pewnej glowie.,We entered the club already also on a certain head.,anticipation,happiness,mild,8,informal,neutral,happiness,wjechaliśmy do klubu już tez na pewnej glowie.
+00:08:18,00:08:20,"Widac bylo zainteresowanie ludzi,","You could see people's interest,",curiosity,happiness,mild,4,informal,neutral,happiness,"Widac było zainteresowanie ludzi,"
+00:08:20,00:08:22,"kto to jest, kto przyjezdza limuzyna.","Who is it, who is arriving in a limousine.",curiosity,surprise,mild,6,informal,surprise,surprise,"kto to jest, kto przyjezdza limuzyna."
+00:08:22,00:08:24,Po wejsciu do klubu sie czulem tak,After entering the club I felt like this,uncertainty,neutral,mild,7,informal,happiness,neutral,Po wejsciu do klubu się czułem tak
+00:08:24,00:08:25,"wow, wchodzimy na VIP-a,","wow, we're going into the VIP area,",excitement,happiness,moderate,4,informal,surprise,surprise,"wow, wchodzimy na VIP-a,"
+00:08:25,00:08:27,"do nas do WIB-lozy,","to us to the WIB-lodge,",invitation,neutral,neutral,4,informal,neutral,neutral,"do nas do WIB-lozy,"
+00:08:27,00:08:28,"ochroniarze nas przepuszczaja,","the security guards are letting us through,",relief,happiness,mild,3,informal,neutral,happiness,"ochroniarze nas przepuszczaja,"
+00:08:28,00:08:29,"wszyscy mowia,","everyone says,",expectation,neutral,neutral,2,informal,neutral,neutral,"wszyscy mowia,"
+00:08:29,00:08:30,Locusz odjdzie.,Łocusz will leave.,resignation,sadness,mild,2,informal,sadness,sadness,Locusz odjdzie.
+00:08:35,00:08:36,"Energii, tyle ludzi,","Energy, so many people,",excitement,happiness,moderate,3,informal,neutral,happiness,"Energii, tyle ludzi,"
+00:08:36,00:08:38,"po prostu, ze to jest masakra.",just that it's a massacre.,frustration,anger,moderate,6,informal,disgust,anger,"po prostu, że to jest masakra."
+00:08:38,00:08:40,"Fani zaskoczyli nas bardzo milo,","The fans surprised us very pleasantly,",gratitude,happiness,moderate,5,informal,surprise,surprise,"Fani zaskoczyli nas bardzo milo,"
+00:08:40,00:08:42,przywitali nas cieplo.,they welcomed us warmly.,warmth,happiness,mild,3,informal,happiness,happiness,przywitali nas cieplo.
+00:08:45,00:08:47,"Zdjecia, artografy,","Photos, autographs,",anticipation,happiness,mild,2,informal,neutral,happiness,"Zdjecia, artografy,"
+00:08:47,00:08:49,dziewczynom dalismy po buziaczku.,We gave each of the girls a little kiss.,affection,happiness,mild,4,informal,disgust,happiness,dziewczynom dalismy po buziaczku.
+00:08:50,00:08:52,"Wskoczylismy za DJ-ke,","We jumped behind the DJ booth,",excitement,happiness,moderate,3,informal,neutral,happiness,"wskoczyliśmy za DJ-ke,"
+00:08:52,00:08:54,zaczelismy pozdrawiac wszystkich fanow.,we started greeting all the fans.,warmth,happiness,mild,4,informal,happiness,happiness,zaczelismy pozdrawiac wszystkich fanow.
+00:08:55,00:08:57,"Nie czulam jakas sie taka, nie wiem,","I didn't feel somehow, I don't know,",confusion,neutral,mild,7,informal,fear,neutral,"nie czulam jakas się taka, nie wiem,"
+00:08:57,00:08:59,jak gwiazda czy cos.,like a star or something.,uncertainty,neutral,mild,4,informal,neutral,neutral,jak gwiazda czy cos.
+00:08:59,00:09:01,Po prostu chcialam sie dobrze bawic.,I just wanted to have a good time.,longing,happiness,mild,6,informal,happiness,happiness,Po prostu chcialam się dobrze bawic.
+00:09:02,00:09:04,"Klub zajebisty, no to zajebista,","Awesome club, so awesome,",enthusiasm,happiness,moderate,5,informal,happiness,happiness,"Klub zajebisty, no to zajebista,"
+00:09:04,00:09:06,takze fajnie.,so cool.,contentment,happiness,mild,2,informal,happiness,happiness,także fajnie.
+00:09:08,00:09:09,"Chlopacy klaskali,","The boys were clapping,",approval,happiness,mild,2,informal,neutral,happiness,"Chlopacy klaskali,"
+00:09:09,00:09:10,"dziewczyny chcialy buziaki,","the girls wanted kisses,",desire,happiness,mild,3,informal,neutral,happiness,"dziewczyny chcialy buziaki,"
+00:09:10,00:09:12,dlatego schylilem sie do nich.,that's why I bent down to them.,explanation,neutral,neutral,5,informal,fear,neutral,dlatego schylilem się do nich.
+00:09:12,00:09:13,Wszystkie wycalowaly po policzku.,They all kissed on the cheek.,affection,happiness,mild,4,informal,neutral,happiness,Wszystkie wycalowaly po policzku.
+00:09:13,00:09:15,"Nawet jeden gosc juz sie wypchal szybko,","Even one guest already bailed quickly,",disappointment,sadness,mild,7,informal,surprise,sadness,"nawet jeden gosc już się wypchal szybko,"
+00:09:15,00:09:17,zeby mnie pocalowac w policzek.,to kiss me on the cheek.,longing,happiness,mild,5,informal,happiness,happiness,żeby mnie pocalowac w policzek.
+00:09:18,00:09:20,Bawic sie energii,To play with energy,curiosity,happiness,mild,3,informal,neutral,happiness,Bawic się energii
+00:09:20,00:09:22,to jedna wielka przyjemnosc.,it's a great pleasure.,pleasure,happiness,moderate,4,informal,happiness,happiness,to jedną wielka przyjemnosc.
+00:09:23,00:09:25,"Fajne bylo tez, ze ludzie tak sie mega podjerali",It was also cool that people got so hyped up,excitement,happiness,moderate,9,informal,happiness,happiness,"Fajne było tez, że ludzie tak się mega podjerali"
+00:09:25,00:09:26,tym wszystkim.,all of this.,resignation,sadness,mild,2,informal,neutral,sadness,tym wszystkim.
+00:09:26,00:09:27,"Gdy weszlismy w tlum,","When we entered the crowd,",anticipation,surprise,mild,4,informal,fear,surprise,"Gdy weszlismy w tlum,"
+00:09:27,00:09:28,doslownie co chwile dziewczyna,literally every moment the girl,irritation,anger,mild,4,informal,neutral,anger,doslownie co chwile dziewczyna
+00:09:28,00:09:29,"mnie jakos chwytala za tylek,","she somehow grabbed my butt,",discomfort,disgust,mild,5,informal,disgust,disgust,"mnie jakos chwytala za tylek,"
+00:09:29,00:09:30,"albo szczypala,","or she pinched,",annoyance,anger,mild,2,informal,neutral,anger,"albo szczypala,"
+00:09:30,00:09:31,albo ktos mnie tutaj klepnal.,or someone slapped me here.,confusion,surprise,mild,5,informal,anger,surprise,albo ktos mnie tutaj klepnal.
+00:09:31,00:09:33,Czulem sie jak taka mega gwiazda.,I felt like such a mega star.,pride,happiness,moderate,6,informal,happiness,happiness,czułem się jak taka mega gwiazda.
+00:09:33,00:09:34,Dziewczyny to sobie piszczaly.,The girls were squealing to themselves.,excitement,happiness,moderate,4,informal,disgust,happiness,Dziewczyny to sobie piszczaly.
+00:09:34,00:09:36,Ale rozgladalem sie tak dookola i...,But I was looking around like this and...,curiosity,neutral,mild,6,informal,surprise,neutral,Ale rozgladalem się tak dookola i...
+00:09:38,00:09:39,"Powiedzmy, ze nie widzialem",Let's say I didn't see,evasiveness,neutral,mild,4,informal,surprise,neutral,"Powiedzmy, że nie widziałem"
+00:09:39,00:09:41,zbytnio kandydatek do dzialan.,too many candidates for action.,indecision,neutral,neutral,4,informal,neutral,neutral,zbytnio kandydatek do dzialan.
+00:09:43,00:09:44,"Bylam z nadzieja,","I was with hope,",hope,happiness,mild,3,informal,happiness,happiness,"Bylam z nadzieja,"
+00:09:44,00:09:46,"ze jak jeszcze tanczylam pierwsze piosenki,","that when I was still dancing to the first songs,",nostalgia,sadness,mild,6,informal,disgust,sadness,"że jak jeszcze tanczylam pierwsze piosenki,"
+00:09:46,00:09:48,spotkam zajebiste ciacho,I'm going to meet an awesome hottie,anticipation,happiness,moderate,3,informal,happiness,happiness,spotkam zajebiste ciacho
+00:09:48,00:09:50,i po prostu pojde z nim w melanz.,and I'll just go party with him.,anticipation,happiness,mild,8,informal,neutral,happiness,i po prostu pojde z nim w melanz.
+00:09:52,00:09:53,"Przepraszam, ze to powiem.",I'm sorry to say this.,regret,sadness,mild,4,informal,sadness,sadness,"przepraszam, że to powiem."
+00:09:53.710000,00:09:55.710000,Towaru tam dla dziewczyn nie ma.,There is no merchandise there for girls.,disappointment,sadness,mild,6,informal,neutral,sadness,Towaru tam dla dziewczyn nie ma.
+00:09:57.710000,00:09:58.710000,Niestety.,Unfortunately.,regret,sadness,mild,1,informal,sadness,sadness,Niestety.
+00:09:58.710000,00:10:00.710000,Ja sie bawilam u nas na naszym VIP-ie.,I was having fun with us in our VIP area.,enjoyment,happiness,mild,8,informal,happiness,happiness,Ja się bawilam u nas na naszym VIP-ie.
+00:10:00.710000,00:10:03.710000,"Patrzylam po sali i oczywiscie szukalam jakiegos klucza,","I looked around the room and of course I was looking for some kind of key,",curiosity,neutral,mild,8,informal,neutral,neutral,"Patrzylam po sali i oczywiście szukalam jakiegos klucza,"
+00:10:03.710000,00:10:05.710000,kluczu zaczepnego w koncu dla mnie.,the key of the latch finally for me.,expectation,happiness,mild,6,informal,happiness,happiness,kluczu zaczepnego w końcu dla mnie.
+00:10:05.710000,00:10:08.710000,"Mialam cicha nadzieje, ze w koncu ktos tam bedzie.",I had a quiet hope that finally someone would be there.,hope,happiness,mild,9,informal,neutral,happiness,"Mialam cicha nadzieje, że w końcu ktos tam bedzie."
+00:10:13.710000,00:10:14.710000,I zobaczylam.,And I saw.,realization,surprise,mild,2,informal,surprise,surprise,I zobaczylam.
+00:10:14.710000,00:10:16.710000,Sliczna blondyneczke.,A pretty blonde girl.,admiration,happiness,mild,2,informal,disgust,happiness,Sliczna blondyneczke.
+00:10:24.710000,00:10:26.710000,Zaczelysmy sie bawic.,We started to play.,playfulness,happiness,mild,3,informal,neutral,happiness,Zaczelysmy się bawic.
+00:10:26.710000,00:10:27.710000,Pozniej jakos tak duzo.,Later somehow so much.,confusion,surprise,mild,4,informal,neutral,surprise,później jakos tak duzo.
+00:10:27.710000,00:10:29.710000,Po prostu dalam im kazdego buziaczka.,I just gave each of them a little kiss.,affection,happiness,mild,6,informal,neutral,happiness,Po prostu dalam im kazdego buziaczka.
+00:10:29.710000,00:10:31.710000,"Jednego, drugiego, trzeciego.","One, the second, the third.",indifference,neutral,neutral,3,informal,neutral,neutral,"Jednego, drugiego, trzeciego."
+00:10:35.710000,00:10:38.710000,"Nagle czuje, ze ktos sie umadrywa ode mnie.",Suddenly I feel that someone is acting smarter than me.,insecurity,sadness,moderate,8,informal,happiness,sadness,"Nagle czuje, że ktos się umadrywa ode mnie."
+00:10:38.710000,00:10:39.710000,Jak my sie calujemy.,How we kiss.,affection,happiness,mild,4,informal,disgust,happiness,jak my się calujemy.
+00:10:39.710000,00:10:40.710000,"Ja mowie, kurwa, o co chodzi, nie?","I say, fuck, what's going on, you know?",confusion,surprise,moderate,7,informal,anger,anger,"Ja mowie, kurwa, o co chodzi, nie?"
+00:10:40.710000,00:10:43.710000,"Ja patrze, tam jakis koles robi jazde, nie?","I'm looking, there's some guy making a scene over there, right?",curiosity,surprise,mild,8,informal,disgust,surprise,"Ja patrze, tam jakiś koles robi jazde, nie?"
+00:10:43.710000,00:10:44.710000,"Ja mowie, to twoj facet?","I say, is that your guy?",curiosity,neutral,mild,5,informal,surprise,neutral,"Ja mowie, to twoj facet?"
+00:10:44.710000,00:10:46.710000,"No, no, juz moj byly, nie?","No, no, already my ex, right?",resignation,sadness,mild,6,informal,neutral,neutral,"No, no, już mój byly, nie?"
+00:10:46.710000,00:10:48.710000,"A ja kurwa, ja mowie, to chodz tu, nie?","And I fucking, I say, so come here, right?",impatience,anger,moderate,9,informal,anger,anger,"A ja kurwa, ja mowie, to chodz tu, nie?"
+00:10:48.710000,00:10:49.710000,I dalej zaczelam.,And then I started.,determination,neutral,neutral,3,informal,neutral,neutral,I dalej zaczelam.
+00:10:49.710000,00:10:51.710000,"Wzielam ja na picie, znowu zabawe i tak dalej.","I took her out for drinks, fun again, and so on.",resignation,neutral,mild,9,informal,happiness,happiness,"Wzielam ja na picie, znowu zabawe i tak dalej."
+00:10:54.710000,00:10:56.710000,"Po jakims tam czasie przyszedl po nia i powiedzial,","After some time, he came for her and said,",expectation,neutral,neutral,9,informal,disgust,neutral,"Po jakimś tam czasie przyszedl po nią i powiedział,"
+00:10:56.710000,00:10:58.710000,"zapytal, czy ona wraca do domu,","he asked if she was coming home,",curiosity,neutral,neutral,6,informal,neutral,neutral,"zapytal, czy ona wraca do domu,"
+00:10:58.710000,00:11:00.710000,a chyba musiala z nim po prostu jechac.,and she probably just had to go with him.,resignation,sadness,mild,8,informal,neutral,sadness,a chyba musiala z nim po prostu jechac.
+00:11:00.710000,00:11:01.710000,Ale bylo milo.,But it was nice.,nostalgia,happiness,mild,3,informal,happiness,happiness,Ale było milo.
+00:11:01.710000,00:11:02.710000,Bylo milo.,It was nice.,contentment,happiness,mild,2,informal,happiness,happiness,było milo.
+00:11:02.710000,00:11:06.710000,"I moge z pelnym przekonaniem powiedziec,","And I can say with full conviction,",confidence,happiness,moderate,6,informal,neutral,happiness,"I moge z pelnym przekonaniem powiedzieć,"
+00:11:06.710000,00:11:08.710000,ze wyrwamy juz Hongkongske.,that we will already snatch the Hong Kong girl.,anticipation,happiness,mild,4,informal,neutral,happiness,że wyrwamy już Hongkongske.
+00:11:08.710000,00:11:11.710000,"W ogole, kurwa, na pewno na tej imprezie.","Anyway, fuck, definitely at this party.",certainty,anger,moderate,8,informal,disgust,anger,"W ogóle, kurwa, na pewno na tej imprezie."
+00:11:14.710000,00:11:16.710000,Zabralam ja do limuzyny.,I took her to the limousine.,calm,neutral,neutral,4,informal,neutral,neutral,Zabralam ja do limuzyny.
+00:11:16.710000,00:11:18.710000,Na chwileczke pogadalismy.,We talked for a moment.,contentment,happiness,mild,3,informal,neutral,happiness,Na chwileczke pogadalismy.
+00:11:18.710000,00:11:21.710000,A pozniej wzielismy sie do domu.,And then we went home.,contentment,happiness,mild,6,informal,neutral,happiness,A później wzielismy się do domu.
+00:11:21.710000,00:11:24.710000,A pozniej wzielismy sie do dziela.,And then we got down to work.,determination,neutral,mild,6,informal,neutral,neutral,A później wzielismy się do dziela.
+00:11:27.710000,00:11:29.710000,"Dobra, jebac te, kurwy, z Warszawy.","Alright, fuck those whores from Warsaw.",contempt,anger,intense,6,informal,anger,anger,"dobra, jebac te, kurwy, z Warszawy."
+00:11:29.710000,00:11:31.710000,"No co, myslalysmy, ze z Malowica ja zabijemy tam.","Well, we thought that with Małowica we would kill her there.",reminiscence,neutral,neutral,9,informal,neutral,neutral,"No co, myslalysmy, że z Malowica ja zabijemy tam."
+00:11:31.710000,00:11:33.710000,"Ale cos nam pozniej krzyczala tam,","But then she was shouting something at us there,",annoyance,anger,mild,6,informal,disgust,anger,"Ale cos nam później krzyczala tam,"
+00:11:33.710000,00:11:35.710000,"oczywiscie, z daleka, wielki kozak, nie?","of course, from a distance, a big tough guy, right?",sarcasm,disgust,mild,6,informal,neutral,neutral,"oczywiście, z daleka, wielki kozak, nie?"
+00:11:35.710000,00:11:37.710000,"Chyba, kurwa, zrobie sledztwo.","Damn, I think I'll do an investigation.",determination,anger,moderate,4,informal,disgust,anger,"Chyba, kurwa, zrobie sledztwo."
+00:11:38.710000,00:11:39.710000,"Teraz sobie o tym pomyslam,","Now I thought about it,",reflection,neutral,mild,5,informal,neutral,neutral,"Teraz sobie o tym pomyslam,"
+00:11:39.710000,00:11:41.710000,ze to chyba numery telefonow.,that these are probably phone numbers.,uncertainty,neutral,mild,5,informal,neutral,neutral,że to chyba numery telefonow.
+00:11:41.710000,00:11:43.710000,"I chyba, no, zapierdole te lisciki","And I guess, well, I'll fucking throw away these notes",frustration,anger,moderate,6,informal,anger,anger,"I chyba, no, zapierdole te lisciki"
+00:11:43.710000,00:11:44.710000,i pojde jej porownam.,and I will go compare her.,determination,neutral,mild,4,informal,neutral,neutral,i pojde jej porownam.
+00:11:45.710000,00:11:47.710000,Lacza sie!,They are connecting!,anticipation,happiness,moderate,2,informal,surprise,happiness,Lacza się!
+00:11:47.710000,00:11:49.710000,Lacza sie!,They are connecting!,anticipation,surprise,moderate,2,informal,surprise,happiness,Lacza się!
+00:11:52.710000,00:11:53.710000,"No, zeby wejsc na podest,","Well, to get on the podium,",expectation,happiness,mild,5,informal,neutral,happiness,"No, żeby wejsc na podest,"
+00:11:53.710000,00:11:55.710000,no to pomogl mi Trybson i Smietana.,so Trybson and Śmietana helped me.,gratitude,happiness,mild,7,informal,happiness,happiness,no to pomogl mi Trybson i Smietana.
+00:11:56.710000,00:11:59.710000,"Widzialam, ze tam tanczy jakis ziomek w ogole",I saw that some guy was dancing there at all,curiosity,surprise,mild,8,informal,disgust,surprise,"Widzialam, że tam tanczy jakiś ziomek w ogóle"
+00:11:59.710000,00:12:01.710000,"z jakas laska, taka blondynka.","with some girl, a blonde one.",dismissiveness,neutral,neutral,5,informal,disgust,neutral,"z jakas laska, taka blondynka."
+00:12:02.710000,00:12:04.710000,"No, no i mowie, zeby ze mna poszli tam,","No, no and I say, that they should go there with me,",insistence,neutral,mild,9,informal,fear,neutral,"No, no i mowie, żeby że mna poszli tam,"
+00:12:04.710000,00:12:06.710000,"bo ja sie sama, jak bede sie ryla,","because I am alone, when I will be struggling,",apprehension,fear,moderate,8,informal,sadness,fear,"bo ja się sama, jak bede się ryla,"
+00:12:06.710000,00:12:07.710000,"to jeszcze dostane w ryj, kurwa,","so I'll still get punched in the face, fuck,",resignation,sadness,moderate,6,informal,anger,anger,"to jeszcze dostane w ryj, kurwa,"
+00:12:07.710000,00:12:08.710000,od tego ziomka czy cos.,from that dude or something.,uncertainty,neutral,mild,5,informal,neutral,neutral,od tego ziomka czy cos.
+00:12:08.710000,00:12:09.710000,Bedzie kapa.,There will be trouble.,apprehension,fear,mild,2,informal,sadness,fear,Bedzie kapa.
+00:12:09.710000,00:12:11.710000,"Ale lepiej dostac, kurwa, od laski","But it's better to get, fuck, from a girl",defiance,anger,moderate,6,informal,disgust,anger,"Ale lepiej dostac, kurwa, od laski"
+00:12:11.710000,00:12:13.710000,"niz od faceta, wiadomo.","than from a guy, you know.",resignation,sadness,mild,4,informal,surprise,sadness,"niz od faceta, wiadomo."
+00:12:15.710000,00:12:17.710000,"No kazdy czlowiek mial sie tam prawo bawic,","Well, every person had the right to have fun there,",fairness,neutral,neutral,8,informal,neutral,neutral,"No każdy czlowiek mial się tam prawo bawic,"
+00:12:17.710000,00:12:19.710000,no ale juz nas tak poprosili.,but they already asked us like that.,resignation,sadness,mild,6,informal,surprise,sadness,no ale już nas tak poprosili.
+00:12:19.710000,00:12:23.710000,"To poszlismy, no i sila perswazji ruchowej,","So we went, and with the force of physical persuasion,",determination,neutral,mild,7,informal,neutral,neutral,"To poszlismy, no i sila perswazji ruchowej,"
+00:12:24.710000,00:12:26.710000,"na zasadzie trpniecia barkiem,","on the principle of a shoulder nudge,",indifference,neutral,neutral,4,informal,anger,neutral,"na zasadzie trpniecia barkiem,"
+00:12:27.710000,00:12:29.710000,"no, wyprosilismy te osobe.","no, we asked that person to leave.",dismissal,anger,moderate,4,informal,neutral,anger,"no, wyprosilismy te osobe."
+00:12:31.710000,00:12:32.710000,"I chlopak sie przerazil,","And the boy got scared,",alarm,fear,moderate,4,informal,fear,fear,"I chlopak się przerazil,"
+00:12:32.710000,00:12:34.710000,bo chlop tego sie rzucil.,because the guy threw himself at it.,surprise,surprise,moderate,5,informal,anger,surprise,bo chlop tego się rzucil.
+00:12:34.710000,00:12:35.710000,"Ja tam usiedlem z boku,","I sat there on the side,",reservation,neutral,neutral,5,informal,neutral,neutral,"Ja tam usiedlem z boku,"
+00:12:35.710000,00:12:37.710000,"mial ciasto, jak z gory zszedl.",he had cake when he came down from the mountain.,contentment,happiness,mild,6,informal,happiness,happiness,"mial ciasto, jak z gory zszedl."
+00:12:37.710000,00:12:39.710000,"Popatrzyl sie chwile, niewinnie,","He looked for a moment, innocently,",innocence,neutral,mild,4,informal,happiness,neutral,"Popatrzyl się chwile, niewinnie,"
+00:12:39.710000,00:12:40.710000,zszedl na dol.,he went downstairs.,calm,neutral,neutral,3,informal,neutral,neutral,zszedl na dol.
+00:12:40.710000,00:12:42.710000,"No, zania zadowolona.","No, Zania is happy.",contentment,happiness,mild,3,informal,happiness,happiness,"No, zania zadowolona."
+00:12:42.710000,00:12:43.710000,"Wiem, ze to juz mial jakies akcje",I know that it already had some incidents,suspicion,fear,mild,7,informal,neutral,fear,"Wiem, że to już mial jakieś akcje"
+00:12:43.710000,00:12:44.710000,"z jakims facetem,","with some guy,",curiosity,neutral,neutral,3,informal,disgust,neutral,"z jakimś facetem,"
+00:12:44.710000,00:12:45.710000,"co tam, no, wkurwial, zaczepial","what's up, well, he pissed me off, he was provoking",irritation,anger,moderate,5,informal,anger,anger,"co tam, no, wkurwial, zaczepial"
+00:12:45.710000,00:12:47.710000,"i mowil sobie, ze to jest chlop.",and he told himself that this is a man.,reflection,neutral,neutral,7,informal,surprise,neutral,"i mowil sobie, że to jest chlop."
+00:12:47.710000,00:12:49.710000,"Facetem, co tam, no, wkurwial, zaczepial","The guy, you know, was pissing me off, provoking me",irritation,anger,moderate,6,informal,anger,anger,"Facetem, co tam, no, wkurwial, zaczepial"
+00:12:49.710000,00:12:51.710000,i mu zajebala zeby podobno.,and she supposedly knocked his teeth out.,shock,surprise,moderate,5,informal,disgust,anger,i mu zajebala żeby podobno.
+00:12:53.710000,00:12:55.710000,"Wkurwil mnie jeden ziomek tak na maksa,","One dude pissed me off so much,",irritation,anger,intense,7,informal,anger,anger,"wkurzył mnie jeden ziomek tak na maksa,"
+00:12:55.710000,00:12:56.710000,"ze po prostu myslalam,","that I just thought,",reflection,neutral,neutral,4,informal,surprise,neutral,"że po prostu myślałam,"
+00:12:56.710000,00:12:57.710000,"ze go rozszarpe,","that I will tear him apart,",threat,anger,intense,3,informal,sadness,anger,"że go rozszarpe,"
+00:12:57.710000,00:12:59.710000,bo siedzial z Ewelina.,because he was sitting with Ewelina.,resentment,anger,mild,4,informal,disgust,anger,bo siedzial z Eweliną.
+00:13:00.710000,00:13:01.710000,"Ewelina juz w ogole nie chciala,","Ewelina didn't want to at all anymore,",reluctance,sadness,moderate,6,informal,sadness,sadness,"Eweliną już w ogóle nie chciala,"
+00:13:01.710000,00:13:03.710000,zeby on tam z nia go ui w ogole.,so that he would even go there with her at all.,resentment,anger,mild,9,informal,disgust,anger,żeby on tam z nią go ui w ogóle.
+00:13:04.710000,00:13:05.710000,"No i mnie wola, zebym cos zrobila.",And now he's calling me to do something.,annoyance,anger,mild,7,informal,anger,anger,"No i mnie wola, żebym cos zrobiła."
+00:13:05.710000,00:13:07.710000,"No to mowia, no, ziomek, mowie,","So they say, well, dude, I say,",hesitation,neutral,neutral,6,informal,neutral,neutral,"No to mowia, no, ziomek, mowie,"
+00:13:07.710000,00:13:08.710000,"wypierdalaj, mowie i w ogole,","fuck off, I say and all that,",contempt,anger,intense,5,informal,anger,anger,"wypierdalaj, mowie i w ogóle,"
+00:13:08.710000,00:13:10.710000,"no, bo, kurwa, no, na razie nie,","no, because, fuck, no, not for now,",frustration,anger,moderate,7,informal,anger,anger,"no, bo, kurwa, no, na razie nie,"
+00:13:10.710000,00:13:12.710000,"no, nie chcemy cie tutaj.","no, we don't want you here.",rejection,disgust,moderate,5,informal,sadness,disgust,"no, nie chcemy cię tutaj."
+00:13:13.710000,00:13:15.710000,I tak patrzy sie na mnie i...,And so he looks at me and...,unease,fear,mild,7,informal,neutral,fear,I tak patrzy się na mnie i...
+00:13:16.710000,00:13:17.710000,I tak patrzy sie na mnie.,And yet he looks at me.,unease,fear,mild,6,informal,disgust,fear,I tak patrzy się na mnie.
+00:13:17.710000,00:13:19.710000,"Ja mowie, no, kretyn.","I say, well, idiot.",contempt,disgust,moderate,4,informal,anger,anger,"Ja mowie, no, kretyn."
+00:13:19.710000,00:13:20.710000,"Mala do niego napierdala,","The girl is yelling at him,",aggression,anger,moderate,4,informal,anger,anger,"mała do niego napierdala,"
+00:13:20.710000,00:13:21.710000,"ze ma stad wyjsc po prostu z jej loza,","that she should just leave her box from here,",dismissal,anger,mild,9,informal,neutral,anger,"że ma stad wyjsc po prostu z jej loza,"
+00:13:21.710000,00:13:22.710000,"bla, bla, bla, on.","bla, bla, bla, on.",boredom,neutral,neutral,4,informal,neutral,neutral,"bla, bla, bla, on."
+00:13:27.710000,00:13:29.710000,"No i wybuchlam, dalam mu w ryj,","And I exploded, I punched him in the face,",outburst,anger,intense,7,informal,anger,anger,"No i wybuchlam, dalam mu w ryj,"
+00:13:29.710000,00:13:30.710000,"potem go popchnelam, no i...","then I pushed him, and...",hesitation,neutral,mild,5,informal,anger,neutral,"potem go popchnelam, no i..."
+00:13:30.710000,00:13:32.710000,"Impreza mu sie skonczyla, nie?","His party is over, isn't it?",resignation,sadness,mild,5,informal,disgust,sadness,"Impreza mu się skonczyla, nie?"
+00:13:36.710000,00:13:38.710000,"Ide taki zmarnowany do lozy,","I'm going to the lodge so worn out,",exhaustion,sadness,moderate,5,informal,sadness,sadness,"Ide taki zmarnowany do lozy,"
+00:13:38.710000,00:13:39.710000,"patrze, mala Ania","I look, little Ania",curiosity,surprise,mild,3,informal,disgust,surprise,"patrze, mała Ania"
+00:13:39.710000,00:13:41.710000,gada sobie z jakims rzeczonem.,he/she is chatting with some so-called person.,curiosity,neutral,mild,5,informal,neutral,neutral,gada sobie z jakimś rzeczonem.
+00:13:41.710000,00:13:42.710000,Nie za dupa.,Not so great.,disappointment,sadness,mild,3,informal,neutral,anger,nie za dupa.
+00:13:42.710000,00:13:45.710000,Przypominala Sasze z Pornolim.,She resembled Sasha from Pornolim.,reminiscence,neutral,neutral,4,informal,neutral,neutral,Przypominala Sasze z Pornolim.
+00:13:45.710000,00:13:46.710000,Nie Forem.,Not Forem.,confusion,neutral,neutral,2,informal,neutral,neutral,nie Forem.
+00:13:48.710000,00:13:50.710000,"Ja zabralem ja do limuzyny,","I took her to the limousine,",pride,happiness,mild,5,informal,neutral,happiness,"Ja zabralem ja do limuzyny,"
+00:13:50.710000,00:13:52.710000,"tam chwileczke pogadalismy,","we talked there for a moment,",calm,neutral,neutral,3,informal,neutral,neutral,"tam chwileczke pogadalismy,"
+00:13:52.710000,00:13:55.710000,a pozniej wzielismy sie do dziela.,and then we got down to work.,determination,neutral,mild,6,informal,neutral,neutral,a później wzielismy się do dziela.
+00:13:58.710000,00:14:00.710000,"Limuzyna tak sie trzesla,","The limousine was shaking so much,",unease,fear,mild,4,informal,fear,fear,"Limuzyna tak się trzesla,"
+00:14:00.710000,00:14:01.710000,"ze balem sie,","that I was afraid,",apprehension,fear,moderate,3,informal,fear,fear,"że balem się,"
+00:14:01.710000,00:14:03.710000,ze za chwile ruszy do przodu.,that in a moment it will move forward.,anticipation,surprise,mild,6,informal,neutral,surprise,że za chwile ruszy do przodu.
+00:14:04.710000,00:14:06.710000,"Zrobilismy, co do nas nalezy",We did what we were supposed to do,satisfaction,happiness,mild,5,informal,neutral,happiness,"zrobiliśmy, co do nas nalezy"
+00:14:06.710000,00:14:08.710000,"i wrocilismy, wrocilismy na parkiet.","and we came back, we came back to the dance floor.",relief,happiness,mild,5,informal,neutral,happiness,"i wrocilismy, wrocilismy na parkiet."
+00:14:12.710000,00:14:13.710000,Dobra impreza.,Good party.,satisfaction,happiness,mild,2,informal,neutral,happiness,dobra impreza.
+00:14:13.710000,00:14:15.710000,"Dobra impreza, no tylko szkoda,","Good party, but it's a pity,",regret,sadness,mild,5,informal,sadness,sadness,"dobra impreza, no tylko szkoda,"
+00:14:15.710000,00:14:17.710000,"ze po prostu nie bylo za bardzo facetow,","that there just weren't really any men,",resignation,sadness,mild,8,informal,neutral,sadness,"że po prostu nie było za bardzo facetow,"
+00:14:17.710000,00:14:19.710000,"z czym wybierac, na kim oka zawiesic.","what to choose from, on whom to rest one's eyes.",indecision,neutral,mild,7,informal,neutral,neutral,"z czym wybierac, na kim oka zawiesic."
+00:14:19.710000,00:14:21.710000,"Jedyne, co to byla taka akcja,","The only thing is, it was such an action,",recollection,neutral,neutral,6,informal,neutral,neutral,"Jedyne, co to byla taka akcja,"
+00:14:21.710000,00:14:22.710000,to z mala tanczylam sobie,I was dancing with the little one,fondness,happiness,mild,5,informal,happiness,happiness,to z mała tanczylam sobie
+00:14:22.710000,00:14:26.710000,i jakas dupa nam wchodzila ciagle do nas,and some idiot kept coming into us all the time,annoyance,anger,moderate,8,informal,anger,anger,i jakas dupa nam wchodzila ciągle do nas
+00:14:26.710000,00:14:27.710000,i po prostu nas...,and just us...,uncertainty,neutral,mild,4,informal,neutral,neutral,i po prostu nas...
+00:14:27.710000,00:14:29.710000,"My tanczylysmy i to juz czulysmy,","We were dancing and we already felt it,",anticipation,happiness,mild,6,informal,neutral,happiness,"My tanczylysmy i to już czulysmy,"
+00:14:29.710000,00:14:30.710000,ze ona sie wpycha na nas.,that she is pushing in on us.,resentment,anger,moderate,6,informal,anger,anger,że ona się wpycha na nas.
+00:14:30.710000,00:14:31.710000,"No to zwracalysmy jej jeden raz,","So we returned it to her once,",recollection,neutral,neutral,6,informal,neutral,neutral,"No to zwracalysmy jej jeden raz,"
+00:14:31.710000,00:14:33.710000,"drugi raz, trzeci raz uwage.","second time, third time a warning.",irritation,anger,mild,5,informal,neutral,anger,"drugi raz, trzeci raz uwagę."
+00:14:33.710000,00:14:35.710000,"Po prostu sie wkurzyla i sie odwrocila jej,","She just got pissed off and turned away from her,",irritation,anger,moderate,8,informal,anger,anger,"Po prostu się wkurzyla i się odwrocila jej,"
+00:14:35.710000,00:14:37.710000,"ze dobra, jebac te kurwy z Warszawy.","Alright, fuck those whores from Warsaw.",contempt,anger,intense,7,informal,anger,anger,"że dobra, jebac te kurwy z Warszawy."
+00:14:37.710000,00:14:39.710000,No i po prostu...,And just...,hesitation,neutral,neutral,4,informal,neutral,neutral,No i po prostu...
+00:14:39.710000,00:14:41.710000,"Dobra, jebac te kurwy z Warszawy.","Alright, fuck those whores from Warsaw.",contempt,anger,intense,6,informal,anger,anger,"dobra, jebac te kurwy z Warszawy."
+00:14:41.710000,00:14:43.710000,"No co, myslelismy, ze z mala ja zabijemy tam,","Well, we thought that with the little one we would kill her there,",guilt,sadness,moderate,9,informal,neutral,anger,"No co, myslelismy, że z mała ja zabijemy tam,"
+00:14:43.710000,00:14:45.710000,ale cos nam pozniej krzyczala tam oczywiscie,"but then she was shouting something at us there, of course",annoyance,anger,mild,7,informal,surprise,anger,ale cos nam później krzyczala tam oczywiście
+00:14:45.710000,00:14:47.710000,"z daleka wielki kozak, nie?","from afar a big tough guy, right?",mockery,disgust,mild,5,informal,disgust,disgust,"z daleka wielki kozak, nie?"
+00:14:50.710000,00:14:51.710000,"Akcja jest taka,","Here's the situation,",narration,neutral,neutral,3,informal,neutral,neutral,"Akcja jest taka,"
+00:14:51.710000,00:14:54.710000,podbilam ze smietana do dwoch klasek.,I went up with the cream to two girls from another class.,recollection,neutral,neutral,6,informal,disgust,neutral,podbilam że smietana do dwoch klasek.
+00:14:54.710000,00:14:56.710000,Byly srednie klasy.,They were average classes.,evaluation,neutral,neutral,3,informal,neutral,neutral,Byly srednie klasy.
+00:14:56.710000,00:15:01.710000,"No to podchodzimy, chcielismy byc mili, zagadac, pogadac.","So we approach, we wanted to be nice, to start a conversation, to chat.",goodwill,happiness,mild,8,informal,neutral,happiness,"No to podchodzimy, chcielismy byc mili, zagadac, pogadać."
+00:15:01.710000,00:15:02.710000,"A one sie nas pytaja,","And they ask us,",curiosity,neutral,neutral,5,informal,neutral,neutral,"A one się nas pytaja,"
+00:15:02.710000,00:15:03.710000,czy my jestesmy desperaci.,if we are desperate.,judgment,disgust,moderate,4,informal,fear,disgust,czy my jesteśmy desperaci.
+00:15:03.710000,00:15:05.710000,"Nie wiem, o co chodzi,","I don't know what's going on,",confusion,surprise,mild,5,informal,surprise,surprise,"nie wiem, o co chodzi,"
+00:15:05.710000,00:15:07.710000,bo ona w tym momencie sama sobie pojechala.,because at that moment she insulted herself.,realization,surprise,mild,8,informal,anger,surprise,bo ona w tym momencie sama sobie pojechala.
+00:15:07.710000,00:15:08.710000,"Skoro ja jestem desperatem,","If I'm the desperate one,",self-doubt,sadness,mild,4,informal,fear,sadness,"Skoro ja jestem desperatem,"
+00:15:08.710000,00:15:10.710000,to mamowka jechana musi byc chujowa.,then the 'mamówka' being insulted must be shitty.,contempt,disgust,moderate,6,informal,disgust,disgust,to mamowka jechana musi byc chujowa.
+00:15:11.710000,00:15:14.710000,"No dupa, kurwa, sama siebie pojechala, nie?","Well damn, fuck, she insulted herself, right?",mockery,disgust,moderate,7,informal,anger,anger,"No dupa, kurwa, sama siebie pojechala, nie?"
+00:15:14.710000,00:15:16.710000,Nie ma to jak pojechac sama siebie.,There's nothing like insulting yourself.,sarcasm,disgust,mild,7,informal,anger,disgust,nie ma to jak pojechac sama siebie.
+00:15:16.710000,00:15:18.710000,"Jestes, kurwa, w chuj inteligentna.",You're fucking so intelligent.,sarcasm,disgust,moderate,5,informal,anger,anger,"jesteś, kurwa, w chuj inteligentna."
+00:15:18.710000,00:15:20.710000,"Brawo dla ciebie, mamowka.","Bravo for you, mamówka.",sarcasm,disgust,mild,4,informal,neutral,disgust,"Brawo dla ciebie, mamowka."
+00:15:23.710000,00:15:26.710000,Ogolnie nie moglam sie na tej imprezie najebac.,"Overall, I couldn't get drunk at this party.",frustration,sadness,mild,8,informal,disgust,anger,ogólnie nie moglam się na tej imprezie najebac.
+00:15:27.710000,00:15:28.710000,Jakos tak nie moglam.,Somehow I just couldn't.,resignation,sadness,mild,4,informal,surprise,sadness,Jakos tak nie moglam.
+00:15:28.710000,00:15:29.710000,Nie wiem dlaczego.,I don't know why.,confusion,surprise,mild,3,informal,surprise,surprise,nie wiem dlaczego.
+00:15:29.710000,00:15:31.710000,"Pila, pilam i nie moglam sie najebac.",I drank and drank and couldn't get drunk.,frustration,sadness,mild,7,informal,disgust,anger,"Pila, pilam i nie moglam się najebac."
+00:15:31.710000,00:15:32.710000,Ale bylo spoko.,But it was cool.,contentment,happiness,mild,3,informal,happiness,happiness,Ale było spoko.
+00:15:38.710000,00:15:42.710000,"Bawilam sie z dziewczynami, potanczylam, wypilam.","I had fun with the girls, danced, drank.",enjoyment,happiness,mild,6,informal,happiness,happiness,"Bawilam się z dziewczynami, potańczyłam, wypilam."
+00:15:43.710000,00:15:44.710000,Kozak.,Kozak.,neutrality,neutral,neutral,1,informal,neutral,neutral,Kozak.
+00:15:44.710000,00:15:45.710000,Dobra impreza.,Good party.,satisfaction,happiness,mild,2,informal,neutral,happiness,dobra impreza.
+00:15:47.710000,00:15:48.710000,No i dawalismy rade.,And we managed.,pride,happiness,mild,4,informal,neutral,happiness,No i dawalismy rade.
+00:15:48.710000,00:15:50.710000,Bylismy wlasnie zajebista ekipa.,We were just an awesome crew.,pride,happiness,moderate,4,informal,happiness,happiness,Bylismy właśnie zajebista ekipą.
+00:15:50.710000,00:15:53.710000,"Razem bawilismy, razem wskakiwalismy na sceny,","We had fun together, we jumped on stages together,",nostalgia,happiness,mild,6,informal,happiness,happiness,"Razem bawilismy, razem wskakiwalismy na sceny,"
+00:15:53.710000,00:15:55.710000,"razem pozdrawialismy ludzi, fanki.","Together we greeted people, fans.",camaraderie,happiness,mild,4,informal,happiness,happiness,"razem pozdrawialismy ludzi, fanki."
+00:15:56.710000,00:15:57.710000,Bylo zajebiscie.,It was awesome.,excitement,happiness,intense,2,informal,happiness,happiness,było zajebiście.
+00:15:58.710000,00:15:59.710000,Dalismy czadu.,We rocked it.,excitement,happiness,moderate,2,informal,neutral,happiness,Dalismy czadu.
+00:15:59.710000,00:16:00.710000,Na maksa.,To the max.,excitement,happiness,intense,2,informal,neutral,happiness,Na maksa.
+00:16:09.710000,00:16:10.710000,Dzisiaj mega ciezki dzien.,Today is a super hard day.,exhaustion,sadness,intense,4,informal,sadness,sadness,dzisiaj mega ciezki dzien.
+00:16:10.710000,00:16:12.710000,Wrocilismy straci potem energii.,We came back having lost energy afterwards.,exhaustion,sadness,moderate,4,informal,sadness,sadness,Wrocilismy straci potem energii.
+00:16:15.710000,00:16:17.710000,Przejechalismy do Warszawy na ciezkim kacu.,We arrived in Warsaw with a heavy hangover.,weariness,sadness,moderate,6,informal,neutral,sadness,Przejechalismy do Warszawy na ciezkim kacu.
+00:16:17.710000,00:16:18.710000,Bylismy zweczeni.,We were tired.,fatigue,sadness,mild,2,informal,sadness,sadness,Bylismy zweczeni.
+00:16:19.710000,00:16:22.710000,"Przyszlismy do domu, no to kazdy chcial zalapac jakiegos tam pare godzin snu.","We came home, so everyone wanted to catch a few hours of sleep.",weariness,neutral,mild,13,informal,neutral,neutral,"Przyszlismy do domu, no to każdy chcial zalapac jakiegos tam pare godzin snu."
+00:16:23.710000,00:16:25.710000,Taki skacowany sie budze,I wake up so hungover,regret,sadness,moderate,4,informal,sadness,sadness,Taki skacowany się budze
+00:16:25.710000,00:16:27.710000,"i slysze, kurwa, ze",and I fucking hear that,irritation,anger,moderate,4,informal,anger,anger,"i slysze, kurwa, że"
+00:16:28.710000,00:16:30.710000,nasz hiszpan dostal list,our Spaniard received a letter,curiosity,surprise,mild,4,informal,surprise,surprise,nasz hiszpan dostal list
+00:16:31.710000,00:16:33.710000,od niejakiej Tamary.,from a certain Tamara.,curiosity,neutral,neutral,3,informal,neutral,neutral,od niejakiej Tamary.
+00:16:35.710000,00:16:36.710000,No i?,No i?,confusion,surprise,mild,2,informal,surprise,surprise,No i?
+00:16:36.710000,00:16:37.710000,No i?,No i?,confusion,surprise,mild,2,informal,surprise,surprise,No i?
+00:16:37.710000,00:16:38.710000,No i?,No i?,confusion,surprise,mild,2,informal,surprise,surprise,No i?
+00:16:38.710000,00:16:39.710000,No i?,No i?,confusion,surprise,mild,2,informal,surprise,surprise,No i?
+00:16:39.710000,00:16:40.710000,No i?,No i?,confusion,surprise,mild,2,informal,surprise,surprise,No i?
+00:16:40.710000,00:16:41.710000,No i?,No i?,confusion,surprise,mild,2,informal,surprise,surprise,No i?
+00:16:41.710000,00:16:42.710000,No i?,No i?,confusion,surprise,mild,2,informal,surprise,surprise,No i?
+00:16:42.710000,00:16:43.710000,No i?,No i?,confusion,surprise,mild,2,informal,surprise,surprise,No i?
+00:16:43.710000,00:16:44.710000,No i?,No i?,confusion,surprise,mild,2,informal,surprise,surprise,No i?
+00:16:44.710000,00:16:45.710000,No i?,No i?,confusion,surprise,mild,2,informal,surprise,surprise,No i?
+00:16:45.710000,00:16:46.710000,No i?,No i?,confusion,surprise,mild,2,informal,surprise,surprise,No i?
+00:16:46.710000,00:16:47.710000,No i?,No i?,confusion,surprise,mild,2,informal,surprise,surprise,No i?
+00:16:47.710000,00:16:48.710000,No i?,No i?,confusion,surprise,mild,2,informal,surprise,surprise,No i?
+00:16:48.710000,00:16:49.710000,No i?,No i?,confusion,surprise,mild,2,informal,surprise,surprise,No i?
+00:16:49.710000,00:16:50.710000,No i?,No i?,confusion,surprise,mild,2,informal,surprise,surprise,No i?
+00:16:50.710000,00:16:51.710000,No i?,No i?,confusion,surprise,mild,2,informal,surprise,surprise,No i?
+00:16:54.710000,00:16:56.710000,"Kurwa, az rozpisala.","Fuck, she wrote so much.",annoyance,anger,mild,3,informal,anger,anger,"kurwa, az rozpisala."
+00:16:57.710000,00:16:59.710000,Czytalem go na mega kacu.,I read it with a massive hangover.,weariness,sadness,moderate,5,informal,neutral,sadness,Czytalem go na mega kacu.
+00:16:59.710000,00:17:02.710000,"Totalnie skacowany, ale z mega zaciekawieniem.","Totally hungover, but with huge curiosity.",curiosity,surprise,moderate,6,informal,neutral,sadness,"Totalnie skacowany, ale z mega zaciekawieniem."
+00:17:03.710000,00:17:05.710000,"Dotykanie, morskanie,","Touching, squinting,",curiosity,neutral,mild,2,informal,disgust,neutral,"Dotykanie, morskanie,"
+00:17:05.710000,00:17:07.710000,laskanie po kolanko i policzku.,caressing the knee and cheek.,affection,happiness,mild,5,informal,sadness,happiness,laskanie po kolanko i policzku.
+00:17:08.710000,00:17:09.710000,Dlon,Hand,neutrality,neutral,neutral,1,informal,neutral,neutral,Dlon
+00:17:10.710000,00:17:11.710000,nie moze,cannot,frustration,sadness,mild,2,informal,sadness,sadness,nie może
+00:17:13.710000,00:17:16.710000,wibrowac szybko do mojej muszelki.,vibrate quickly to my shell.,anticipation,happiness,mild,5,informal,neutral,disgust,wibrowac szybko do mojej muszelki.
+00:17:16.710000,00:17:18.710000,"Wibrowac szybko do mojej muszelki,","Vibrate quickly to my shell,",anticipation,happiness,mild,5,informal,neutral,disgust,"Wibrowac szybko do mojej muszelki,"
+00:17:18.710000,00:17:19.710000,ktora jest,which is,curiosity,neutral,neutral,2,informal,neutral,neutral,ktora jest
+00:17:23.710000,00:17:25.710000,zacisnieta niekiedy.,clenched sometimes.,tension,fear,mild,2,informal,sadness,fear,zacisnieta niekiedy.
+00:17:29.710000,00:17:30.710000,Co za dupa.,What an ass.,contempt,disgust,moderate,3,informal,anger,anger,Co za dupa.
+00:17:31.710000,00:17:33.710000,"W liscie wypisuje pacjentowi,","In the letter, I am discharging the patient,",detachment,neutral,neutral,4,informal,anger,neutral,"W liscie wypisuje pacjentowi,"
+00:17:33.710000,00:17:35.710000,"ze ona jest z tych porzadnych,","that she is one of the decent ones,",approval,happiness,mild,6,informal,happiness,happiness,"że ona jest z tych porzadnych,"
+00:17:35.710000,00:17:37.710000,"a za chwile wypisuje,","and in a moment I'm being discharged,",expectation,surprise,mild,4,informal,surprise,surprise,"a za chwile wypisuje,"
+00:17:37.710000,00:17:39.710000,"ze lize sobie suty z mysla,","that I lick my nipples thinking,",desire,happiness,moderate,6,informal,disgust,happiness,"że lize sobie suty z mysla,"
+00:17:39.710000,00:17:41.710000,ze to Wojtek jej lize.,that it's Wojtek who is licking her.,gossip,surprise,mild,5,informal,disgust,surprise,że to Wojtek jej lize.
+00:17:42.710000,00:17:43.710000,"Rumienisz jak to pisze,","You blush as I write this,",embarrassment,sadness,mild,4,informal,anger,sadness,"Rumienisz jak to pisze,"
+00:17:43.710000,00:17:45.710000,a moje majteczki robia sie mokre,and my panties are getting wet,arousal,happiness,moderate,6,informal,sadness,disgust,a moje majteczki robia się mokre
+00:17:45.710000,00:17:47.710000,"od smietanki, ktora...","from the cream, which...",anticipation,neutral,neutral,3,informal,neutral,neutral,"od smietanki, ktora..."
+00:17:48.710000,00:17:50.710000,sie smietane tu sciagnela.,she brought the cream here.,routine,neutral,neutral,4,informal,neutral,neutral,się smietane tu sciagnela.
+00:17:50.710000,00:17:52.710000,"Z muszelki, z muszelki latuje jej smietanka.","From the shell, from the shell her cream is leaking out.",curiosity,neutral,neutral,7,informal,disgust,disgust,"Z muszelki, z muszelki leci jej smietanka."
+00:17:52.710000,00:17:54.710000,Mam udzial w tym wszystkim.,I have a part in all of this.,involvement,neutral,neutral,5,informal,neutral,neutral,Mam udzial w tym wszystkim.
+00:17:54.710000,00:17:55.710000,Chyba bedzie trojka.,It will probably be a three.,uncertainty,neutral,mild,3,informal,neutral,neutral,Chyba bedzie trojka.
+00:17:55.710000,00:17:57.710000,Dlatego dzisiaj jestem tutaj,That's why I'm here today,determination,neutral,mild,4,informal,neutral,neutral,Dlatego dzisiaj jestem tutaj
+00:17:57.710000,00:17:59.710000,"i obserwuje cie,","I'm watching you,",suspicion,fear,mild,3,informal,neutral,fear,"i obserwuje cię,"
+00:17:59.710000,00:18:01.710000,"ale nie spotkam sie z toba, Wojtku,","but I will not meet with you, Wojtek,",rejection,sadness,moderate,7,informal,sadness,sadness,"ale nie spotkam się z tobą, Wojtku,"
+00:18:01.710000,00:18:03.710000,"choc chcialabym byc,","although I would like to be,",longing,sadness,mild,3,informal,sadness,sadness,"choc chcialabym byc,"
+00:18:03.710000,00:18:05.710000,bys mnie przytulil i wzial w ramiona.,that you would hug me and take me in your arms.,longing,sadness,moderate,7,informal,happiness,sadness,bys mnie przytulil i wziął w ramiona.
+00:18:06.710000,00:18:07.710000,"Na pewno dla niej niemilo, tak?","Surely unpleasant for her, right?",discomfort,disgust,mild,6,informal,disgust,disgust,"Na pewno dla niej niemilo, tak?"
+00:18:07.710000,00:18:09.710000,"No, bo dostalem piosenki list i w ogole blablabla,","No, because I got a list of songs and all that blah blah blah,",dismissiveness,neutral,mild,9,informal,neutral,neutral,"No, bo dostalem piosenki list i w ogóle blablabla,"
+00:18:09.710000,00:18:11.710000,ale ja bym sie bal takiej osoby.,but I would be afraid of such a person.,apprehension,fear,moderate,7,informal,fear,fear,ale ja bym się bal takiej osoby.
+00:18:13.710000,00:18:14.710000,"Fajnie jest wiedziec,","It's nice to know,",contentment,happiness,mild,3,informal,happiness,happiness,"Fajnie jest wiedziec,"
+00:18:14.710000,00:18:16.710000,"ze sa jakies tam osoby,","that there are some people there,",uncertainty,neutral,neutral,5,informal,surprise,neutral,"że są jakieś tam osoby,"
+00:18:16.710000,00:18:18.710000,ktore pomimo wszystko podobam,which despite everything I like,affection,happiness,mild,4,informal,anger,happiness,które pomimo wszystko podobam się
+00:18:18.710000,00:18:21.710000,i moze jakos przyciagam swoim wygladem.,and maybe I somehow attract with my appearance.,insecurity,fear,mild,6,informal,neutral,fear,i może jakos przyciagam swoim wygladem.
+00:18:21.710000,00:18:23.710000,"Chociaz wolalbym swoim charakterem przyciagac,","Although I would prefer to attract with my character,",yearning,sadness,mild,5,informal,neutral,sadness,"Chociaz wolalbym swoim charakterem przyciagac,"
+00:18:23.710000,00:18:25.710000,niz czego wygladem.,than by appearance.,indifference,neutral,neutral,3,informal,neutral,neutral,niz czego wygladem.
+00:18:25.710000,00:18:27.710000,Ale kojarze z domu takie pismo.,But I recognize such handwriting from home.,reminiscence,neutral,mild,6,informal,neutral,neutral,Ale kojarze z domu takie pismo.
+00:18:27.710000,00:18:29.710000,Faceta.,Facet.,neutrality,neutral,neutral,1,informal,neutral,neutral,Faceta.
+00:18:31.710000,00:18:33.710000,"Mi sie wydaje, ze faceta.","It seems to me, a guy.",uncertainty,neutral,mild,5,informal,neutral,neutral,"Mi się wydaje, że faceta."
+00:18:33.710000,00:18:35.710000,Gdzies na jakichs zapiskach,Somewhere in some notes,uncertainty,neutral,mild,4,informal,neutral,neutral,Gdzies na jakichs zapiskach
+00:18:35.710000,00:18:37.710000,"czy w numerach telefonow,","in phone numbers,",curiosity,neutral,mild,4,informal,neutral,neutral,"czy w numerach telefonow,"
+00:18:37.710000,00:18:38.710000,cos gdzies to kojarze.,I recognize this from somewhere.,recollection,neutral,mild,4,informal,neutral,neutral,cos gdzies to kojarze.
+00:18:38.710000,00:18:40.710000,"Chyba, kurwa, zrobie sledztwo.","Damn, I guess I'll do an investigation.",determination,anger,moderate,4,informal,neutral,anger,"Chyba, kurwa, zrobie sledztwo."
+00:18:40.710000,00:18:42.710000,"Teraz sobie o tym pomyslam,","Now I thought about it,",reflection,neutral,mild,5,informal,neutral,neutral,"Teraz sobie o tym pomyslam,"
+00:18:42.710000,00:18:44.710000,ze to chyba numery telefonow,that these are probably phone numbers,uncertainty,neutral,mild,5,informal,neutral,neutral,że to chyba numery telefonow
+00:18:44.710000,00:18:46.710000,i chyba mu zapierdole ten lisciek,and I think I'll fucking take that little letter from him,hostility,anger,moderate,6,informal,anger,anger,i chyba mu zapierdole ten lisciek
+00:18:46.710000,00:18:48.710000,i pojde jej porownam.,and I will go compare her.,determination,neutral,neutral,4,informal,neutral,neutral,i pojde jej porownam.
+00:18:48.710000,00:18:50.710000,"Styl, teksty,","Style, lyrics,",curiosity,neutral,neutral,2,informal,neutral,neutral,"Styl, teksty,"
+00:18:50.710000,00:18:52.710000,"ktore sa tam w tym liscie,","which are there in that letter,",curiosity,neutral,mild,6,informal,neutral,neutral,"które są tam w tym liscie,"
+00:18:52.710000,00:18:54.710000,musza po prostu dobrze dopasowac do kogos.,they just have to fit someone well.,acceptance,neutral,neutral,7,informal,neutral,neutral,musza po prostu dobrze dopasowac do kogos.
+00:18:54.710000,00:18:56.710000,Smietana by tego nie odjebal.,Śmietana wouldn't have screwed this up.,disapproval,anger,moderate,5,informal,anger,anger,Smietana by tego nie odjebal.
+00:18:56.710000,00:18:58.710000,"On by nie byl tak kreatywny,","He wouldn't be so creative,",doubt,sadness,mild,6,informal,neutral,sadness,"On by nie byl tak kreatywny,"
+00:18:58.710000,00:19:00.710000,"zeby pisac o jakiejs mokrej muszelce,","to write about some wet seashell,",curiosity,neutral,neutral,6,informal,sadness,disgust,"żeby pisac o jakiejs mokrej muszelce,"
+00:19:00.710000,00:19:02.710000,"ktora marzy o jego szabli,","who dreams of his saber,",longing,happiness,mild,5,informal,surprise,disgust,"ktora marzy o jego szabli,"
+00:19:02.710000,00:19:04.710000,ktora bedzie wkladal intensywnie,which he will put in intensely,determination,neutral,moderate,4,informal,neutral,neutral,ktora bedzie wkladal intensywnie
+00:19:04.710000,00:19:06.710000,"i w ogole nie, nie.","and not at all, no.",rejection,disgust,mild,5,informal,neutral,disgust,"i w ogóle nie, nie."
+00:19:06.710000,00:19:08.710000,To troche mi do smietany nie pasuje.,It doesn't quite go with the sour cream for me.,doubt,disgust,mild,7,informal,disgust,disgust,To troche mi do smietany nie pasuje.
+00:19:08.710000,00:19:10.710000,Ale taki trybson?,But such a trybson?,confusion,surprise,mild,3,informal,surprise,surprise,Ale taki Trybson?
+00:19:10.710000,00:19:13.710000,"On akurat w takich kwestiach jest wlasnie kreatywny,","He is actually creative in such matters,",appreciation,happiness,mild,8,informal,neutral,happiness,"On akurat w takich kwestiach jest właśnie kreatywny,"
+00:19:13.710000,00:19:15.710000,wiec byc moze on to zrobil.,so maybe he did it.,suspicion,surprise,mild,6,informal,neutral,surprise,wiec byc może on to zrobił.
+00:19:19.710000,00:19:21.710000,Lacza sie!,They are connecting!,anticipation,surprise,moderate,2,informal,surprise,happiness,Lacza się!
+00:19:21.710000,00:19:23.710000,Wybuchnalem i to bylo tylko i wylacznie,I exploded and it was only and exclusively,outburst,anger,intense,7,informal,surprise,anger,Wybuchnalem i to było tylko i wylacznie
+00:19:23.710000,00:19:25.710000,w mojej obronie.,in my defense.,defensiveness,fear,mild,3,informal,anger,fear,w mojej obronie.
+00:19:25.710000,00:19:27.710000,"On nie szanuje w ogole ludzi, wiec...","He doesn't respect people at all, so...",contempt,disgust,moderate,7,informal,disgust,disgust,"On nie szanuję w ogóle ludzi, wiec..."
+00:19:27.710000,00:19:29.710000,"Dowiedzialam sie o tym, ze trybson robi mi kolo dupy.",I found out that Trybson is going behind my back.,betrayal,anger,moderate,10,informal,surprise,anger,"Dowiedzialam się o tym, że Trybson robi mi kolo dupy."
+00:19:31.710000,00:19:33.710000,"Ej, kurwa, studenciki pojebalo was?","Hey, fuck, students, are you out of your minds?",contempt,anger,intense,5,informal,anger,anger,"Ej, kurwa, studenciki pojebało was?"
+00:19:33.710000,00:19:35.710000,"Nie wiem, jak mozna pomienic",I don't know how one can change,confusion,sadness,mild,5,informal,surprise,sadness,"nie wiem, jak można pomienic"
+00:19:35.710000,00:19:37.710000,kibel z bidetem.,toilet with a bidet.,indifference,neutral,neutral,3,informal,neutral,neutral,kibel z bidetem.
+00:19:37.710000,00:19:39.710000,Trzeba to byc oproznione i wyczyscione.,It needs to be emptied and cleaned.,demand,neutral,neutral,6,informal,neutral,neutral,Trzeba to byc oproznione i wyczyscione.
+00:19:39.710000,00:19:41.710000,"Chlopacy nalewali sobie wody, mu nalewali wodke.","The guys were pouring themselves water, but they were pouring him vodka.",injustice,anger,moderate,7,informal,disgust,anger,"Chlopacy nalewali sobie wody, mu nalewali wodke."
+00:19:41.710000,00:19:43.710000,"No nie wiem, o czym ty myslisz.","Well, I don't know what you're thinking about.",uncertainty,fear,mild,7,informal,surprise,fear,"No nie wiem, o czym ty myslisz."
+00:19:43.710000,00:19:45.710000,Ja mi chodzilo o cos takiego.,I meant something like that.,clarification,neutral,neutral,6,informal,neutral,neutral,Ja mi chodziło o cos takiego.
+00:19:45.710000,00:19:47.710000,Lacza sie!,They are connecting!,anticipation,surprise,moderate,2,informal,surprise,happiness,Lacza się!
+1900-01-01 00:00:00,1900-01-01 00:00:02,WHAT'S UP SHOW!,WHAT'S UP SHOW!,excitement,happiness,moderate,3,informal,surprise,happiness,WHAT'S UP SHOW!
+1900-01-01 00:00:13.400000,1900-01-01 00:00:15,"Pekla flaszka, wypilismy.","The bottle broke open, we drank it.",contentment,happiness,mild,3,informal,disgust,happiness,"Pekla flaszka, wypilismy."
+1900-01-01 00:00:15,1900-01-01 00:00:18.500000,"U mnie to zadzialala nam ta wodka, napilam sie.","For me, that vodka worked for us, I drank some.",contentment,happiness,mild,9,informal,neutral,happiness,"U mnie to zadzialala nam tą wodka, napilam się."
+1900-01-01 00:00:18.500000,1900-01-01 00:00:21,"A to, ze my tu browary wyjebalismy.",And the fact that we smashed the beers here.,defiance,anger,moderate,7,informal,anger,anger,"A to, że my tu browary wyjebalismy."
+1900-01-01 00:00:21,1900-01-01 00:00:22.500000,Uuuu.,Uuuu.,discomfort,disgust,mild,1,informal,surprise,disgust,Uuuu.
+1900-01-01 00:00:22.500000,1900-01-01 00:00:24,"Eee, jestem trzezwa.","Umm, I'm sober.",relief,happiness,mild,3,informal,neutral,happiness,"Eee, jestem trzezwa."
+1900-01-01 00:00:24,1900-01-01 00:00:26,Chlopaki sie nawalili.,The guys got drunk.,amusement,happiness,mild,3,informal,disgust,happiness,Chlopaki się nawalili.
+1900-01-01 00:00:26,1900-01-01 00:00:27.500000,Gdzie jest Ewelina?,Where is Ewelina?,curiosity,neutral,mild,3,informal,neutral,neutral,Gdzie jest Eweliną?
+1900-01-01 00:00:27.500000,1900-01-01 00:00:29,W muzykalni.,In the music room.,neutrality,neutral,neutral,2,informal,disgust,neutral,W muzykalni.
+1900-01-01 00:00:29,1900-01-01 00:00:30.500000,Spi tam sama?,Is she sleeping there alone?,concern,fear,mild,3,informal,surprise,surprise,Spi tam sama?
+1900-01-01 00:00:30.500000,1900-01-01 00:00:31.500000,Nie sama.,Not alone.,reassurance,happiness,mild,2,informal,sadness,happiness,nie sama.
+1900-01-01 00:00:31.500000,1900-01-01 00:00:33,A z kim?,And with whom?,curiosity,neutral,mild,3,informal,neutral,neutral,A z kim?
+1900-01-01 00:00:33,1900-01-01 00:00:35,"A, przyszedl taki...","And, he came like that...",curiosity,surprise,mild,3,informal,neutral,surprise,"A, przyszedl taki..."
+1900-01-01 00:00:35,1900-01-01 00:00:37.500000,"Nie, nie wierze w to. Naprawde spi tam sama?","No, I don't believe it. Does she really sleep there alone?",incredulity,surprise,moderate,9,informal,surprise,surprise,"nie, nie wierze w to. naprawdę spi tam sama?"
+1900-01-01 00:00:37.500000,1900-01-01 00:00:38.500000,Ze smietany.,From cream.,neutrality,neutral,neutral,2,informal,neutral,neutral,że smietany.
+1900-01-01 00:00:38.500000,1900-01-01 00:00:39.500000,Ja ide do Elizy.,I'm going to Eliza.,determination,neutral,neutral,4,informal,happiness,neutral,Ja ide do Elizy.
+1900-01-01 00:00:39.500000,1900-01-01 00:00:41.500000,Ze smietana spi.,He sleeps with cream.,contentment,happiness,mild,3,informal,neutral,happiness,że smietana spi.
+1900-01-01 00:00:41.500000,1900-01-01 00:00:43,Przeciez ty jestes jej chlopakiem.,But you are her boyfriend.,accusation,anger,mild,5,informal,neutral,anger,Przeciez ty jesteś jej chlopakiem.
+1900-01-01 00:00:43,1900-01-01 00:00:47,Cos tam nawinelam wlasnie do trybszona na temat Eweliny.,I just said something to Trybszon about Ewelina.,disclosure,neutral,neutral,9,informal,neutral,neutral,Cos tam nawinelam właśnie do trybszona na temat Eweliny.
+1900-01-01 00:00:47,1900-01-01 00:00:49,"Chyba ty, Koro.","Maybe you, Koro.",sarcasm,neutral,mild,3,informal,neutral,neutral,"Chyba ty, Koro."
+1900-01-01 00:00:49,1900-01-01 00:00:50.500000,Ja moge byc jej chlopakiem?,Can I be her boyfriend?,hope,happiness,mild,5,informal,neutral,neutral,Ja moge byc jej chlopakiem?
+1900-01-01 00:00:50.500000,1900-01-01 00:00:51,Co?,What?,confusion,surprise,mild,1,informal,surprise,surprise,Co?
+1900-01-01 00:00:51,1900-01-01 00:00:52.500000,Ja moge byc jej chlopakiem?,Can I be her boyfriend?,hope,happiness,mild,5,informal,neutral,neutral,Ja moge byc jej chlopakiem?
+1900-01-01 00:00:52.500000,1900-01-01 00:00:54,No to byc.,"Well, let it be.",resignation,neutral,mild,3,informal,neutral,neutral,No to byc.
+1900-01-01 00:00:54,1900-01-01 00:00:55,Ale...,Ale...,hesitation,neutral,mild,1,informal,neutral,neutral,Ale...
+1900-01-01 00:00:55,1900-01-01 00:00:57,No to idz obzyknij tyle.,So go screw that much.,contempt,disgust,moderate,5,informal,anger,disgust,No to idz obzyknij tyle.
+1900-01-01 00:00:57,1900-01-01 00:01:00,"Cos tam powiedziala, ze a moze bys jej sie obzykneli czy cos takiego.","She said something like, maybe you two should hook up or something like that.",awkwardness,surprise,mild,13,informal,neutral,surprise,"Cos tam powiedziala, że a może bys jej się obzykneli czy cos takiego."
+1900-01-01 00:01:00,1900-01-01 00:01:02,Nie pamietam juz dokladnie tych slow.,I don't remember those words exactly anymore.,forgetfulness,sadness,mild,6,informal,neutral,sadness,nie pamietam już dokladnie tych slow.
+1900-01-01 00:01:02,1900-01-01 00:01:05,Ja ci nie kazalam jej obzyknac. Czemu sie znowu spinasz?,I didn't tell you to screw her. Why are you getting tense again?,defensiveness,anger,moderate,10,informal,anger,anger,Ja ci nie kazalam jej obzyknac. Czemu się znowu spinasz?
+1900-01-01 00:01:05,1900-01-01 00:01:07,"No bo wiem, ze...",Because I know that...,hesitation,neutral,mild,4,informal,neutral,neutral,"No bo wiem, że..."
+1900-01-01 00:01:07,1900-01-01 00:01:09,"Przeciez sa kurwa zarty, stary.","These are fucking jokes, man.",amusement,happiness,moderate,5,informal,disgust,anger,"Przeciez są kurwa zarty, stary."
+1900-01-01 00:01:09,1900-01-01 00:01:11,"Ja bym jej nie tchnal kijem przez szmate, rozumiesz?","I wouldn't touch her with a stick through a rag, you understand?",contempt,disgust,intense,9,informal,disgust,disgust,"Ja bym jej nie tchnal kijem przez szmatę, rozumiesz?"
+1900-01-01 00:01:11,1900-01-01 00:01:12,Co?,What?,confusion,surprise,mild,1,informal,surprise,surprise,Co?
+1900-01-01 00:01:12,1900-01-01 00:01:13,Nie tchnalby mnie.,He wouldn't touch me.,rejection,sadness,mild,3,informal,fear,sadness,nie tchnalby mnie.
+1900-01-01 00:01:13,1900-01-01 00:01:16,"Aaa, nie mowisz sie tak, kurwa. Wez troche czasami.","Aaa, you don't talk like that, fuck. Take it easy sometimes.",irritation,anger,moderate,9,informal,anger,anger,"Aaa, nie mowisz się tak, kurwa. Wez troche czasami."
+1900-01-01 00:01:16,1900-01-01 00:01:17,No to na chuj tak mowisz.,So why the fuck are you saying that then.,irritation,anger,moderate,6,informal,anger,anger,No to na chuj tak mowisz.
+1900-01-01 00:01:17,1900-01-01 00:01:19,"No bo to sa zarty, no stary.","Because these are jokes, man.",playfulness,happiness,mild,7,informal,neutral,happiness,"No bo to są zarty, no stary."
+1900-01-01 00:01:19,1900-01-01 00:01:20,No ale to ja nie kupuje takich zartow.,But I don't buy such jokes.,disapproval,disgust,mild,8,informal,disgust,disgust,No ale to ja nie kupuje takich zartow.
+1900-01-01 00:01:20,1900-01-01 00:01:22,"Ale spinasz sie, stary, bez przesady.","But you're getting worked up, man, don't exaggerate.",irritation,anger,mild,6,informal,disgust,anger,"Ale spinasz się, stary, bez przesady."
+1900-01-01 00:01:22,1900-01-01 00:01:24,"No zartujemy, ja pierdole.","We're just joking, fuck me.",exasperation,anger,moderate,4,informal,anger,anger,"No zartujemy, ja pierdolę."
+1900-01-01 00:01:24,1900-01-01 00:01:25,"Kurwa, no.","Fuck, no.",frustration,anger,moderate,2,informal,anger,anger,"kurwa, no."
+1900-01-01 00:01:25,1900-01-01 00:01:26,To nie zarty to jest.,"This is not a joke, it is.",seriousness,neutral,moderate,5,informal,disgust,neutral,To nie zarty to jest.
+1900-01-01 00:01:26,1900-01-01 00:01:30,"Wybuchnalem i to bylo tylko i wylacznie w mojej obronie,","I exploded and it was solely in my own defense,",defensiveness,anger,moderate,10,informal,anger,anger,"Wybuchnalem i to było tylko i wylacznie w mojej obronie,"
+1900-01-01 00:01:30,1900-01-01 00:01:33,zeby ona sie zamknela i zakonczyla temat.,so that she would shut up and end the topic.,irritation,anger,moderate,7,informal,anger,anger,żeby ona się zamknela i zakonczyla temat.
+1900-01-01 00:01:33,1900-01-01 00:01:37,"Powiedzialem, ze cos w stylu, ze nie jest w moim typie","I said something like, that she's not my type",indifference,neutral,mild,11,informal,neutral,neutral,"powiedziałem, że cos w stylu, że nie jest w moim typie"
+1900-01-01 00:01:37,1900-01-01 00:01:40,i ze nie tknalbym jej nawet kijem przez szmate.,and that I wouldn't touch her even with a stick through a rag.,contempt,disgust,intense,9,informal,fear,disgust,i że nie tknąłbym jej nawet kijem przez szmatę.
+1900-01-01 00:01:40,1900-01-01 00:01:43,"Zbiolam sie, bo mnie wkurwilas, ale cie nie obrazilas.","I got pissed off because you pissed me off, but you didn't offend me.",irritation,anger,moderate,9,informal,anger,anger,"Zbiolam się, bo mnie wkurwilas, ale cię nie obrazilas."
+1900-01-01 00:01:43,1900-01-01 00:01:46,"No, no ale juz strasznie chciala mi sie klocic, nie?","No, no but I really wanted to argue, right?",irritation,anger,intense,10,informal,neutral,neutral,"No, no ale już strasznie chciala mi się klocic, nie?"
+1900-01-01 00:01:46,1900-01-01 00:01:49,"No i ogolnie byla tak, ze wszyscy sie chyba rozeszli spac.",And generally it was like everyone probably went to sleep.,resignation,neutral,neutral,11,informal,neutral,neutral,"No i ogólnie byla tak, że wszyscy się chyba rozeszli spac."
+1900-01-01 00:01:56,1900-01-01 00:01:58,Dzisiaj bylismy w action clubie.,Today we were at the action club.,recollection,neutral,neutral,5,informal,happiness,neutral,dzisiaj bylismy w action clubie.
+1900-01-01 00:01:58,1900-01-01 00:02:00,"Tak ja podciagnalem, nie?","So I pulled her up, right?",uncertainty,neutral,mild,4,informal,neutral,neutral,"tak ja podciagnalem, nie?"
+1900-01-01 00:02:00,1900-01-01 00:02:02,"Ono nie wkladaj mi geby w bloto, nie?","Hey, don't shove my face in the mud, okay?",resentment,anger,moderate,8,informal,anger,anger,"Ono nie wkladaj mi geby w bloto, nie?"
+1900-01-01 00:02:02,1900-01-01 00:02:03,Trypson jest kutasem.,Trypson is an asshole.,contempt,disgust,moderate,3,informal,anger,disgust,Trypson jest kutasem.
+1900-01-01 00:02:03,1900-01-01 00:02:05,"To to samo, bo powiedzialam, kurwa, prostowo,","It's the same, because I said it, fuck, straightforwardly,",frustration,anger,moderate,7,informal,anger,anger,"To to samo, bo powiedzialam, kurwa, prostowo,"
+1900-01-01 00:02:05,1900-01-01 00:02:07,czyz jest kutasem i tyle.,Czyż is a dick and that's it.,contempt,disgust,moderate,5,informal,disgust,disgust,czyz jest kutasem i tyle.
+1900-01-01 00:02:07,1900-01-01 00:02:09,"On nie szanuje w ogole ludzi, wiec...","He doesn't respect people at all, so...",contempt,disgust,moderate,7,informal,disgust,disgust,"On nie szanuję w ogóle ludzi, wiec..."
+1900-01-01 00:02:09,1900-01-01 00:02:11,"Dowiedzialam sie o tym, ze Trypson robi mi kolo dupy.",I found out that Trypson is scheming behind my back.,betrayal,anger,moderate,10,informal,anger,anger,"Dowiedzialam się o tym, że Trypson robi mi kolo dupy."
+1900-01-01 00:02:11,1900-01-01 00:02:14,"Podobno Trypson cos tam zaczal na mnie wyzywac,","Apparently Trypson started calling me names or insulting me or something,",resentment,anger,mild,8,informal,anger,anger,"Podobno Trypson cos tam zaczal na mnie wyzywac,"
+1900-01-01 00:02:14,1900-01-01 00:02:16,"ze nie, ze nie ze mna,","that no, that not with me,",rejection,sadness,mild,6,informal,neutral,sadness,"że nie, że nie że mna,"
+1900-01-01 00:02:16,1900-01-01 00:02:18,"bo patykiem by mnie nie tknal, cos tam, cos tam, nie.","because he wouldn't touch me with a stick, something, something, no.",rejection,sadness,moderate,11,informal,anger,sadness,"bo patykiem by mnie nie tknął, cos tam, cos tam, nie."
+1900-01-01 00:02:18,1900-01-01 00:02:21,"Ja bym jej nie tknal kijem przez szmate, rozumiesz?","I wouldn't touch her with a stick through a rag, you understand?",contempt,disgust,intense,9,informal,disgust,disgust,"Ja bym jej nie tknął kijem przez szmatę, rozumiesz?"
+1900-01-01 00:02:21,1900-01-01 00:02:22,Co?,What?,confusion,surprise,mild,1,informal,surprise,surprise,Co?
+1900-01-01 00:02:22,1900-01-01 00:02:23,Nie tknalby mnie.,He wouldn't touch me.,rejection,disgust,moderate,3,informal,fear,disgust,nie tknalby mnie.
+1900-01-01 00:02:23,1900-01-01 00:02:25,Po prostu bylam w szoku totalnym.,I was just in total shock.,shock,surprise,intense,6,informal,surprise,surprise,Po prostu bylam w szoku totalnym.
+1900-01-01 00:02:25,1900-01-01 00:02:28,"Naprawde, po prostu tak mega przykro mi sie zrobilo.","Really, I just felt so incredibly sad.",regret,sadness,intense,9,informal,sadness,sadness,"naprawdę, po prostu tak mega przykro mi się zrobilo."
+1900-01-01 00:02:28,1900-01-01 00:02:31,"Przybija ze mna piatki, tutaj w oczy przyjacieli, w ogole nie.","He gives me high fives, but here, he doesn't look friends in the eyes at all.",disappointment,sadness,moderate,11,informal,disgust,sadness,"Przybija że mna piatki, tutaj w oczy przyjacieli, w ogóle nie."
+1900-01-01 00:02:31,1900-01-01 00:02:34,"Bo ja, kurwa, myslalam, ze on jest w porzadku.","Because I, fuck, thought he was okay.",disappointment,sadness,intense,9,informal,anger,anger,"Bo ja, kurwa, myślałam, że on jest w porzadku."
+1900-01-01 00:02:34,1900-01-01 00:02:37,"No, ja traktowalam Trypsona jako brata.","No, I treated Trypson like a brother.",affection,happiness,mild,6,informal,disgust,happiness,"No, ja traktowalam Trypsona jako brata."
+1900-01-01 00:02:37,1900-01-01 00:02:40,"Zyj z ludzmi jeden, kurwa, miesiac.","Live with people for one, fucking, month.",frustration,anger,intense,6,informal,anger,anger,"Zyj z ludzmi jeden, kurwa, miesiac."
+1900-01-01 00:02:40,1900-01-01 00:02:42,"Traktujesz ich, kurwa, jak dobry kumpli,","You treat them, fuck, like good buddies,",resentment,anger,moderate,6,informal,disgust,anger,"Traktujesz ich, kurwa, jak dobry kumpli,"
+1900-01-01 00:02:42,1900-01-01 00:02:45,"jakby znal ich, kurwa, od Bog wie ilu lat.","as if he had known them, fuck, for God knows how many years.",astonishment,surprise,moderate,9,informal,anger,anger,"jakby znal ich, kurwa, od Bog wie ilu lat."
+1900-01-01 00:02:45,1900-01-01 00:02:47,"A oni ci, kurwa, kolo dupy robia.","And they, fuck, are messing around your ass.",frustration,anger,moderate,7,informal,anger,anger,"A oni ci, kurwa, kolo dupy robia."
+1900-01-01 00:02:53,1900-01-01 00:02:54,"No, mysle, ze dalismy rade.","No, I think we managed.",relief,happiness,mild,5,informal,neutral,happiness,"No, mysle, że dalismy rade."
+1900-01-01 00:02:54,1900-01-01 00:02:56,Bylo dosyc lajtowo.,It was quite chill.,relaxation,happiness,mild,3,informal,happiness,happiness,było dosyc lajtowo.
+1900-01-01 00:02:56,1900-01-01 00:02:59,"Widzialem ogolne zniechecenie, zmeczenie w ich oczach.","I saw general discouragement, fatigue in their eyes.",weariness,sadness,moderate,7,informal,disgust,sadness,"widziałem ogolne zniechecenie, zmeczenie w ich oczach."
+1900-01-01 00:03:00,1900-01-01 00:03:02,"Ciesze sie, ze juz jest koniec.",I'm glad it's finally over.,relief,happiness,moderate,6,informal,happiness,happiness,"Ciesze się, że już jest KONIEC."
+1900-01-01 00:03:04,1900-01-01 00:03:06,Poczatki byly trudne.,The beginnings were difficult.,struggle,sadness,mild,3,informal,fear,sadness,Poczatki byly trudne.
+1900-01-01 00:03:06,1900-01-01 00:03:08,"Ale mysle, ze wszedzie poczatki sa trudne.",But I think that beginnings are difficult everywhere.,resignation,sadness,mild,7,informal,neutral,sadness,"Ale mysle, że wszędzie poczatki są trudne."
+1900-01-01 00:03:09,1900-01-01 00:03:13,"Ciezko bylo im zrozumiec, na czym polega praca.",It was hard for them to understand what the job was about.,confusion,sadness,mild,8,informal,disgust,sadness,"Ciezko było im zrozumiec, na czym polega praca."
+1900-01-01 00:03:13,1900-01-01 00:03:15,"Pozniej ci pokaze, wycieraj.","I'll show you later, wipe.",impatience,anger,mild,4,informal,neutral,anger,"później ci pokaze, wycieraj."
+1900-01-01 00:03:17,1900-01-01 00:03:20,Dziewczyny mnie byly zainteresowane praca.,The girls were not interested in the job.,rejection,sadness,mild,5,informal,sadness,sadness,Dziewczyny mnie byly zainteresowane praca.
+1900-01-01 00:03:20,1900-01-01 00:03:24,"Bardziej tym, jak unikac tej pracy i jak tu sie schowac.",More about how to avoid this work and how to hide here.,avoidance,fear,moderate,11,informal,neutral,fear,"bardziej tym, jak unikac tej pracy i jak tu się schowac."
+1900-01-01 00:03:25,1900-01-01 00:03:28,"Nie umiem, nie, nie, chce mi sie chupac.","I can't, no, no, I want to suck.",frustration,sadness,moderate,8,informal,disgust,sadness,"nie umiem, nie, nie, chcę mi się chupac."
+1900-01-01 00:03:31,1900-01-01 00:03:33,"Panowie chca sie pobawic, chca sie napic,","The gentlemen want to have fun, they want to drink,",desire,happiness,mild,7,informal,happiness,happiness,"Panowie chca się pobawic, chca się napić,"
+1900-01-01 00:03:33,1900-01-01 00:03:35,"chca popudrywac dziewczyne,","they want to flirt with the girl,",desire,happiness,mild,3,informal,anger,happiness,"chca popudrywac dziewczyne,"
+1900-01-01 00:03:35,1900-01-01 00:03:37,"chca dobrze wypasc, chca sie pokazac.","they want to make a good impression, they want to show themselves off.",ambition,happiness,moderate,6,informal,neutral,happiness,"chca dobrze wypasc, chca się pokazac."
+1900-01-01 00:03:37,1900-01-01 00:03:39,Ale czy chca pracowac?,But do they want to work?,doubt,neutral,mild,4,informal,neutral,neutral,Ale czy chca pracowac?
+1900-01-01 00:03:39,1900-01-01 00:03:41,"No, ciezko im idzie praca.","Well, their work is going badly.",discouragement,sadness,mild,5,informal,disgust,sadness,"No, ciezko im idzie praca."
+1900-01-01 00:03:41,1900-01-01 00:03:43,"Ciezko, chociaz sie staraja.","It's hard, although they are trying.",struggle,sadness,moderate,4,informal,disgust,sadness,"Ciezko, chociaz się staraja."
+1900-01-01 00:03:44,1900-01-01 00:03:46,"Trypson dal sie poznac z dobrej strony,","Trypson showed himself in a good light,",approval,happiness,mild,7,informal,happiness,happiness,"Trypson dal się poznac z dobrej strony,"
+1900-01-01 00:03:46,1900-01-01 00:03:48,"bo nawet jezeli byly problemy z jakimis pracami,","because even if there were problems with some works,",resignation,sadness,mild,8,informal,neutral,sadness,"bo nawet jezeli byly problemy z jakimis pracami,"
+1900-01-01 00:03:48,1900-01-01 00:03:50,"to byl zainteresowany, byl chetny,","he was interested, he was willing,",interest,happiness,mild,5,informal,neutral,happiness,"to byl zainteresowany, byl chetny,"
+1900-01-01 00:03:50,1900-01-01 00:03:52,"zeby pomoc, zeby sie czegos nauczyc.","to help, to learn something.",motivation,neutral,mild,6,informal,neutral,neutral,"żeby pomoc, żeby się czegos nauczyc."
+1900-01-01 00:03:52,1900-01-01 00:03:56,"Mala Ania, mocno zainteresowana, ale nie praca.","Little Ania, very interested, but not in work.",curiosity,neutral,moderate,7,informal,sadness,neutral,"mała Ania, mocno zainteresowana, ale nie praca."
+1900-01-01 00:03:59,1900-01-01 00:04:02,"Wojtek potrafi zajac sie pracami,","Wojtek is able to take care of the tasks,",confidence,neutral,mild,5,informal,neutral,neutral,"Wojtek potrafi zajac się pracami,"
+1900-01-01 00:04:02,1900-01-01 00:04:04,jest w miare kreatywny.,he is fairly creative.,appreciation,happiness,mild,4,informal,happiness,happiness,jest w miare kreatywny.
+1900-01-01 00:04:05,1900-01-01 00:04:09,"Ewelina, najmlodsza uczestniczka tego programu,","Ewelina, the youngest participant of this program,",description,neutral,neutral,5,informal,disgust,neutral,"Eweliną, najmlodsza uczestniczka tego programu,"
+1900-01-01 00:04:09,1900-01-01 00:04:11,"moze dlatego ma duzy problem,","maybe that's why he has a big problem,",concern,sadness,moderate,5,informal,neutral,sadness,"może dlatego ma duzy problem,"
+1900-01-01 00:04:11,1900-01-01 00:04:13,"zeby zrozumiec, co to znaczy praca,","to understand what work means,",curiosity,neutral,mild,6,informal,neutral,neutral,"żeby zrozumiec, co to znaczy praca,"
+1900-01-01 00:04:13,1900-01-01 00:04:15,jak do pracy sie podchodzi.,how one approaches work.,curiosity,neutral,neutral,5,informal,neutral,neutral,jak do pracy się podchodzi.
+1900-01-01 00:04:16,1900-01-01 00:04:19,Pawel jest osoba mocno skoncentrowana na sobie.,Paweł is a person strongly focused on himself.,criticism,disgust,mild,7,informal,neutral,disgust,Paweł jest osoba mocno skoncentrowana na sobie.
+1900-01-01 00:04:19,1900-01-01 00:04:21,Juz pierwszego dnia dal sie poznac,"Already on the first day, he made himself known",curiosity,neutral,mild,6,informal,happiness,neutral,już pierwszego dnia dal się poznac
+1900-01-01 00:04:21,1900-01-01 00:04:23,"ze strony narcystycznej,","from the narcissistic side,",detachment,neutral,neutral,3,informal,neutral,neutral,"że strony narcystycznej,"
+1900-01-01 00:04:23,1900-01-01 00:04:25,"stanal w recepcji i pierwsze, co zrobil,","he stood at the reception and the first thing he did,",curiosity,neutral,neutral,7,informal,surprise,neutral,"stanal w recepcji i pierwsze, co zrobił,"
+1900-01-01 00:04:25,1900-01-01 00:04:27,to zdjal koszulke.,he took off his shirt.,indifference,neutral,neutral,3,informal,disgust,neutral,to zdjal koszulke.
+1900-01-01 00:04:29,1900-01-01 00:04:33,Prace wykonywal na poziomie podstawowym.,He performed the work at a basic level.,indifference,neutral,neutral,5,informal,neutral,neutral,Prace wykonywal na poziomie podstawowym.
+1900-01-01 00:04:35,1900-01-01 00:04:37,Smietana pracowal...,Śmietana worked...,anticipation,neutral,neutral,2,informal,neutral,neutral,Smietana pracowal...
+1900-01-01 00:04:37,1900-01-01 00:04:39,"No, pracowal.","No, he worked.",correction,neutral,neutral,2,informal,neutral,neutral,"No, pracowal."
+1900-01-01 00:04:41,1900-01-01 00:04:44,Eliza nie ma za bardzo celow w zyciu i pomyslow.,Eliza doesn't really have goals in life or ideas.,aimlessness,sadness,moderate,10,informal,neutral,sadness,Eliza nie ma za bardzo celow w zyciu i pomyslow.
+1900-01-01 00:04:44,1900-01-01 00:04:46,Pomyslu na siebie.,An idea for oneself.,uncertainty,sadness,mild,3,informal,neutral,sadness,Pomyslu na siebie.
+1900-01-01 00:04:46,1900-01-01 00:04:50,"Nie potrafi, moze nawet nie chce czegos sie nauczyc.","He can't, maybe he doesn't even want to learn something.",resignation,sadness,moderate,9,informal,neutral,sadness,"nie potrafi, może nawet nie chcę czegos się nauczyc."
+1900-01-01 00:04:50,1900-01-01 00:04:53,Najlepszym pracownikiem dla mnie byla Ania.,The best employee for me was Ania.,appreciation,happiness,mild,6,informal,happiness,happiness,Najlepszym pracownikiem dla mnie byla Ania.
+1900-01-01 00:04:53,1900-01-01 00:04:55,"Nie musze powiedziec, wysoka Ania.","I don't have to say, tall Ania.",indifference,neutral,neutral,5,informal,neutral,neutral,"nie musze powiedzieć, wysoka Ania."
+1900-01-01 00:04:55,1900-01-01 00:04:57,Dawala rade.,She managed.,resilience,happiness,mild,2,informal,neutral,happiness,Dawala rade.
+1900-01-01 00:04:57,1900-01-01 00:05:01,Dzieki ekipie poznalem nowa definicje pracy zespolowej.,"Thanks to the team, I learned a new definition of teamwork.",gratitude,happiness,mild,7,informal,neutral,happiness,Dzieki ekipie poznalem nowa definicje pracy zespolowej.
+1900-01-01 00:05:15,1900-01-01 00:05:18,"Ludzie, ktorzy zwyciezyli konkurs na Facebooku,","People who won the contest on Facebook,",anticipation,happiness,mild,6,informal,neutral,happiness,"Ludzie, ktorzy zwyciezyli konkurs na Facebooku,"
+1900-01-01 00:05:18,1900-01-01 00:05:20,dzisiaj nas odwiedza.,They will visit us today.,anticipation,happiness,mild,3,informal,neutral,happiness,dzisiaj nas odwiedza.
+1900-01-01 00:05:20,1900-01-01 00:05:23,"Pokazemy im, jak mieszkamy, poznaja nas lepiej.","We will show them how we live, they will get to know us better.",openness,happiness,mild,7,informal,neutral,happiness,"Pokazemy im, jak mieszkamy, poznaja nas lepiej."
+1900-01-01 00:05:23,1900-01-01 00:05:25,My poznamy ich.,We will recognize them.,certainty,neutral,neutral,3,informal,neutral,neutral,My poznamy ich.
+1900-01-01 00:05:29,1900-01-01 00:05:31,Pojawili sie tak nagle...,They appeared so suddenly...,startlement,surprise,moderate,4,informal,surprise,surprise,Pojawili się tak nagle...
+1900-01-01 00:05:31,1900-01-01 00:05:33,"Okej, to moze od pokoju Ani zaczniemy.","Okay, so maybe we'll start with Ania's room.",readiness,neutral,neutral,7,informal,neutral,neutral,"Okej, to może od pokoju Ani zaczniemy."
+1900-01-01 00:05:33,1900-01-01 00:05:35,"Fajne bytkamery, jak spia.","Nice baby monitors, when they sleep.",appreciation,happiness,mild,4,informal,neutral,happiness,"Fajne bytkamery, jak spia."
+1900-01-01 00:05:35,1900-01-01 00:05:37,"Tak, caly czas.","Yes, all the time.",resignation,sadness,mild,3,informal,neutral,sadness,"tak, caly czas."
+1900-01-01 00:05:37,1900-01-01 00:05:40,"Byli bardzo chetni na alkohol,","They were very eager for alcohol,",craving,happiness,moderate,5,informal,neutral,happiness,"Byli bardzo chetni na alkohol,"
+1900-01-01 00:05:40,1900-01-01 00:05:42,wiec ja to sie ucieszylam.,so I was happy about it.,pleasure,happiness,mild,5,informal,happiness,happiness,wiec ja to się ucieszylam.
+1900-01-01 00:05:42,1900-01-01 00:05:44,"Pija, pija, pija.","They drink, drink, drink.",resignation,sadness,moderate,3,informal,disgust,sadness,"Pija, pija, pija."
+1900-01-01 00:05:44,1900-01-01 00:05:46,"Ale mowie, jestem ciekawa, jak to sie skonczy.","But I say, I'm curious how this will end.",curiosity,neutral,mild,8,informal,surprise,neutral,"Ale mowie, jestem ciekawa, jak to się skonczy."
+1900-01-01 00:05:49,1900-01-01 00:05:51,Juz jest rozpierdol na chacie.,There's already chaos in the house.,chaos,anger,moderate,5,informal,neutral,anger,już jest rozpierdol na chacie.
+1900-01-01 00:05:53,1900-01-01 00:05:55,Dwoch kolegow sie zalalo strasznie.,Two friends got terribly drunk.,amusement,happiness,moderate,5,informal,disgust,happiness,Dwoch kolegow się zalalo strasznie.
+1900-01-01 00:05:58,1900-01-01 00:06:00,"A ten gosc jeden lezy na kanapie,","And this one guy is lying on the couch,",curiosity,neutral,neutral,7,informal,disgust,neutral,"A ten gosc jeden lezy na kanapie,"
+1900-01-01 00:06:00,1900-01-01 00:06:02,a my z Eliza zaczelismy go rozbierac.,and Eliza and I started to take it apart.,engagement,neutral,neutral,7,informal,anger,neutral,a my z Eliza zaczelismy go rozbierac.
+1900-01-01 00:06:02,1900-01-01 00:06:04,Musimy sciagnac spodnie.,We have to take off the pants.,resignation,neutral,neutral,3,informal,neutral,neutral,Musimy sciagnac spodnie.
+1900-01-01 00:06:04,1900-01-01 00:06:06,"A on nie, niby najebany,","And he, no, supposedly drunk,",skepticism,neutral,mild,5,informal,disgust,anger,"A on nie, niby najebany,"
+1900-01-01 00:06:06,1900-01-01 00:06:08,"ale ta reke, wiesz, chodzila mu,","but that hand, you know, it was moving for him,",concern,fear,mild,6,informal,neutral,fear,"ale tą reke, wiesz, chodzila mu,"
+1900-01-01 00:06:08,1900-01-01 00:06:10,zeby mu nie odpinac tych spodni.,so as not to unfasten his pants.,concern,fear,mild,6,informal,disgust,fear,żeby mu nie odpinac tych spodni.
+1900-01-01 00:06:13,1900-01-01 00:06:15,Ktos pomylil kibel z bidetem.,Someone confused the toilet with the bidet.,amusement,happiness,mild,5,informal,disgust,happiness,Ktos pomylil kibel z bidetem.
+1900-01-01 00:06:15,1900-01-01 00:06:17,Najszczal nam do bidetu.,He peed in our bidet.,annoyance,anger,moderate,4,informal,disgust,anger,Najszczal nam do bidetu.
+1900-01-01 00:06:17,1900-01-01 00:06:19,W sumie chlopakom.,"Actually, to the guys.",indifference,neutral,neutral,3,informal,neutral,neutral,W sumie chlopakom.
+1900-01-01 00:06:19,1900-01-01 00:06:22,"Ej, kurwa, studenciki, pojebalo was?","Hey, fuck, students, are you out of your minds?",contempt,anger,intense,5,informal,anger,anger,"Ej, kurwa, studenciki, pojebało was?"
+1900-01-01 00:06:22,1900-01-01 00:06:25,"Nie wiem, jak mozna pomylic kibel z bidetem.",I don't know how you can confuse a toilet with a bidet.,bewilderment,surprise,moderate,8,informal,surprise,surprise,"nie wiem, jak można pomylic kibel z bidetem."
+1900-01-01 00:06:25,1900-01-01 00:06:27,Nie ma to byc oproznione i wyczyscione.,It is not supposed to be emptied and cleaned.,insistence,neutral,neutral,7,informal,neutral,neutral,nie ma to byc oproznione i wyczyscione.
+1900-01-01 00:06:27,1900-01-01 00:06:30,Trybson zareagowal na to i kazal im sprzatac.,Trybson reacted to this and told them to clean up.,authority,anger,moderate,8,informal,anger,anger,Trybson zareagowal na to i kazal im sprzatac.
+1900-01-01 00:06:30,1900-01-01 00:06:31,Sprzatac?,Clean up?,reluctance,neutral,mild,1,informal,surprise,neutral,Sprzatac?
+1900-01-01 00:06:31,1900-01-01 00:06:33,"No dobra, w dupie to mamy.","Alright, we don't give a damn about it.",indifference,disgust,moderate,6,informal,anger,disgust,"No dobra, w dupie to mamy."
+1900-01-01 00:06:33,1900-01-01 00:06:35,Nie dziala masz tego sprzatac.,"It doesn't work, you have to clean it up.",irritation,anger,moderate,5,informal,sadness,anger,nie dziala masz tego sprzatac.
+1900-01-01 00:06:37,1900-01-01 00:06:39,"Widzisz, juz...","You see, already...",hesitation,neutral,mild,2,informal,neutral,neutral,"Widzisz, już..."
+1900-01-01 00:06:39,1900-01-01 00:06:40,Juz nie!,Not anymore!,defiance,anger,intense,2,informal,anger,anger,już nie!
+1900-01-01 00:06:40,1900-01-01 00:06:42,"Kurwa, nie denerwuj mnie, gosciu.","Fuck, don't annoy me, dude.",irritation,anger,moderate,5,informal,anger,anger,"kurwa, nie denerwuj mnie, gościu."
+1900-01-01 00:06:42,1900-01-01 00:06:44,Trzeba to spowalniac.,It needs to be slowed down.,concern,fear,mild,3,informal,neutral,fear,Trzeba to spowalniac.
+1900-01-01 00:06:44,1900-01-01 00:06:46,Spowalniac trzeba to?,Do we need to slow this down?,uncertainty,neutral,mild,3,informal,neutral,neutral,Spowalniac trzeba to?
+1900-01-01 00:06:46,1900-01-01 00:06:47,Trzeba.,It is necessary.,determination,neutral,neutral,1,informal,neutral,neutral,Trzeba.
+1900-01-01 00:06:47,1900-01-01 00:06:49,"Nie da sie, widzisz, ze sie nie da.","It can't be done, you see, it can't be done.",resignation,sadness,moderate,8,informal,anger,sadness,"nie da się, widzisz, że się nie da."
+1900-01-01 00:06:53,1900-01-01 00:06:55,"Kurwa, w lodu, zjebie lodu.","Fuck, in the ice, fuck up the ice.",frustration,anger,intense,5,informal,anger,anger,"kurwa, w lodu, zjebie lodu."
+1900-01-01 00:06:57,1900-01-01 00:06:58,"Kurwa, no nie da sie.","Fuck, it's just not possible.",frustration,anger,moderate,5,informal,anger,anger,"kurwa, no nie da się."
+1900-01-01 00:06:58,1900-01-01 00:06:59,A ty nasikajesz do bidetu?,And do you pee in the bidet?,curiosity,neutral,mild,5,informal,disgust,neutral,A ty nasikajesz do bidetu?
+1900-01-01 00:06:59,1900-01-01 00:07:00,Tak.,Yes.,agreement,neutral,neutral,1,informal,neutral,neutral,tak.
+1900-01-01 00:07:00,1900-01-01 00:07:02,"Ale jezeli tego nie otworzysz, to stad nie wyjdziesz.","But if you don't open this, you won't get out of here.",threat,fear,moderate,9,informal,neutral,fear,"Ale jezeli tego nie otworzysz, to stad nie wyjdziesz."
+1900-01-01 00:07:02,1900-01-01 00:07:04,"No i tyle, masz zrobic tak, zeby to zeszlo.","That's it, you have to do it so that it comes off.",impatience,anger,moderate,9,informal,neutral,anger,"No i tyle, masz zrobic tak, żeby to zeszlo."
+1900-01-01 00:07:04,1900-01-01 00:07:05,I mnie to nie interesuje.,And I'm not interested in that.,indifference,neutral,neutral,5,informal,neutral,neutral,I mnie to nie interesuje.
+1900-01-01 00:07:05,1900-01-01 00:07:06,Nie widzialas?,Didn't you see?,confusion,surprise,mild,2,informal,surprise,surprise,nie widzialas?
+1900-01-01 00:07:06,1900-01-01 00:07:08,"Ale ty jestes naszym gosciem, my to rozumiemy,","But you are our guest, we understand that,",consideration,neutral,mild,8,informal,neutral,neutral,"Ale ty jesteś naszym gosciem, my to rozumiemy,"
+1900-01-01 00:07:08,1900-01-01 00:07:10,"ale wiesz, bidet sluzy do podmywania...","but you know, a bidet is used for washing...",explanation,neutral,neutral,6,informal,neutral,neutral,"ale wiesz, bidet sluzy do podmywania..."
+1900-01-01 00:07:10,1900-01-01 00:07:11,Sisiak.,Sisiak.,neutrality,neutral,neutral,1,informal,neutral,neutral,Sisiak.
+1900-01-01 00:07:11,1900-01-01 00:07:12,"...dol, dolu, rozumiesz?","...down, down, do you understand?",confusion,neutral,mild,3,informal,neutral,neutral,"...dol, dolu, rozumiesz?"
+1900-01-01 00:07:12,1900-01-01 00:07:17,"Kobiety tam siadaja na tym, myja sobie myszke i jest fajnie.","Women sit on it there, wash their 'mouse', and it's nice.",amusement,happiness,mild,11,informal,neutral,happiness,"Kobiety tam siadaja na tym, myja sobie myszke i jest fajnie."
+1900-01-01 00:07:17,1900-01-01 00:07:18,Do tego sie nie sika.,You don't pee on that.,disapproval,disgust,moderate,5,informal,disgust,disgust,Do tego się nie sika.
+1900-01-01 00:07:18,1900-01-01 00:07:20,"Tu, tu, tu, tu, tu, tu.","Tu, tu, tu, tu, tu, tu.",neutrality,neutral,neutral,6,informal,neutral,neutral,"Tu, tu, tu, tu, tu, tu."
+1900-01-01 00:07:20,1900-01-01 00:07:22,"I kazda kropelke wszystko, co tam.","And every drop, everything that is there.",contemplation,neutral,neutral,6,informal,neutral,neutral,"I kazda kropelke wszystko, co tam."
+1900-01-01 00:07:22,1900-01-01 00:07:25,"Nie wiem, nie przygladam sie temu, bo to jest przeciez obrzydliwe, nie?","I don't know, I don't look at it, because it's disgusting, right?",aversion,disgust,moderate,12,informal,disgust,disgust,"nie wiem, nie przygladam się temu, bo to jest przeciez obrzydliwe, nie?"
+1900-01-01 00:07:27,1900-01-01 00:07:29,"Nawet nie wiem, kiedy pojechali, bo sie nie zorientowalam.","I don't even know when they left, because I didn't notice.",bewilderment,surprise,mild,9,informal,surprise,surprise,"nawet nie wiem, kiedy pojechali, bo się nie zorientowalam."
+1900-01-01 00:07:33.492993,1900-01-01 00:07:36.492993,Dostaly dwie dziewczyny u nas na noc.,Two girls stayed overnight at our place.,matter-of-factness,neutral,neutral,7,informal,neutral,neutral,Dostaly dwie dziewczyny u nas na noc.
+1900-01-01 00:07:37.492993,1900-01-01 00:07:39.492993,"Chcielismy, zeby cos tam sie dzialo, nie?","We wanted something to be happening there, right?",expectation,happiness,mild,7,informal,neutral,neutral,"Chcielismy, żeby cos tam się dzialo, nie?"
+1900-01-01 00:07:39.492993,1900-01-01 00:07:47.492993,"Zawsze tam przychodzi z pomyslem, ze upijemy Pawla, zeby sobie brzygnal kolezanke.",He always comes there with the idea that we'll get Paweł drunk so he can hit on a girl.,mischief,happiness,mild,12,informal,disgust,happiness,"Zawsze tam przychodzi z pomyslem, że upijemy Pawla, żeby sobie brzygnal kolezanke."
+1900-01-01 00:07:47.492993,1900-01-01 00:07:50.492993,"Chlopacy nalewali sobie wody, mu nalewali wodke.","The guys were pouring themselves water, but they were pouring him vodka.",injustice,anger,moderate,7,informal,disgust,anger,"Chlopacy nalewali sobie wody, mu nalewali wodke."
+1900-01-01 00:07:50.492993,1900-01-01 00:07:53.492993,"No nie wiem, o czym ty myslisz. Ja mi chodzilo o cos takiego.","Well, I don't know what you're thinking. I meant something like this.",confusion,surprise,mild,13,informal,surprise,surprise,"No nie wiem, o czym ty myslisz. Ja mi chodziło o cos takiego."
+1900-01-01 00:07:53.492993,1900-01-01 00:07:55.492993,"Zboczona, nie?","Perverted, right?",judgment,disgust,mild,2,informal,disgust,disgust,"Zboczona, nie?"
+1900-01-01 00:07:55.492993,1900-01-01 00:07:56.492993,"Ja mowie, nie slysze.","I speak, I do not hear.",frustration,sadness,mild,4,informal,disgust,sadness,"Ja mowie, nie slysze."
+1900-01-01 00:07:56.492993,1900-01-01 00:07:58.492993,"Nie slysze, nie slysze.","I can't hear, I can't hear.",frustration,anger,moderate,4,informal,sadness,anger,"nie slysze, nie slysze."
+1900-01-01 00:07:58.492993,1900-01-01 00:08:00.492993,"Dawaj, jeszcze jedno popij, to jedziemy.","Come on, have one more drink, then we'll go.",encouragement,neutral,mild,6,informal,neutral,neutral,"Dawaj, jeszcze jedno popij, to jedziemy."
+1900-01-01 00:08:00.492993,1900-01-01 00:08:02.492993,I wszyscy wrechta miedzy nami.,And everyone is interfering between us.,frustration,anger,moderate,5,informal,anger,anger,I wszyscy wrechta miedzy nami.
+1900-01-01 00:08:04.492993,1900-01-01 00:08:06.492993,Skore mial palic w garnku.,He was supposed to burn the skin in a pot.,disgust,disgust,moderate,5,informal,disgust,disgust,Skore mial palic w garnku.
+1900-01-01 00:08:06.492993,1900-01-01 00:08:08.492993,"Palic mi, daj, daj mi.","Light it for me, give, give it to me.",craving,happiness,intense,5,informal,neutral,happiness,"Palic mi, daj, daj mi."
+1900-01-01 00:08:08.492993,1900-01-01 00:08:10.492993,"Mial taki, kurwa, leb wczoraj do picia.",He had such a fucking head for drinking yesterday.,reminiscence,neutral,mild,7,informal,anger,anger,"Mial taki, kurwa, leb wczoraj do picia."
+1900-01-01 00:08:10.492993,1900-01-01 00:08:11.492993,Byli wkurzeni juz.,They were already pissed off.,irritation,anger,moderate,3,informal,anger,anger,Byli wkurzeni już.
+1900-01-01 00:08:11.492993,1900-01-01 00:08:14.492993,"I tyle sie wody opilem, ze sie uprucha, uprucha.","And I drank so much water that I'm about to burst, about to burst.",discomfort,disgust,moderate,9,informal,anger,disgust,"I tyle się wody opilem, że się uprucha, uprucha."
+1900-01-01 00:08:14.492993,1900-01-01 00:08:16.492993,"Oj, smietana, smietana.","Oh, cream, cream.",longing,sadness,mild,3,informal,neutral,sadness,"Oj, smietana, smietana."
+1900-01-01 00:08:17.492993,1900-01-01 00:08:19.492993,"Oj, smietana sie naklal.","Oh, the cream has curdled.",disappointment,sadness,mild,4,informal,neutral,sadness,"Oj, smietana się naklal."
+1900-01-01 00:08:19.492993,1900-01-01 00:08:24.492993,"Oj, smietana sie naklal, to beda jaja za chwile, Krzysiu, smietana sie naklal.","Oh, the cream has curdled, there will be a mess in a moment, Krzysiu, the cream has curdled.",apprehension,fear,mild,13,informal,neutral,fear,"Oj, smietana się naklal, to beda jaja za chwile, Krzysiu, smietana się naklal."
+1900-01-01 00:08:24.492993,1900-01-01 00:08:29.492993,"Oj, smietana sie naklal, to beda jaja za chwile, Krzysiu, smietana sie naklala.","Oh, the cream has curdled, there will be a mess in a moment, Krzysiu, the cream has curdled.",apprehension,fear,mild,13,informal,neutral,fear,"Oj, smietana się naklal, to beda jaja za chwile, Krzysiu, smietana się naklala."
+1900-01-01 00:08:29.492993,1900-01-01 00:08:31.492993,O tym wiemy doskonale.,We know this perfectly well.,certainty,neutral,neutral,4,informal,neutral,neutral,O tym wiemy doskonale.
+1900-01-01 00:08:31.492993,1900-01-01 00:08:33.492993,No i tak szkoda tego Pawla bylo.,"And still, it was a pity about Paweł.",pity,sadness,mild,7,informal,disgust,sadness,No i tak szkoda tego Pawla było.
+1900-01-01 00:08:33.492993,1900-01-01 00:08:35.492993,"Ej, Pawla, musisz sie mnie, nie chce pic.","Hey, Pawła, you have to let me go, I don't want to drink.",resistance,anger,moderate,8,informal,disgust,anger,"Ej, Pawla, musisz się mnie, nie chcę pic."
+1900-01-01 00:08:35.492993,1900-01-01 00:08:38.492993,"Ej, no trzeba, pijemy wszyscy, albo, kurwa, wkurzamy sie.","Hey, we have to, we all drink, or, fuck, we get pissed off.",irritation,anger,moderate,9,informal,anger,anger,"Ej, no trzeba, pijemy wszyscy, albo, kurwa, wkurzamy się."
+1900-01-01 00:08:41.492993,1900-01-01 00:08:44.492993,No i pozniej polozylismy sie rodzinnie w lozeczkach.,And then later we lay down together as a family in our beds.,contentment,happiness,mild,8,informal,neutral,happiness,No i później polozylismy się rodzinnie w lozeczkach.
+1900-01-01 00:08:44.492993,1900-01-01 00:08:48.492993,"Eliza z Trebsonem, mala z smietana.","Eliza with Trebson, a small one with cream.",contentment,neutral,neutral,6,informal,neutral,neutral,"Eliza z Trebsonem, mała z smietana."
+1900-01-01 00:08:49.492993,1900-01-01 00:08:50.492993,Idziesz zajarac?,Are you going to smoke?,curiosity,neutral,mild,2,informal,disgust,neutral,Idziesz zajarac?
+1900-01-01 00:08:50.492993,1900-01-01 00:08:52.492993,Ide.,I'm going.,determination,neutral,neutral,1,informal,neutral,neutral,Ide.
+1900-01-01 00:08:52.492993,1900-01-01 00:08:54.492993,To spij dzisiaj tutaj.,So sleep here tonight.,acceptance,neutral,neutral,4,informal,neutral,neutral,To spij dzisiaj tutaj.
+1900-01-01 00:08:54.492993,1900-01-01 00:08:55.492993,Dobrze.,Okay.,acceptance,neutral,neutral,1,informal,neutral,neutral,dobrze.
+1900-01-01 00:08:55.492993,1900-01-01 00:08:56.492993,"Dobrze, ja spie tutaj.","Alright, I'll sleep here.",acceptance,neutral,neutral,4,informal,neutral,neutral,"dobrze, ja spie tutaj."
+1900-01-01 00:08:56.492993,1900-01-01 00:08:57.492993,"Nie, ja tutaj spie.","No, I sleep here.",defensiveness,anger,mild,4,informal,neutral,anger,"nie, ja tutaj spie."
+1900-01-01 00:08:57.492993,1900-01-01 00:08:58.492993,"Ja tutaj, chyba spisz.","I'm here, I think you're sleeping.",loneliness,sadness,mild,4,informal,surprise,sadness,"Ja tutaj, chyba spisz."
+1900-01-01 00:08:58.492993,1900-01-01 00:08:59.492993,"Nie, ty tam spisz, tam.","No, you sleep there, there.",insistence,anger,mild,5,informal,neutral,anger,"nie, ty tam spisz, tam."
+1900-01-01 00:08:59.492993,1900-01-01 00:09:01.492993,"Chyba spisz, chyba spisz.","You must be sleeping, you must be sleeping.",resignation,sadness,mild,4,informal,neutral,sadness,"Chyba spisz, chyba spisz."
+1900-01-01 00:09:01.492993,1900-01-01 00:09:02.492993,Chyba spisz.,You must be sleeping.,assumption,neutral,neutral,2,informal,neutral,neutral,Chyba spisz.
+1900-01-01 00:09:02.492993,1900-01-01 00:09:05.492993,"No i mowie, Pawle, co ty w spodniach bedziesz spal?","And I say, Pawel, are you going to sleep in your pants?",bewilderment,surprise,mild,10,informal,surprise,surprise,"No i mowie, Pawle, co ty w spodniach bedziesz spal?"
+1900-01-01 00:09:05.492993,1900-01-01 00:09:07.492993,No i juz tu nie wejdziesz.,And you won't come in here anymore.,exclusion,anger,moderate,6,informal,anger,anger,No i już tu nie wejdziesz.
+1900-01-01 00:09:07.492993,1900-01-01 00:09:09.492993,"Mowi, chcesz jeszcze, zebym bez majtek spal?","He says, do you still want me to sleep without underwear?",teasing,happiness,mild,7,informal,neutral,neutral,"Mowi, chcesz jeszcze, żebym bez majtek spal?"
+1900-01-01 00:09:09.492993,1900-01-01 00:09:10.492993,No.,No.,rejection,anger,mild,1,informal,neutral,anger,No.
+1900-01-01 00:09:10.492993,1900-01-01 00:09:11.492993,Chcesz?,Do you want?,curiosity,neutral,mild,1,informal,surprise,neutral,Chcesz?
+1900-01-01 00:09:11.492993,1900-01-01 00:09:12.492993,No.,No.,rejection,anger,mild,1,informal,neutral,anger,No.
+1900-01-01 00:09:12.492993,1900-01-01 00:09:13.492993,Do obu ja.,I'll take both.,decisiveness,neutral,neutral,3,informal,neutral,neutral,Do obu ja.
+1900-01-01 00:09:13.492993,1900-01-01 00:09:14.492993,No dawaj.,Go ahead.,impatience,anger,mild,2,informal,neutral,anger,No dawaj.
+1900-01-01 00:09:14.492993,1900-01-01 00:09:15.492993,Bez karpetnika?,Without a carpet beetle?,confusion,surprise,mild,2,informal,surprise,surprise,bez karpetnika?
+1900-01-01 00:09:15.492993,1900-01-01 00:09:16.492993,"Pokaz, no.","Show me, come on.",curiosity,neutral,mild,2,informal,anger,neutral,"Pokaz, no."
+1900-01-01 00:09:16.492993,1900-01-01 00:09:17.492993,Pokaz.,Show.,expectation,neutral,neutral,1,informal,neutral,neutral,Pokaz.
+1900-01-01 00:09:17.492993,1900-01-01 00:09:18.492993,No zaraz zobaczymy.,"Well, we'll see in a moment.",expectation,neutral,mild,3,informal,neutral,neutral,No zaraz zobaczymy.
+1900-01-01 00:09:18.492993,1900-01-01 00:09:19.492993,"No, dawaj.","No, go ahead.",impatience,anger,mild,2,informal,anger,anger,"No, dawaj."
+1900-01-01 00:09:19.492993,1900-01-01 00:09:20.492993,Ja sie upuszcze.,I'm going to drop myself.,desperation,sadness,intense,3,informal,sadness,sadness,Ja się upuszcze.
+1900-01-01 00:09:23.492993,1900-01-01 00:09:25.492993,"Zjadl te gacie, polazyl sie.","He ate those underpants, he lay down.",bewilderment,surprise,moderate,5,informal,disgust,surprise,"Zjadl te gacie, polazyl się."
+1900-01-01 00:09:25.492993,1900-01-01 00:09:26.492993,A ja spierdolilam.,And I screwed up.,regret,sadness,moderate,3,informal,anger,anger,A ja spierdolilam.
+1900-01-01 00:09:30.492993,1900-01-01 00:09:36.492993,"Przykro mi bylo, bo to sa bardzo fajne dziewczyny i zostawilismy je w tym naszym, moim pokoju.","I felt sorry, because they are really nice girls and we left them in that our, my room.",remorse,sadness,moderate,17,formal,sadness,sadness,"przykro mi było, bo to są bardzo fajne dziewczyny i zostawilismy je w tym naszym, moim pokoju."
+1900-01-01 00:09:36.492993,1900-01-01 00:09:42.492993,"Pewnie jakbym miala wiecej sily i pewnie jakby na przyklad to bylo na poczatku, oni by przyjechali lub cos, to zapewne bym chlala z nimi do konca.","Probably if I had more strength and probably if, for example, it was at the beginning, they would have come or something, I would probably have drunk with them until the end.",regret,sadness,mild,27,informal,neutral,sadness,"Pewnie jakbym miala wiecej sily i pewnie jakby na przyklad to było na poczatku, oni by przyjechali lub cos, to zapewne bym chlala z nimi do konca."
+1900-01-01 00:09:43.492993,1900-01-01 00:09:46.492993,O szostej w noc pojechalam do szpitala.,At six at night I went to the hospital.,apprehension,fear,mild,7,informal,fear,fear,O szóstej w noc pojechalam do szpitala.
+1900-01-01 00:09:46.492993,1900-01-01 00:09:48.492993,Tak zajebiscie zle sie czulem.,I felt fucking awful.,misery,sadness,intense,5,informal,disgust,anger,tak zajebiście źle się czułem.
+1900-01-01 00:09:48.492993,1900-01-01 00:09:50.492993,Tak duzo pracujesz?,Do you work so much?,concern,sadness,mild,3,informal,surprise,surprise,tak duzo pracujesz?
+1900-01-01 00:09:50.492993,1900-01-01 00:09:52.492993,To jest moj maz.,This is my husband.,affection,happiness,mild,4,informal,neutral,happiness,To jest mój maz.
+1900-01-01 00:09:52.492993,1900-01-01 00:09:54.492993,Takze Wojtek nic nie powyrywal.,So Wojtek didn't tear anything out.,reassurance,neutral,neutral,5,informal,neutral,happiness,także Wojtek nic nie powyrywał.
+1900-01-01 00:09:54.492993,1900-01-01 00:10:01.492993,"Ludzie tam kurwa z Newcastle w ogole, gdzie wszyscy o nich trabia i tak dalej, przyjada nas poznac.","People there, fucking from Newcastle, where everyone is talking about them and so on, will come to meet us.",anticipation,surprise,moderate,18,informal,anger,anger,"Ludzie tam kurwa z Newcastle w ogóle, gdzie wszyscy o nich trabia i tak dalej, przyjada nas poznac."
+1900-01-01 00:10:01.492993,1900-01-01 00:10:03.492993,O szostej w noc pojechalam do szpitala.,At six at night I went to the hospital.,apprehension,fear,mild,7,informal,fear,fear,O szóstej w noc pojechalam do szpitala.
+1900-01-01 00:10:03.492993,1900-01-01 00:10:05.492993,Tak zajebiscie zle sie czulem.,I felt fucking awful.,misery,sadness,intense,5,informal,disgust,anger,tak zajebiście źle się czułem.
+1900-01-01 00:10:09.492993,1900-01-01 00:10:11.492993,Dopiero o godzinie dziewiatej wrocilem do domu.,I only returned home at nine o'clock.,resignation,sadness,mild,7,informal,neutral,sadness,Dopiero o godzinie dziewiatej wrocilem do domu.
+1900-01-01 00:10:11.492993,1900-01-01 00:10:13.492993,Wzialem lek i poszedlem spac.,I took the medicine and went to sleep.,resignation,neutral,neutral,5,informal,sadness,neutral,Wzialem lek i poszedlem spac.
+1900-01-01 00:10:21.492993,1900-01-01 00:10:23.492993,Wczoraj w noc pojechalem do szpitala.,Last night I went to the hospital.,concern,fear,moderate,6,informal,sadness,fear,Wczoraj w noc pojechałem do szpitala.
+1900-01-01 00:10:23.492993,1900-01-01 00:10:25.492993,Tak zajebiscie zle sie czulem.,I felt fucking awful.,misery,sadness,intense,5,informal,disgust,anger,tak zajebiście źle się czułem.
+1900-01-01 00:10:25.492993,1900-01-01 00:10:27.492993,Dopiero o godzinie dziewiatej wrocilem do domu.,I only returned home at nine o'clock.,resignation,sadness,mild,7,informal,neutral,sadness,Dopiero o godzinie dziewiatej wrocilem do domu.
+1900-01-01 00:10:27.492993,1900-01-01 00:10:29.492993,I wielu ludzi pomodlilo.,And many people prayed.,hope,happiness,mild,4,informal,neutral,happiness,I wielu ludzi pomodlilo.
+1900-01-01 00:10:29.492993,1900-01-01 00:10:31.492993,I wielu ludzi pomodlilo.,And many people prayed.,hope,happiness,mild,4,informal,neutral,happiness,I wielu ludzi pomodlilo.
+1900-01-01 00:10:37.492993,1900-01-01 00:10:39.492993,"Moj facet, ja nie ide nie?","My boyfriend, I'm not going, right?",reluctance,sadness,mild,6,informal,disgust,sadness,"mój facet, ja nie ide nie?"
+1900-01-01 00:10:39.492993,1900-01-01 00:10:41.492993,"Jak chcesz idz, ja nie moge.","If you want, go, I can't.",resignation,sadness,mild,6,informal,anger,sadness,"jak chcesz idz, ja nie moge."
+1900-01-01 00:10:42.492993,1900-01-01 00:10:44.492993,Musze dobic jeszcze mocniej.,I have to hit even harder.,determination,anger,moderate,4,informal,sadness,anger,Musze dobic jeszcze mocniej.
+1900-01-01 00:10:45.492993,1900-01-01 00:10:47.492993,Ja nie ide.,I'm not going.,reluctance,sadness,mild,3,informal,sadness,sadness,Ja nie ide.
+1900-01-01 00:10:47.492993,1900-01-01 00:10:50.492993,"Jestesmy chorzy, dosyc mocno, co po nas widac.","We are sick, quite badly, as you can see.",discomfort,sadness,moderate,8,informal,disgust,sadness,"jesteśmy chorzy, dosyc mocno, co po nas widac."
+1900-01-01 00:10:50.492993,1900-01-01 00:10:53.492993,"Widzialam, ze oboje dogrywaja, leza slabiej.","I saw that both of them are struggling, they're lying weaker.",concern,sadness,moderate,6,informal,neutral,sadness,"Widzialam, że oboje dogrywaja, leza slabiej."
+1900-01-01 00:10:53.492993,1900-01-01 00:10:55.492993,"Naprawde, byli mega zajebiscie chorzy.","Really, they were insanely, incredibly sick.",shock,surprise,intense,5,informal,disgust,anger,"naprawdę, byli mega zajebiście chorzy."
+1900-01-01 00:10:55.492993,1900-01-01 00:10:57.492993,"Czekasz jego sie popiesci, bo sam tam gowno zrobi.","You wait for him to pamper you, because he won't do shit himself.",resentment,anger,moderate,9,informal,neutral,anger,"Czekasz jego się popiesci, bo sam tam gowno zrobi."
+1900-01-01 00:10:57.492993,1900-01-01 00:11:01.492993,"Tak naprawde, i faceci to lubia, jak ktos sie nimi zajmuje.","In fact, men also like it when someone takes care of them.",appreciation,happiness,mild,11,informal,happiness,happiness,"tak naprawdę, i faceci to lubia, jak ktos się nimi zajmuje."
+1900-01-01 00:11:05.492993,1900-01-01 00:11:07.492993,Ania ugotowala dla nas rosol.,Ania cooked broth for us.,appreciation,happiness,mild,5,informal,disgust,happiness,Ania ugotowala dla nas rosol.
+1900-01-01 00:11:07.492993,1900-01-01 00:11:10.492993,"A nozke chcesz osobe na talerzyku, czy w rosole?","And do you want the leg, person, on a plate or in the broth?",curiosity,neutral,neutral,9,informal,neutral,neutral,"A nozke chcesz osobe na talerzyku, czy w rosole?"
+1900-01-01 00:11:10.492993,1900-01-01 00:11:12.492993,"Jak jakas zona, co najmniej.","Like some wife, at least.",resentment,anger,mild,5,informal,neutral,anger,"jak jakas zona, co najmniej."
+1900-01-01 00:11:12.492993,1900-01-01 00:11:15.492993,"Mowi, zaufaj mi Pawelku, bedzie dobrze.","She says, trust me Pawełek, it will be fine.",reassurance,happiness,mild,6,informal,neutral,happiness,"Mowi, zaufaj mi Pawelku, bedzie dobrze."
+1900-01-01 00:11:17.492993,1900-01-01 00:11:19.492993,"Musze wiedziec, ze to byl bardzo mily gest.",I need to know that it was a very nice gesture.,appreciation,happiness,mild,8,informal,neutral,happiness,"Musze wiedziec, że to byl bardzo mily gest."
+1900-01-01 00:11:19.492993,1900-01-01 00:11:22.492993,"Dzisiaj chce zostac, bo mam nadzieje, ze dzisiaj zostane.","Today I want to stay, because I hope that today I will stay.",hope,happiness,mild,9,informal,sadness,happiness,"dzisiaj chcę zostac, bo mam nadzieje, że dzisiaj zostane."
+1900-01-01 00:11:23.492993,1900-01-01 00:11:25.492993,"Poleze, wypocze sie, to jutro bedzie okej.","I'll lie down, rest, and tomorrow will be okay.",hope,happiness,mild,7,informal,neutral,happiness,"Poleze, wypocze się, to jutro bedzie okej."
+1900-01-01 00:11:25.492993,1900-01-01 00:11:27.492993,"Byli wdzieczni, ucieszyli sie, zjedli.","They were grateful, they were glad, they ate.",gratitude,happiness,mild,5,informal,happiness,happiness,"Byli wdzieczni, ucieszyli się, zjedli."
+1900-01-01 00:11:28.492993,1900-01-01 00:11:32.492993,"Sam Kataniu pozniej mowil, ze rzeczywiscie pomogl mu ten rosowek.",Sam Kataniu later said that indeed that earthworm helped him.,gratitude,happiness,mild,10,informal,neutral,happiness,"Sam Kataniu później mowil, że rzeczywiscie pomogl mu ten rosowek."
+1900-01-01 00:11:32.492993,1900-01-01 00:11:34.492993,Jak sie czujesz?,How are you feeling?,curiosity,neutral,neutral,3,informal,sadness,neutral,jak się czujesz?
+1900-01-01 00:11:34.492993,1900-01-01 00:11:36.492993,Najpiekniej niz w nocy.,More beautiful than at night.,admiration,happiness,mild,4,informal,fear,happiness,Najpiekniej niz w nocy.
+1900-01-01 00:11:37.492993,1900-01-01 00:11:40.492993,"A w nocy czules sie, jakby cale zycie ci przelecialo przed oczymi?",And at night did you feel as if your whole life flashed before your eyes?,reflection,surprise,moderate,12,informal,fear,surprise,"A w nocy czułeś się, jakby całe życie ci przeleciało przed oczymi?"
+1900-01-01 00:11:40.492993,1900-01-01 00:11:41.492993,No.,No.,rejection,anger,mild,1,informal,neutral,anger,No.
+1900-01-01 00:11:41.492993,1900-01-01 00:11:43.492993,Jezus Maria.,Jesus Mary.,shock,surprise,moderate,2,informal,neutral,surprise,Jezus Maria.
+1900-01-01 00:11:43.492993,1900-01-01 00:11:45.492993,"Zrobila to chyba szczerze, od sojuszka.","She probably did it sincerely, from an ally.",sincerity,happiness,mild,6,informal,neutral,happiness,"zrobiła to chyba szczerze, od sojuszka."
+1900-01-01 00:11:45.492993,1900-01-01 00:11:47.492993,No bo od razu mi to wszystko pomoglo.,Because all of this helped me right away.,relief,happiness,moderate,8,informal,happiness,happiness,No bo od razu mi to wszystko pomoglo.
+1900-01-01 00:11:47.492993,1900-01-01 00:11:49.492993,Od razu poczulem sie lepiej.,I immediately felt better.,relief,happiness,moderate,5,informal,happiness,happiness,Od razu poczulem się lepiej.
+1900-01-01 00:11:50.492993,1900-01-01 00:11:52.492993,"Zjedli, jeszcze zrobilam im herbaty.","They ate, I also made them some tea.",contentment,happiness,mild,5,informal,neutral,happiness,"Zjedli, jeszcze zrobilam im herbaty."
+1900-01-01 00:11:52.492993,1900-01-01 00:11:54.492993,"Czekaj, czekaj.","Wait, wait.",impatience,anger,mild,2,informal,neutral,anger,"Czekaj, czekaj."
+1900-01-01 00:11:54.492993,1900-01-01 00:11:56.492993,Ja ci to zrobie po mojemu.,I'll do it for you my way.,determination,neutral,moderate,6,informal,neutral,neutral,Ja ci to zrobie po mojemu.
+1900-01-01 00:11:56.492993,1900-01-01 00:11:57.492993,Co znaczy?,What does it mean?,curiosity,neutral,mild,2,informal,surprise,surprise,Co znaczy?
+1900-01-01 00:11:57.492993,1900-01-01 00:11:59.492993,Taki duzy dzban herbaty.,Such a big jug of tea.,wonder,surprise,mild,4,informal,disgust,surprise,Taki duzy dzban herbaty.
+1900-01-01 00:11:59.492993,1900-01-01 00:12:02.492993,Ja po tej herbacie chyba cukrzykiem zostane.,"After this tea, I think I'll become diabetic.",exaggeration,surprise,mild,7,informal,neutral,surprise,Ja po tej herbacie chyba cukrzykiem zostane.
+1900-01-01 00:12:02.492993,1900-01-01 00:12:05.492993,Takze dbala o mnie.,She also took care of me.,gratitude,happiness,mild,4,informal,happiness,happiness,także dbala o mnie.
+1900-01-01 00:12:05.492993,1900-01-01 00:12:07.492993,"To mi sie podoba, za co jej dziekuje.","I like it, for which I thank her.",gratitude,happiness,mild,8,informal,happiness,happiness,"To mi się podoba, za co jej dziekuje."
+1900-01-01 00:12:09.492993,1900-01-01 00:12:11.492993,Na pewno sie jakos tak poczulem lepiej.,I definitely somehow felt better.,relief,happiness,mild,7,informal,happiness,happiness,Na pewno się jakos tak poczulem lepiej.
+1900-01-01 00:12:11.492993,1900-01-01 00:12:13.492993,To bylo mile z Izona.,That was nice with Izona.,appreciation,happiness,mild,5,informal,happiness,happiness,To było miłe z Izona.
+1900-01-01 00:12:20.492993,1900-01-01 00:12:21.492993,"Siema, siema.","Hi, hi.",friendliness,happiness,mild,2,informal,neutral,happiness,"Siema, siema."
+1900-01-01 00:12:21.492993,1900-01-01 00:12:23.492993,"Siema, siema, siema, siema.","Hi, hi, hi, hi.",greeting,neutral,neutral,4,informal,neutral,neutral,"Siema, siema, siema, siema."
+1900-01-01 00:12:23.492993,1900-01-01 00:12:27.492993,Za wieczorkiem poszlismy do Hula Hula na nauke salsy.,In the evening we went to Hula Hula for salsa lessons.,interest,happiness,mild,9,informal,happiness,happiness,Za wieczorkiem poszlismy do Hula Hula na nauke salsy.
+1900-01-01 00:12:30.492993,1900-01-01 00:12:32.492993,Jestes nienormalny.,You are abnormal.,contempt,disgust,moderate,2,informal,neutral,disgust,jesteś nienormalny.
+1900-01-01 00:12:37.492993,1900-01-01 00:12:39.492993,"Troche Wojtek mnie wyciagnal na parkie dalej,","Wojtek kind of pulled me further onto the dance floor,",reluctance,neutral,mild,7,informal,neutral,neutral,"Troche Wojtek mnie wyciagnal na parkie dalej,"
+1900-01-01 00:12:39.492993,1900-01-01 00:12:41.492993,a ja wczoraj bylam taka troche przymulona.,and yesterday I was kind of sluggish.,lethargy,sadness,mild,7,informal,sadness,sadness,a ja wczoraj bylam taka troche przymulona.
+1900-01-01 00:12:42.492993,1900-01-01 00:12:45.492993,"Wojtek w ogole nie mial krokow zadnych, kompletnie.","Wojtek didn't have any steps at all, completely.",disappointment,sadness,moderate,8,informal,neutral,sadness,"Wojtek w ogóle nie mial krokow zadnych, kompletnie."
+1900-01-01 00:12:45.492993,1900-01-01 00:12:47.492993,Po prostu deptal mnie albo ja jego.,He was just stepping on me or I was stepping on him.,annoyance,anger,mild,7,informal,disgust,anger,Po prostu deptal mnie albo ja jego.
+1900-01-01 00:12:47.492993,1900-01-01 00:12:51.492993,A tez nie mialam za bardzo sily ani ochoty na takie rzeczy.,And I also didn't really have the strength or desire for such things.,apathy,sadness,mild,12,informal,neutral,sadness,A tez nie mialam za bardzo sily ani ochoty na takie rzeczy.
+1900-01-01 00:12:51.492993,1900-01-01 00:12:53.492993,"To podeszlam do tej calej tancerki i powiedzialam,","So I approached that whole dancer and said,",recollection,neutral,neutral,8,informal,neutral,neutral,"To podeszlam do tej calej tancerki i powiedzialam,"
+1900-01-01 00:12:53.492993,1900-01-01 00:12:56.492993,"wiesz co kolezanko, bo tutaj kolega nie potrafi sobie poradzic z krokami.","You know what, girlfriend, because our colleague here can't handle the steps.",condescension,disgust,mild,12,informal,disgust,disgust,"wiesz co kolezanko, bo tutaj kolega nie potrafi sobie poradzic z krokami."
+1900-01-01 00:12:56.492993,1900-01-01 00:12:58.492993,Moze bys go czegos nauczyla.,Maybe you could teach him something.,suggestion,neutral,mild,5,informal,neutral,neutral,może bys go czegos nauczyla.
+1900-01-01 00:13:00.492993,1900-01-01 00:13:05.492993,I zostawilam Wojtka w objeciach tej dziewczyny.,And I left Wojtek in the arms of that girl.,resignation,sadness,moderate,7,informal,disgust,sadness,I zostawilam Wojtka w objeciach tej dziewczyny.
+1900-01-01 00:13:10.492993,1900-01-01 00:13:12.492993,"A potem przyszedl Wojtek i powiedzial,","And then Wojtek came and said,",anticipation,neutral,mild,6,informal,neutral,neutral,"A potem przyszedl Wojtek i powiedział,"
+1900-01-01 00:13:12.492993,1900-01-01 00:13:14.492993,"ze ten ziomek, ktory z nia tanczyl, to jest jej maz.",that the guy who was dancing with her is her husband.,realization,surprise,mild,11,informal,disgust,surprise,"że ten ziomek, ktory z nią tanczyl, to jest jej maz."
+1900-01-01 00:13:14.492993,1900-01-01 00:13:16.492993,Tak duzo pracujesz?,Do you work so much?,concern,sadness,mild,3,informal,surprise,surprise,tak duzo pracujesz?
+1900-01-01 00:13:16.492993,1900-01-01 00:13:18.492993,To jest moj maz.,This is my husband.,affection,happiness,mild,4,informal,neutral,happiness,To jest mój maz.
+1900-01-01 00:13:22.492993,1900-01-01 00:13:25.492993,Takze Wojtek nic nie powyrywal.,So Wojtek didn't tear anything out.,relief,happiness,mild,5,informal,neutral,happiness,także Wojtek nic nie powyrywał.
+1900-01-01 00:13:27.492993,1900-01-01 00:13:30.492993,Chyba Ania sie tak najbardziej wczula w te salse.,I think Ania got the most into this salsa.,admiration,happiness,mild,9,informal,neutral,happiness,Chyba Ania się tak najbardziej wczula w te salse.
+1900-01-01 00:13:30.492993,1900-01-01 00:13:33.492993,"Z jakims kubanczykiem mowila, ze tanczyla i w ogole.","She was talking with some Cuban guy, saying that she danced and all that.",reminiscence,neutral,neutral,9,informal,neutral,neutral,"Z jakimś kubanczykiem mowila, że tanczyla i w ogóle."
+1900-01-01 00:13:36.492993,1900-01-01 00:13:39.492993,"Pyk, pyk, biederko, ciach, ciach, ciach.","Pyk, pyk, biederko, ciach, ciach, ciach.",playfulness,happiness,mild,6,informal,neutral,happiness,"Pyk, pyk, biederko, ciach, ciach, ciach."
+1900-01-01 00:13:40.492993,1900-01-01 00:13:43.492993,"Najbardziej, ze troche sie tez tam pogrzala,","Mostly, that she also got a bit heated there,",irritation,anger,mild,7,informal,neutral,anger,"Najbardziej, że troche się tez tam pogrzala,"
+1900-01-01 00:13:43.492993,1900-01-01 00:13:45.492993,tak ze salsa dla niej to byla...,so salsa for her was...,hesitation,neutral,neutral,7,informal,neutral,neutral,tak że salsa dla niej to byla...
+1900-01-01 00:13:45.492993,1900-01-01 00:13:48.492993,"Weszla tam i byla u siebie w domu, nie?","She went in there and felt at home, right?",comfort,happiness,mild,9,informal,happiness,happiness,"Weszla tam i byla u siebie w domu, nie?"
+1900-01-01 00:13:48.492993,1900-01-01 00:13:50.492993,"No, nie myslalam, ze tak sie schleje, kurwa.","Well, I didn't think I'd get so drunk, fuck.",regret,sadness,moderate,8,informal,disgust,anger,"No, nie myślałam, że tak się schleje, kurwa."
+1900-01-01 00:13:50.492993,1900-01-01 00:13:52.492993,I sie schlalam strasznie.,And I got terribly drunk.,regret,sadness,moderate,4,informal,fear,sadness,I się schlalam strasznie.
+1900-01-01 00:13:52.492993,1900-01-01 00:13:54.492993,"Sluchajcie, takze bedziemy teraz pili.","Listen, so now we will be drinking.",anticipation,happiness,mild,5,informal,neutral,happiness,"Sluchajcie, także bedziemy teraz pili."
+1900-01-01 00:13:56.492993,1900-01-01 00:13:58.492993,Z godzinka jeliza sie skonczylo.,"In about an hour, Jeliza was finished.",resignation,sadness,mild,5,informal,neutral,sadness,Z godzinka jeliza się skonczylo.
+1900-01-01 00:14:02.492993,1900-01-01 00:14:04.492993,"Przyszedl do nas Trybson i powiedzial,","Trybson came to us and said,",expectation,neutral,neutral,6,informal,neutral,neutral,"Przyszedl do nas Trybson i powiedział,"
+1900-01-01 00:14:04.492993,1900-01-01 00:14:06.492993,"ze ma dwie dziewczyny, ktore idzie z nim zaradac.",that he has two girls who are going with him to make money.,boasting,happiness,mild,9,informal,neutral,happiness,"że ma dwie dziewczyny, które idzie z nim zaradac."
+1900-01-01 00:14:06.492993,1900-01-01 00:14:09.492993,"No to tam poszlismy sobie na piecdziesiatke, napilismy sie,","So we went there for a shot, we had a drink,",reminiscence,neutral,neutral,9,informal,neutral,neutral,"No to tam poszlismy sobie na piecdziesiatke, napilismy się,"
+1900-01-01 00:14:09.492993,1900-01-01 00:14:12.492993,"wrocilismy na bilard, zrobimy sobie party i kiepek.","We came back to play billiards, we'll have a party and a snack.",anticipation,happiness,mild,8,informal,neutral,happiness,"wrocilismy na bilard, zrobimy sobie party i kiepek."
+1900-01-01 00:14:12.492993,1900-01-01 00:14:13.492993,To zachowalismy.,We kept it.,contentment,neutral,neutral,2,informal,neutral,neutral,To zachowalismy.
+1900-01-01 00:14:13.492993,1900-01-01 00:14:14.492993,Wygralem.,I won.,triumph,happiness,intense,1,informal,happiness,happiness,Wygralem.
+1900-01-01 00:14:14.492993,1900-01-01 00:14:15.492993,Wygrales.,You won.,triumph,happiness,moderate,1,informal,neutral,happiness,Wygrales.
+1900-01-01 00:14:15.492993,1900-01-01 00:14:16.492993,Zaczynacie.,You are starting.,anticipation,neutral,neutral,1,informal,neutral,neutral,Zaczynacie.
+1900-01-01 00:14:16.492993,1900-01-01 00:14:18.492993,"Ja juz wyczulem klimat, ze juz nic z tego nie bedzie,","I already sensed the vibe, that nothing will come of this,",resignation,sadness,moderate,11,informal,neutral,sadness,"Ja już wyczulem klimat, że już nic z tego nie bedzie,"
+1900-01-01 00:14:18.492993,1900-01-01 00:14:20.492993,jak sobie wycielem delikatnie za bioderko.,how I gently cut myself by the hip.,reminiscence,neutral,mild,6,informal,fear,neutral,jak sobie wycielem delikatnie za bioderko.
+1900-01-01 00:14:20.492993,1900-01-01 00:14:22.492993,Teraz bylo odstawienie reki.,Now there was a withdrawal of the hand.,observation,neutral,neutral,4,informal,neutral,neutral,Teraz było odstawienie reki.
+1900-01-01 00:14:24.492993,1900-01-01 00:14:27.492993,Po prostu dziewczyny nie byly konkretne i tyle.,"The girls just weren't specific, that's all.",disappointment,sadness,mild,8,informal,neutral,sadness,Po prostu dziewczyny nie byly konkretne i tyle.
+1900-01-01 00:14:28.492993,1900-01-01 00:14:30.492993,"Znaczy widzialam chwile smietane,","I mean, I saw the cream for a moment,",confusion,neutral,mild,4,informal,disgust,neutral,"Znaczy widzialam chwile smietane,"
+1900-01-01 00:14:30.492993,1900-01-01 00:14:32.492993,ze se tam dreptal nozkami.,that he was shuffling his feet there.,amusement,happiness,mild,5,informal,disgust,happiness,że se tam dreptal nozkami.
+1900-01-01 00:14:32.492993,1900-01-01 00:14:34.492993,"No smietana jakby nie patrzyc,","Well, sour cream no matter how you look at it,",resignation,neutral,mild,5,informal,disgust,neutral,"No smietana jakby nie patrzyc,"
+1900-01-01 00:14:34.492993,1900-01-01 00:14:37.492993,"a on kiedys mi w ogole powiedzial, ze wyloczyl ten lejsem.",and he once even told me that he turned it off with that lace.,recollection,neutral,neutral,11,informal,neutral,neutral,"a on kiedys mi w ogóle powiedział, że wyloczyl ten lejsem."
+1900-01-01 00:14:39.492993,1900-01-01 00:14:42.492993,"Po hulagu li pojechales pod te mety, tak?","After the party, did you go to those places, right?",curiosity,neutral,mild,8,informal,neutral,neutral,"Po hulagu li pojechales pod te mety, tak?"
+1900-01-01 00:14:42.492993,1900-01-01 00:14:43.492993,Jezdzmy.,Let's ride.,readiness,neutral,neutral,1,informal,neutral,neutral,Jezdzmy.
+1900-01-01 00:14:43.492993,1900-01-01 00:14:44.492993,Czesc.,Hello.,greeting,neutral,neutral,1,informal,neutral,neutral,Czesc.
+1900-01-01 00:14:44.492993,1900-01-01 00:14:46.492993,"Albo na to, albo na inny.","Either for this one, or for another one.",indecision,neutral,neutral,6,informal,neutral,neutral,"Albo na to, albo na inny."
+1900-01-01 00:14:52.492993,1900-01-01 00:14:55.492993,No po salcie to ja wrocilam sama praktycznie.,"Well, after the somersault, I practically came back by myself.",resignation,sadness,mild,8,informal,fear,sadness,No po salcie to ja wrocilam sama praktycznie.
+1900-01-01 00:14:55.492993,1900-01-01 00:14:57.492993,No i to bylo tak.,"So, it was like this.",recollection,neutral,neutral,5,informal,neutral,neutral,No i to było tak.
+1900-01-01 00:14:58.492993,1900-01-01 00:15:02.492993,"No po salcie to ja wrocilam sama praktycznie,","Well, after the somersault I practically came back by myself,",resignation,sadness,mild,8,informal,fear,sadness,"No po salcie to ja wrocilam sama praktycznie,"
+1900-01-01 00:15:02.492993,1900-01-01 00:15:05.492993,bo naprawde nie czulam sie dobrze.,because I really didn't feel well.,discomfort,sadness,moderate,6,informal,sadness,sadness,bo naprawdę nie czulam się dobrze.
+1900-01-01 00:15:05.492993,1900-01-01 00:15:06.492993,No opowiadaj.,"Come on, tell me.",curiosity,neutral,mild,2,informal,anger,neutral,No opowiadaj.
+1900-01-01 00:15:06.985986,1900-01-01 00:15:12.985986,"To chuj nie no, Trypsa kurwa ze smietana juz wyrwali jakies kurwa laski, nie wiadomo czy z nimi nie przyjada.","Well, fuck, Trypsa and the guys with the cream already picked up some fucking girls, it's not clear if they're coming with them.",frustration,anger,moderate,20,informal,disgust,anger,"To chuj nie no, Trypsa kurwa że smietana już wyrwali jakieś kurwa laski, nie wiadomo czy z nimi nie przyjada."
+1900-01-01 00:15:15.985986,1900-01-01 00:15:17.985986,Anka oczywiscie juz jest pijana i tam...,Anka is of course already drunk and there...,judgment,disgust,mild,7,informal,neutral,disgust,Anka oczywiście już jest pijana i tam...
+1900-01-01 00:15:19.985986,1900-01-01 00:15:24.985986,"I w ogole Wojtek ze mna caly czas siedzial, nie? Ale ja zamulona jestem, nie chcialam sie w chuj, nie?","And anyway, Wojtek was sitting with me the whole time, right? But I'm sluggish, I really didn't feel like it, you know?",apathy,sadness,moderate,20,informal,neutral,anger,"I w ogóle Wojtek że mna caly czas siedzial, nie? Ale ja zamulona jestem, nie chcialam się w chuj, nie?"
+1900-01-01 00:15:24.985986,1900-01-01 00:15:32.985986,"Ale jak juz zobaczylam ludzi, ktorych kocham i ktorzy tutaj ze mna sa, moje dwie myszki, to zaraz zwrocil mi w ogole humor.","But when I saw the people I love and who are here with me, my two little mice, my mood immediately improved.",relief,happiness,moderate,23,formal,happiness,happiness,"Ale jak już zobaczylam ludzi, ktorych kocham i ktorzy tutaj że mna są, moje dwie myszki, to zaraz zwrócił mi w ogóle humor."
+1900-01-01 00:15:32.985986,1900-01-01 00:15:37.985986,"Spedzilam wieczor na opowiadaniu sobie opowiesci dziwnych tresci, mam nadzieje, ze tego nie puscicie.","I spent the evening telling myself stories of strange content, I hope you won't let this slip.",apprehension,fear,mild,14,informal,surprise,surprise,"Spedzilam wieczor na opowiadaniu sobie opowiesci dziwnych treści, mam nadzieje, że tego nie puscicie."
+1900-01-01 00:15:38.985986,1900-01-01 00:15:44.985986,"A wiecie co kiedys zrobilam? Wsiadalam do autobusu, ogolnie mialam goraczke, spoznilam sie w chuj, nie?","And do you know what I once did? I was getting on the bus, I had a fever in general, I was really fucking late, right?",frustration,anger,moderate,16,informal,anger,anger,"A wiecie co kiedys zrobilam? Wsiadalam do autobusu, ogólnie mialam goraczke, spoznilam się w chuj, nie?"
+1900-01-01 00:15:44.985986,1900-01-01 00:15:49.985986,"I biegne, biegne, wybiegam z ulicy, a patrze, autobus jedzie, nie? Tutaj, tak biegne.","And I run, I run, I run out of the street, and I look, the bus is coming, right? Here, I'm running like this.",urgency,fear,moderate,14,informal,fear,fear,"I biegne, biegne, wybiegam z ulicy, a patrze, autobus jedzie, nie? tutaj, tak biegne."
+1900-01-01 00:15:49.985986,1900-01-01 00:15:52.985986,"Ale biegne, patrze, zatrzymal sie dla mnie specjalnie, nie?","But I'm running, I look, he stopped just for me, right?",gratitude,happiness,mild,9,informal,anger,happiness,"Ale biegne, patrze, zatrzymal się dla mnie specjalnie, nie?"
+1900-01-01 00:15:52.985986,1900-01-01 00:15:58.985986,"Wchodze do tego autobusu, wchodze po tych schodach, takie sa schody do tych PKS-u, nie?","I get on this bus, I go up these stairs, there are these stairs to the PKS, right?",recollection,neutral,neutral,15,informal,neutral,neutral,"Wchodze do tego autobusu, wchodze po tych schodach, takie są schody do tych PKS-u, nie?"
+1900-01-01 00:15:58.985986,1900-01-01 00:16:03.985986,"I mowie, poprosze, a on odjechal, a ja jestem tutaj.","And I say, please, and he drove away, and I am here.",abandonment,sadness,moderate,10,informal,neutral,sadness,"I mowie, poprosze, a on odjechal, a ja jestem tutaj."
+1900-01-01 00:16:03.985986,1900-01-01 00:16:07.985986,"Przewrocilam sie tak strasznie, ze jak sie idzie, sa te miejsca w siedzeniach, nie?","I fell down so badly, you know when you walk, there are those spots in the seats, right?",embarrassment,sadness,moderate,14,informal,sadness,sadness,"Przewrocilam się tak strasznie, że jak się idzie, są te miejsca w siedzeniach, nie?"
+1900-01-01 00:16:07.985986,1900-01-01 00:16:09.985986,"Tu sa siedzenia, a tu sie idzie, nie?","Here are the seats, and here you walk, right?",clarification,neutral,neutral,8,informal,neutral,neutral,"Tu są siedzenia, a tu się idzie, nie?"
+1900-01-01 00:16:09.985986,1900-01-01 00:16:11.985986,To sie przewrocilam tak.,So I fell over like this.,embarrassment,sadness,mild,4,informal,neutral,sadness,To się przewrocilam tak.
+1900-01-01 00:16:11.985986,1900-01-01 00:16:17.985986,"Ja bym caly autobus, bo to bylo po feriach, tych moich znajomych i wszyscy w smiech, a ja leze.","I would (have) the whole bus, because it was after the holidays, with my friends and everyone is laughing, and I'm lying down.",embarrassment,sadness,moderate,19,informal,neutral,sadness,"Ja bym caly autobus, bo to było po feriach, tych moich znajomych i wszyscy w smiech, a ja leze."
+1900-01-01 00:16:17.985986,1900-01-01 00:16:18.985986,I leze.,And I am lying down.,resignation,neutral,neutral,2,informal,anger,neutral,I leze.
+1900-01-01 00:16:18.985986,1900-01-01 00:16:24.985986,"Bo my mamy swoja faze, my to czujemy, my kurwa smiejemy sie, wczoraj sie smialysmy, ze jak wrocimy do domu,","Because we have our own vibe, we feel it, we fucking laugh, yesterday we laughed that when we get home,",amusement,happiness,moderate,20,informal,happiness,happiness,"Bo my mamy swoja faze, my to czujemy, my kurwa smiejemy się, wczoraj się smialysmy, że jak wrocimy do domu,"
+1900-01-01 00:16:25.985986,1900-01-01 00:16:27.985986,"no bedzie glupio tak, nie? Wsiasc do tramwaju.","it will be stupid like that, right? To get on the tram.",embarrassment,sadness,mild,8,informal,anger,sadness,"no bedzie głupio tak, nie? Wsiasc do tramwaju."
+1900-01-01 00:16:27.985986,1900-01-01 00:16:31.985986,"Wiesz, normalnie, wiesz, wsiadasz do tramwaju z taka lipa, nie?","You know, normally, you know, you get on the tram with such a bummer, right?",resignation,sadness,mild,10,informal,neutral,neutral,"wiesz, normalnie, wiesz, wsiadasz do tramwaju z taka lipa, nie?"
+1900-01-01 00:16:31.985986,1900-01-01 00:16:37.985986,"Wiesz, tu ekipa z Warszawy w ogole, kurwa, ostro, sesje zdjeciowe do nas, a wsiadasz do tramwaju, wiesz, i jedziesz.","You know, here the crew from Warsaw, like, damn, it's intense, photo shoots for us, and you get on the tram, you know, and you go.",bewilderment,surprise,moderate,20,informal,anger,anger,"wiesz, tu ekipą z Warszawy w ogóle, kurwa, ostro, sesje zdjeciowe do nas, a wsiadasz do tramwaju, wiesz, i jedziesz."
+1900-01-01 00:16:38.985986,1900-01-01 00:16:40.985986,Ja bym chciala jezdzic puchami.,I would like to ride in the fluffies.,wishfulness,happiness,mild,5,informal,happiness,happiness,Ja bym chciala jezdzic puchami.
+1900-01-01 00:16:40.985986,1900-01-01 00:16:42.985986,"Ja bym sie tak chujowo czula, bo ludzie beda...","I would feel so shitty, because people will...",dread,fear,moderate,9,informal,sadness,anger,"Ja bym się tak chujowo czula, bo ludzie beda..."
+1900-01-01 00:16:44.985986,1900-01-01 00:16:45.985986,"Ja bede siedziala, a oni wszyscy...","I will be sitting, and they all...",resignation,sadness,mild,6,informal,neutral,sadness,"Ja bede siedziala, a oni wszyscy..."
+1900-01-01 00:16:46.985986,1900-01-01 00:16:52.985986,"I po nich slyszales, pojechala, to jedzie puchom, a byla w programie w Warszawie.","And after them you heard, she left, so she's going by train, and she was on a show in Warsaw.",recollection,neutral,neutral,14,informal,neutral,neutral,"I po nich slyszales, pojechala, to jedzie puchom, a byla w programie w Warszawie."
+1900-01-01 00:16:52.985986,1900-01-01 00:16:57.985986,"I dojdzie dla mnie taka szydera i kurwa, wiesz, i tak sobie napierdalasz.","And then I get this kind of mockery and fuck, you know, and you just keep going like that.",resentment,anger,moderate,13,informal,anger,anger,"I dojdzie dla mnie taka szydera i kurwa, wiesz, i tak sobie napierdalasz."
+1900-01-01 00:16:57.985986,1900-01-01 00:17:02.985986,"No i smialysmy sie z Eliza wczoraj, ze kurwa, ze tak, cisniemy sobie, nie?","And we laughed with Eliza yesterday, like, fuck, yeah, we tease each other, right?",amusement,happiness,moderate,14,informal,happiness,happiness,"No i smialysmy się z Eliza wczoraj, że kurwa, że tak, cisniemy sobie, nie?"
+1900-01-01 00:17:02.985986,1900-01-01 00:17:06.985986,"Tramwajem bedziemy sobie zapierdalac, jak wrocimy do domu i bedziemy sie obijac o ludzi.",We'll be fucking riding the tram when we get home and bumping into people.,impatience,anger,moderate,14,informal,anger,anger,"Tramwajem bedziemy sobie zapierdalac, jak wrocimy do domu i bedziemy się obijac o ludzi."
+1900-01-01 00:17:06.985986,1900-01-01 00:17:07.985986,"Przepraszam, przepraszam.","I'm sorry, I'm sorry.",remorse,sadness,moderate,2,informal,sadness,sadness,"przepraszam, przepraszam."
+1900-01-01 00:17:12.985986,1900-01-01 00:17:14.985986,Ale gorsza taka prawda.,But such a truth is worse.,resignation,sadness,moderate,4,informal,disgust,sadness,Ale gorsza taka prawda.
+1900-01-01 00:17:14.985986,1900-01-01 00:17:20.985986,"Bo w autobusie, w Warszawie, jak doda gazu, to jedziesz tak, a jak hamuje, to tak.","Because on the bus, in Warsaw, when the driver accelerates, you go like this, and when he brakes, you go like that.",resignation,neutral,neutral,16,informal,neutral,neutral,"Bo w autobusie, w Warszawie, jak doda gazu, to jedziesz tak, a jak hamuje, to tak."
+1900-01-01 00:17:20.985986,1900-01-01 00:17:21.985986,I wszyscy tak samo robia.,And everyone does the same.,resignation,sadness,mild,5,informal,neutral,sadness,I wszyscy tak samo robia.
+1900-01-01 00:17:21.985986,1900-01-01 00:17:22.985986,I to jest takie fajne.,And this is so cool.,appreciation,happiness,mild,5,informal,happiness,happiness,I to jest takie fajne.
+1900-01-01 00:17:23.985986,1900-01-01 00:17:25.985986,"Ej, no mi to byc tak glupio.","Hey, it's not supposed to be so stupid for me.",embarrassment,sadness,moderate,7,informal,disgust,sadness,"Ej, no mi to byc tak głupio."
+1900-01-01 00:17:34.985986,1900-01-01 00:17:40.985986,W tym meczu wlasnie dopilam sie i chwile gdzies tam sie pobawilismy.,"In this match, I just finished my drink and we had some fun somewhere for a while.",contentment,happiness,mild,12,informal,happiness,happiness,W tym meczu właśnie dopilam się i chwile gdzies tam się pobawilismy.
+1900-01-01 00:17:41.985986,1900-01-01 00:17:47.985986,"Nieudany balet, nieudany balet, nieudany to byl balet.","Unsuccessful ballet, unsuccessful ballet, it was an unsuccessful ballet.",disappointment,sadness,moderate,8,informal,sadness,sadness,"Nieudany balet, nieudany balet, nieudany to byl balet."
+1900-01-01 00:17:47.985986,1900-01-01 00:17:48.985986,Juz?,Already?,impatience,surprise,mild,1,informal,surprise,surprise,już?
+1900-01-01 00:17:48.985986,1900-01-01 00:17:49.985986,Juz.,Already.,impatience,neutral,mild,1,informal,neutral,neutral,już.
+1900-01-01 00:18:11.985986,1900-01-01 00:18:12.985986,Dzien dobry!,Good morning!,greeting,neutral,neutral,2,informal,happiness,happiness,Dzien dobry!
+1900-01-01 00:18:14.985986,1900-01-01 00:18:16.985986,Mam dla Was bardzo dobre wiesci tak naprawde.,I actually have very good news for you.,optimism,happiness,moderate,8,informal,happiness,happiness,Mam dla Was bardzo dobre wiesci tak naprawdę.
+1900-01-01 00:18:17.985986,1900-01-01 00:18:21.985986,"Dostalismy informacje, ze we wtorek o dzien dwudziestej bedziemy mieli gosci.",We received information that on Tuesday at 8 p.m. we will have guests.,expectation,surprise,mild,11,informal,neutral,surprise,"Dostalismy informacje, że we wtorek o dzien dwudziestej bedziemy mieli gosci."
+1900-01-01 00:18:21.985986,1900-01-01 00:18:27.985986,"I jestem mega bardzo szczesliwa, poniewaz sa to czlonkowie Egyptu Castle.","And I am super very happy, because these are the members of Egypt Castle.",joy,happiness,intense,11,informal,happiness,happiness,"I jestem mega bardzo szczesliwa, poniewaz są to czlonkowie Egyptu Castle."
+1900-01-01 00:18:28.985986,1900-01-01 00:18:34.985986,"Ludzie tam kurwa z Newcastle w ogole, gdzie wszyscy o nich trabia i tak dalej, przyjada nas poznac.","People there, fucking from Newcastle, where everyone is talking about them and so on, will come to meet us.",anticipation,surprise,moderate,18,informal,anger,anger,"Ludzie tam kurwa z Newcastle w ogóle, gdzie wszyscy o nich trabia i tak dalej, przyjada nas poznac."
+1900-01-01 00:18:34.985986,1900-01-01 00:18:38.985986,"Wszyscy bylismy niesamowicie ciekawi, jak oni wygladaja i jak sa naprawde.",We were all incredibly curious about what they look like and what they are really like.,curiosity,surprise,intense,11,informal,surprise,surprise,"wszyscy bylismy niesamowicie ciekawi, jak oni wygladaja i jak są naprawdę."
+1900-01-01 00:18:38.985986,1900-01-01 00:18:40.985986,"Ciekawe kto przyjedzie teraz, nie?","I wonder who will come now, right?",curiosity,surprise,mild,5,informal,surprise,neutral,"Ciekawe kto przyjedzie teraz, nie?"
+1900-01-01 00:18:40.985986,1900-01-01 00:18:42.985986,"Chcialam, zeby gaz i szary przyjechali.",I wanted gas and gray to come.,longing,sadness,mild,6,informal,sadness,sadness,"Chcialam, żeby gaz i szary przyjechali."
+1900-01-01 00:18:42.985986,1900-01-01 00:18:44.985986,"Bardziej bym wolala, zeby to bylo wczoraj.",I would have preferred it to be yesterday.,regret,sadness,mild,7,informal,neutral,sadness,"bardziej bym wolala, żeby to było wczoraj."
+1900-01-01 00:18:44.985986,1900-01-01 00:18:45.985986,Wczoraj to bylo wczoraj.,Yesterday was yesterday.,acceptance,neutral,neutral,4,informal,neutral,neutral,Wczoraj to było wczoraj.
+1900-01-01 00:18:45.985986,1900-01-01 00:18:46.985986,Wczoraj to bylo wczoraj.,Yesterday was yesterday.,acceptance,neutral,neutral,4,informal,neutral,neutral,Wczoraj to było wczoraj.
+1900-01-01 00:18:46.985986,1900-01-01 00:18:47.985986,Wczoraj to bylo wczoraj.,Yesterday was yesterday.,acceptance,neutral,neutral,4,informal,neutral,neutral,Wczoraj to było wczoraj.
+1900-01-01 00:18:47.985986,1900-01-01 00:18:48.985986,Wczoraj to bylo wczoraj.,Yesterday was yesterday.,acceptance,neutral,neutral,4,informal,neutral,neutral,Wczoraj to było wczoraj.
+1900-01-01 00:18:48.985986,1900-01-01 00:18:49.985986,Wczoraj to bylo wczoraj.,Yesterday was yesterday.,acceptance,neutral,neutral,4,informal,neutral,neutral,Wczoraj to było wczoraj.
+1900-01-01 00:18:49.985986,1900-01-01 00:18:50.985986,Wczoraj to bylo wczoraj.,Yesterday was yesterday.,acceptance,neutral,neutral,4,informal,neutral,neutral,Wczoraj to było wczoraj.
+1900-01-01 00:18:50.985986,1900-01-01 00:18:51.985986,Wczoraj to bylo wczoraj.,Yesterday was yesterday.,acceptance,neutral,neutral,4,informal,neutral,neutral,Wczoraj to było wczoraj.
+1900-01-01 00:18:51.985986,1900-01-01 00:18:52.985986,Wczoraj to bylo wczoraj.,Yesterday was yesterday.,acceptance,neutral,neutral,4,informal,neutral,neutral,Wczoraj to było wczoraj.
+1900-01-01 00:18:52.985986,1900-01-01 00:18:54.985986,"Ciekawe kto przyjedzie teraz, nie?","I wonder who will come now, right?",curiosity,neutral,mild,5,informal,surprise,neutral,"Ciekawe kto przyjedzie teraz, nie?"
+1900-01-01 00:18:54.985986,1900-01-01 00:18:56.985986,"Chcialam, zeby gaz i szary przyjechali.",I wanted gas and gray to come.,longing,sadness,mild,6,informal,sadness,sadness,"Chcialam, żeby gaz i szary przyjechali."
+1900-01-01 00:18:56.985986,1900-01-01 00:18:59.985986,"Bardziej bym wolala gaza na przyklad, jakby tutaj przyjechal.","I would rather have gas, for example, if it came here.",preference,neutral,mild,9,informal,neutral,neutral,"bardziej bym wolala gaza na przyklad, jakby tutaj przyjechal."
+1900-01-01 00:18:59.985986,1900-01-01 00:19:02.985986,"Nie, ja chcialem, zeby przyjechal gaz i Scott wlasnie.","No, I wanted the gas and Scott to come, actually.",expectation,neutral,mild,9,informal,neutral,neutral,"nie, ja chciałem, żeby przyjechal gaz i Scott właśnie."
+1900-01-01 00:19:02.985986,1900-01-01 00:19:03.985986,Chyba Scott by byl na drugim miejscu.,Probably Scott would be in second place.,speculation,neutral,mild,7,informal,neutral,neutral,Chyba Scott by byl na drugim miejscu.
+1900-01-01 00:19:03.985986,1900-01-01 00:19:08.985986,"Ogolnie nie jest, naprawde nie jest brzydki, ale tez tak jakos mnie nie imponuje strasznie jego wyglad, charakter.","Overall, he's not, really not ugly, but somehow his looks and character don't impress me much either.",indifference,neutral,mild,18,informal,disgust,disgust,"ogólnie nie jest, naprawdę nie jest brzydki, ale tez tak jakos mnie nie imponuje strasznie jego wyglad, charakter."
+1900-01-01 00:19:08.985986,1900-01-01 00:19:14.985986,"Najbardziej z tych facetow wszystkich, ktorzy tam ogolnie byli w calej tej ekipie, to podoba mi sie Jay.","Of all those guys, who were generally there in the whole crew, I like Jay the most.",preference,happiness,mild,18,formal,happiness,happiness,"Najbardziej z tych facetow wszystkich, ktorzy tam ogólnie byli w calej tej ekipie, to podoba mi się Jay."
+1900-01-01 00:19:14.985986,1900-01-01 00:19:16.985986,"Ze wszystkiego, z twarzy i z wygladu.","From everything, from the face and from the appearance.",insecurity,sadness,moderate,7,informal,neutral,sadness,"że wszystkiego, z twarzy i z wygladu."
+1900-01-01 00:19:17.985986,1900-01-01 00:19:25.985986,"A jezeli chodzi o sama twarz ekipy, pozniej jak juz oni podchodzili, ktos dochodzi i tak dalej, to gaz byl najladniejszy.","And as for the team's face itself, later when they were already approaching, someone was coming up and so on, the gas was the nicest.",appreciation,happiness,mild,21,formal,neutral,happiness,"A jezeli chodzi o sama twarz ekipy, później jak już oni podchodzili, ktos dochodzi i tak dalej, to gaz byl najladniejszy."
+1900-01-01 00:19:25.985986,1900-01-01 00:19:26.985986,Ale gazu mi sie podoba.,But I like the gas.,liking,happiness,mild,5,informal,happiness,happiness,Ale gazu mi się podoba.
+1900-01-01 00:19:26.985986,1900-01-01 00:19:28.985986,"Ale gaz akurat jest przy sobie u facetow, tak?","But gas is actually kept on hand by men, right?",curiosity,neutral,mild,9,informal,neutral,neutral,"Ale gaz akurat jest przy sobie u facetow, tak?"
+1900-01-01 00:19:28.985986,1900-01-01 00:19:29.985986,Mhm.,Mhm.,indifference,neutral,neutral,1,informal,neutral,neutral,Mhm.
+1900-01-01 00:19:29.985986,1900-01-01 00:19:31.985986,Ale mimo wszystko by sie z nim przyspala.,"But despite everything, she would still sleep with him.",desire,happiness,mild,8,informal,disgust,happiness,Ale mimo wszystko by się z nim przyspala.
+1900-01-01 00:19:31.985986,1900-01-01 00:19:35.985986,"Chociaz Jay, tylko ze on se potem odszedl.","Although Jay, only he left afterwards.",resignation,sadness,mild,8,informal,neutral,sadness,"Chociaz Jay, tylko że on se potem odszedl."
+1900-01-01 00:19:36.985986,1900-01-01 00:19:38.985986,Na tam jakas dupe wyrwalil gaz.,"Over there, some chick got snatched by gas.",shock,surprise,moderate,6,informal,disgust,surprise,Na tam jakas dupe wyrwalil gaz.
+1900-01-01 00:19:38.985986,1900-01-01 00:19:40.985986,"Bo jakby tu przyjechal, to by zostal moim mezem.","Because if he came here, he would become my husband.",longing,sadness,mild,9,informal,neutral,sadness,"Bo jakby tu przyjechal, to by zostal moim mezem."
+1900-01-01 00:19:40.985986,1900-01-01 00:19:45.985986,"Ale, ale lubie Holly, bo jest taka smieszna wariatka.","But, but I like Holly because she's such a funny crazy girl.",fondness,happiness,mild,9,informal,happiness,happiness,"Ale, ale lubie Holly, bo jest taka smieszna wariatka."
+1900-01-01 00:19:46.985986,1900-01-01 00:19:53.985986,"Jest ladna, wyrywa kosci na imprezach.","She is pretty, she picks up guys at parties.",admiration,happiness,mild,6,informal,neutral,happiness,"jest ładna, wyrywa kosci na imprezach."
+1900-01-01 00:19:56.985986,1900-01-01 00:20:00.985986,"Tez uwazam, tak jak ona, ze James jest najladniejszy z tego domu z chlopakow.","I also think, like her, that James is the most handsome of the boys in this house.",admiration,happiness,mild,14,informal,neutral,happiness,"Tez uwazam, tak jak ona, że James jest najladniejszy z tego domu z chlopakow."
+1900-01-01 00:20:04.985986,1900-01-01 00:20:07.985986,"Bardziej bym byla jeszcze zajarana, gdybym umiala z nimi porozmawiac.",I would be even more excited if I could talk to them.,excitement,happiness,moderate,10,informal,happiness,happiness,"bardziej bym byla jeszcze zajarana, gdybym umiala z nimi porozmawiać."
+1900-01-01 00:20:07.985986,1900-01-01 00:20:12.985986,"Bo to, ze ja im powiem, hello, drink, maybe.","Because if I say to them, hello, drink, maybe.",uncertainty,neutral,mild,9,informal,neutral,neutral,"Bo to, że ja im powiem, hello, drink, maybe."
+1900-01-01 00:20:13.985986,1900-01-01 00:20:15.985986,To jednak jakies wyzwanie.,It's still some kind of challenge.,challenge,surprise,mild,4,formal,neutral,surprise,To jednak jakieś wyzwanie.
+1900-01-01 00:20:15.985986,1900-01-01 00:20:18.985986,"Ja ogolnie, kiedys dobrze mi szlo z angielskim, teraz poltora lat przerwy.","In general, I used to do well with English, now it's been a year and a half break.",regret,sadness,mild,12,informal,neutral,sadness,"Ja ogólnie, kiedys dobrze mi szlo z angielskim, teraz poltora lat przerwy."
+1900-01-01 00:20:21.985986,1900-01-01 00:20:27.985986,"Kazdy niecierpliwie sie czekal, jak to sie wszystko potoczy dalej.",Everyone was waiting impatiently to see how it would all turn out.,anticipation,surprise,moderate,10,informal,anger,surprise,"każdy niecierpliwie się czekal, jak to się wszystko potoczy dalej."
+1900-01-01 00:20:36.985986,1900-01-01 00:20:40.985986,"Czekajcie jeszcze, zanim zajaracie, bo chcialem pogadac z wami wszystkim.","Wait a moment before you light up, because I wanted to talk to all of you.",anticipation,neutral,mild,10,informal,neutral,neutral,"Czekajcie jeszcze, zanim zajaracie, bo chciałem pogadać z wami wszystkim."
+1900-01-01 00:20:40.985986,1900-01-01 00:20:41.985986,"Wiem, wiem.","I know, I know.",resignation,neutral,mild,2,informal,disgust,neutral,"Wiem, wiem."
+1900-01-01 00:20:41.985986,1900-01-01 00:20:42.985986,"Ewelina, mozesz tu przyjsc?","Ewelina, can you come here?",request,neutral,neutral,4,informal,neutral,neutral,"Eweliną, mozesz tu przyjsc?"
+1900-01-01 00:20:42.985986,1900-01-01 00:20:43.985986,Zaraz.,In a moment.,expectation,neutral,neutral,1,informal,surprise,neutral,Zaraz.
+1900-01-01 00:20:44.985986,1900-01-01 00:20:46.985986,"To przyjdz, to pogadamy.","So come over, we'll talk.",invitation,neutral,neutral,4,informal,neutral,neutral,"To przyjdz, to pogadamy."
+1900-01-01 00:20:46.985986,1900-01-01 00:20:50.985986,W koncu mielismy okazje usiasc w takim rodzinnym gronie przy kominku.,"Finally, we had the opportunity to sit together as a family by the fireplace.",contentment,happiness,mild,11,informal,happiness,happiness,W końcu mieliśmy okazję usiąść w takim rodzinnym gronie przy kominku.
+1900-01-01 00:20:52.985986,1900-01-01 00:20:55.985986,"Dajebiscie sie siedzi przy kominku, jak jestesmy wszyscy.",It's freaking awesome to sit by the fireplace when we're all together.,contentment,happiness,intense,8,informal,happiness,happiness,"zajebiście się siedzi przy kominku, jak jesteśmy wszyscy."
+1900-01-01 00:20:55.985986,1900-01-01 00:20:57.985986,Nikt ze soba sie nie kloci.,No one is arguing with each other.,calm,neutral,neutral,6,informal,neutral,neutral,nikt że sobą się nie kłóci.
+1900-01-01 00:20:57.985986,1900-01-01 00:20:59.985986,Jest przyjemna atmosfera.,There is a pleasant atmosphere.,contentment,happiness,mild,3,informal,happiness,happiness,jest przyjemna atmosfera.
+1900-01-01 00:20:59.985986,1900-01-01 00:21:01.985986,Chcialem pogadac z wami wszystkim.,I wanted to talk to all of you.,openness,neutral,neutral,5,informal,happiness,neutral,chciałem pogadać z wami wszystkim.
+1900-01-01 00:21:01.985986,1900-01-01 00:21:04.985986,Chce pogadac i sie pogodzic.,I want to talk and make up.,reconciliation,happiness,mild,5,informal,neutral,happiness,chcę pogadać i się pogodzić.
+1900-01-01 00:21:04.985986,1900-01-01 00:21:08.985986,"Dzisiaj Trybson wlasnie do mnie podszedl, jak siedzielismy przy kominku.",Today Trybson just came up to me as we were sitting by the fireplace.,recollection,neutral,neutral,10,informal,neutral,neutral,"dzisiaj Trybson właśnie do mnie podszedł, jak siedzieliśmy przy kominku."
+1900-01-01 00:21:08.985986,1900-01-01 00:21:10.985986,"Bo ty wiesz, ze jestes ladna dziewczyna.",Because you know that you are a pretty girl.,admiration,happiness,mild,7,informal,neutral,happiness,"Bo ty wiesz, że jesteś ładna dziewczyna."
+1900-01-01 00:21:10.985986,1900-01-01 00:21:13.985986,"I jestes ladna dziewczyna, tylko ze ty nie jestes w moim typie.","And you are a pretty girl, it's just that you are not my type.",rejection,sadness,mild,12,informal,neutral,sadness,"I jesteś ładna dziewczyna, tylko że ty nie jesteś w moim typie."
+1900-01-01 00:21:13.985986,1900-01-01 00:21:17.985986,"I to nie chodzilo o to, zebym cie obrazil, bo nie mialem zamiaru cie obrazic.","And it wasn't about me insulting you, because I had no intention of insulting you.",regret,sadness,mild,15,informal,anger,sadness,"I to nie chodziło o to, żebym cię obraził, bo nie miałem zamiaru cię obrazić."
+1900-01-01 00:21:17.985986,1900-01-01 00:21:19.985986,"Ja bym jej nie tknal kijem przez szmate, rozumiesz?","I wouldn't touch her with a stick through a rag, you understand?",contempt,disgust,intense,9,informal,disgust,disgust,"Ja bym jej nie tknął kijem przez szmatę, rozumiesz?"
+1900-01-01 00:21:19.985986,1900-01-01 00:21:20.985986,Co?,What?,confusion,surprise,mild,1,informal,surprise,surprise,Co?
+1900-01-01 00:21:20.985986,1900-01-01 00:21:21.985986,Nie tknalbym jej.,I wouldn't touch her.,aversion,disgust,moderate,3,informal,fear,disgust,nie tknąłbym jej.
+1900-01-01 00:21:21.985986,1900-01-01 00:21:25.985986,"Nie powinienem tak powiedziec, bo nie mialem zamiaru urazic Eweliny.","I shouldn't have said that, because I didn't mean to hurt Ewelina.",regret,sadness,moderate,10,informal,anger,sadness,"nie powinienem tak powiedzieć, bo nie miałem zamiaru urazić Eweliny."
+1900-01-01 00:21:25.985986,1900-01-01 00:21:27.985986,"Bardzo ja szanuje, dobrze sie z nia dogaduje.","I respect her a lot, I get along with her well.",respect,happiness,mild,8,informal,neutral,happiness,"bardzo ja szanuję, dobrze się z nią dogaduję."
+1900-01-01 00:21:27.985986,1900-01-01 00:21:29.985986,Przepraszam cie szczerze za to.,I'm sincerely sorry for this.,remorse,sadness,moderate,5,informal,sadness,sadness,przepraszam cię szczerze za to.
+1900-01-01 00:21:29.985986,1900-01-01 00:21:32.985986,I traktuje cie naprawde zajebisna.,And I treat you as really awesome.,admiration,happiness,moderate,5,informal,happiness,happiness,I traktuję cię naprawdę zajebiśnie.
+1900-01-01 00:21:32.985986,1900-01-01 00:21:36.985986,"Jestes jak siostra tutaj, wiesz?","You are like a sister here, you know?",affection,happiness,mild,5,informal,neutral,neutral,"jesteś jak siostra tutaj, wiesz?"
+1900-01-01 00:21:36.985986,1900-01-01 00:21:38.985986,I kurwa zajebiscie sie z toba bawie.,I fucking have an awesome time with you.,excitement,happiness,intense,7,informal,happiness,happiness,I kurwa zajebiście się z tobą bawię.
+1900-01-01 00:21:39.985986,1900-01-01 00:21:44.985986,"No nie bylo w Trybsona stylu, ale widocznie musialo go zzerac wyrzuty sumienia.","Well, it wasn't in Trybson's style, but apparently he must have been eaten up by guilt.",guilt,sadness,moderate,13,informal,neutral,sadness,"No nie było w Trybsona stylu, ale widocznie musiało go żreć wyrzuty sumienia."
+1900-01-01 00:21:45.985986,1900-01-01 00:21:47.985986,"No ale wrocmy, myslalam, jaka przykro zrobila, nie?","But let's get back, I was thinking, how hurtful she was, right?",hurt,sadness,moderate,8,informal,anger,sadness,"No ale wróćmy, myślałam, jaka przykro zrobiła, nie?"
+1900-01-01 00:21:47.985986,1900-01-01 00:21:51.985986,"No powiedzialem, glupio powiedzialem, nie przemyslalem nawet tego, co powiem.","Well, I said it, I said it stupidly, I didn't even think through what I was going to say.",regret,sadness,moderate,10,informal,anger,sadness,"No powiedziałem, głupio powiedziałem, nie przemyślałem nawet tego, co powiem."
+1900-01-01 00:21:51.985986,1900-01-01 00:21:53.985986,"No dobra, no juz niewazne, kurwa.","Alright, never mind, fuck it.",frustration,anger,moderate,6,informal,anger,anger,"No dobra, no już nieważne, kurwa."
+1900-01-01 00:21:53.985986,1900-01-01 00:21:54.985986,Bez gitara.,Without a guitar.,longing,sadness,mild,2,informal,sadness,sadness,bez gitarą.
+1900-01-01 00:21:54.985986,1900-01-01 00:21:55.985986,Piateczke.,High five.,camaraderie,happiness,mild,1,informal,neutral,happiness,piąteczkę.
+1900-01-01 00:21:56.985986,1900-01-01 00:21:59.985986,W koncu jestesmy jedna ekipa.,"After all, we are one team.",unity,happiness,mild,5,informal,neutral,happiness,W końcu jesteśmy jedną ekipą.
+1900-01-01 00:22:00.985986,1900-01-01 00:22:03.985986,I w koncu stanowimy calosc.,And finally we are whole.,fulfillment,happiness,moderate,5,informal,neutral,happiness,I w końcu stanowimy całość.
+1900-01-01 00:22:03.985986,1900-01-01 00:22:04.985986,No wlasnie.,Exactly.,agreement,neutral,neutral,2,informal,neutral,neutral,No właśnie.
+1900-01-01 00:22:08.985986,1900-01-01 00:22:10.985986,Wlasnie wszyscy tak zjednoczylismy bardziej.,We have all just become more united.,solidarity,happiness,moderate,5,informal,neutral,happiness,właśnie wszyscy tak zjednoczyliśmy bardziej.
+1900-01-01 00:22:10.985986,1900-01-01 00:22:13.985986,"Wiadomo, ze nasze charaktery sie bardzo roznia.",It is known that our personalities are very different.,acceptance,neutral,neutral,7,informal,neutral,neutral,"wiadomo, że nasze charaktery się bardzo różnią."
+1900-01-01 00:22:13.985986,1900-01-01 00:22:15.985986,I kazdy jest inny.,And everyone is different.,acceptance,neutral,neutral,4,informal,neutral,neutral,I każdy jest inny.
+1900-01-01 00:22:21.985986,1900-01-01 00:22:25.985986,"Chcialem codziennie z nimi usiasc, codziennie z nimi napic sie wina, czy tam bez wina.","I wanted to sit with them every day, to have wine with them every day, or even without wine.",longing,sadness,moderate,15,informal,neutral,sadness,"chciałem codziennie z nimi usiąść, codziennie z nimi napić się wina, czy tam bez wina."
+1900-01-01 00:22:25.985986,1900-01-01 00:22:27.985986,Cokolwiek w ogole porozmawiac.,Anything at all to talk about.,resignation,sadness,mild,4,informal,disgust,sadness,cokolwiek w ogóle porozmawiać.
+1900-01-01 00:22:27.985986,1900-01-01 00:22:31.985986,"Na wszystko, co nam nie pasuje powiedziec sobie w twarz, w oczy, tak jak dzisiaj Trybson to zrobil.","For everything that we don't like, to say it to each other's face, in the eyes, just like Trybson did today.",assertiveness,neutral,mild,18,informal,disgust,neutral,"Na wszystko, co nam nie pasuje powiedzieć sobie w twarz, w oczy, tak jak dzisiaj Trybson to zrobił."
+1900-01-01 00:22:31.985986,1900-01-01 00:22:32.985986,To jest genialne.,This is brilliant.,admiration,happiness,moderate,3,informal,happiness,happiness,To jest genialne.
+1900-01-01 00:22:33.985986,1900-01-01 00:22:36.985986,KONIEC!,END!,finality,neutral,neutral,1,informal,surprise,surprise,KONIEC!

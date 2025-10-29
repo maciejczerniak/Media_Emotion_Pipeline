@@ -29,7 +29,7 @@ Thank you for considering a contribution to this project! To keep things clean a
     ```
 
 5. **Create a Pull Request**
-    - Alwasy target the `dev` branch.
+    - Always target the `dev` branch.
     - Provide a clear description of your changes.
     - Link any related issues.
     - GitHub will automatically require:
@@ -76,7 +76,7 @@ Please use clear and consistent commit titles. Good commit messages help others 
 
 - `feat: add user profile settings page`
 - `fix: correct typo in error message`
-- `chore: update dependencies`  
+- `chore: update dependencies`
 
 ## 🔒 Branch Protection Rules
 
@@ -84,5 +84,5 @@ The following rules are active on main and dev:
 
 - ✅ Pull request required before merging
 - ✅ At least 1 approval is required
-  
+
 Do not push directly to `main` or `dev`.

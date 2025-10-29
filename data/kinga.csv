@@ -1,0 +1,792 @@
+Start Time,End Time,Sentence,Translation,Emotion_fine,Emotion_core,Intensity
+1/1/1900 0:00,1/1/1900 0:00,To jest MasterChef.,This is MasterChef.,anticipation,neutral,neutral
+1/1/1900 0:00,1/1/1900 0:00,Szansę na tytuł najlepszego kucharza w Polsce ma już tylko 12 osób.,Only 12 people still have a chance at the title of best chef in Poland.,anticipation,neutral,mild
+1/1/1900 0:00,1/1/1900 0:00,Oto oni.,Here they are.,anticipation,surprise,mild
+1/1/1900 0:00,1/1/1900 0:00,"Jestem dinozaurem, który chce walczyć, który się nie podda.","I am a dinosaur who wants to fight, who will not give up.",determination,happiness,intense
+1/1/1900 0:00,1/1/1900 0:00,Ten program daje mi ogromną siłę.,This program gives me tremendous strength.,empowerment,happiness,intense
+1/1/1900 0:00,1/1/1900 0:00,Wiatr żagla.,Wind of the sail.,anticipation,happiness,mild
+1/1/1900 0:00,1/1/1900 0:00,"Będę walczyć do ostatniej minuty, do ostatniej siły, którą mam.","I will fight until the last minute, until the last strength I have.",determination,anger,intense
+1/1/1900 0:00,1/1/1900 0:00,"Zacząłem gotować, ponieważ zawsze podglądałem moją mamę i babcię,","I started cooking because I always watched my mom and grandma,",nostalgia,happiness,mild
+1/1/1900 0:00,1/1/1900 0:00,które tam krzątały się po kuchni.,which were bustling around the kitchen there.,contentment,happiness,mild
+1/1/1900 0:00,1/1/1900 0:00,Gotowanie jest moją pasją.,Cooking is my passion.,enthusiasm,happiness,moderate
+1/1/1900 0:00,1/1/1900 0:00,"Jak zaczynam gotować, to odpływam.","When I start cooking, I drift away.",absorption,happiness,mild
+1/1/1900 0:00,1/1/1900 0:00,Urodziłem się z wyczuciem kuchni i z wyczuciem smaku.,I was born with a sense for the kitchen and a sense of taste.,pride,happiness,mild
+1/1/1900 0:00,1/1/1900 0:00,Ja uwielbiam jeść dobre rzeczy.,I love to eat good things.,pleasure,happiness,moderate
+1/1/1900 0:00,1/1/1900 0:00,"Chciałabym poświęcić się gotowaniu, robić to już do końca życia.","I would like to devote myself to cooking, to do it for the rest of my life.",devotion,happiness,moderate
+1/1/1900 0:00,1/1/1900 0:00,"Chciałem być w kuchni, którą Polska jeszcze nie widziała.",I wanted to be in a kitchen that Poland has not yet seen.,aspiration,happiness,mild
+1/1/1900 0:00,1/1/1900 0:00,"Polską, ale w takim new style.","Polish, but in such a new style.",curiosity,neutral,mild
+1/1/1900 0:00,1/1/1900 0:00,Lubię ryzyko w kuchni.,I like risk in the kitchen.,excitement,happiness,mild
+1/1/1900 0:00,1/1/1900 0:00,"Wysokie stawki, wygrywa się tylko ryzykiem.","High stakes, you only win by taking risks.",determination,neutral,moderate
+1/1/1900 0:00,1/1/1900 0:00,"To jest to, co kocham, to jest to, co lubię","This is what I love, this is what I like",affection,happiness,moderate
+1/1/1900 0:00,1/1/1900 0:00,i tego fartucha już prędko nie oddam.,and I won't give this apron back anytime soon.,determination,happiness,moderate
+1/1/1900 0:00,1/1/1900 0:01,Startowałam pod hasłem od kotleta do Masterchefa.,I started under the slogan from cutlet to Masterchef.,pride,happiness,mild
+1/1/1900 0:01,1/1/1900 0:01,I tak łatwo się robi.,And it's so easy to do.,ease,happiness,mild
+1/1/1900 0:01,1/1/1900 0:01,Masterchef będzie tylko jeden.,There will be only one Masterchef.,determination,neutral,neutral
+1/1/1900 0:01,1/1/1900 0:01,"Kraków, rynek główny.","Kraków, main square.",serenity,neutral,neutral
+1/1/1900 0:01,1/1/1900 0:01,To tutaj kucharze Masterchefa staną przed kolejnym kulinarnym testem.,It is here that the Masterchef chefs will face another culinary test.,anticipation,surprise,mild
+1/1/1900 0:01,1/1/1900 0:01,Groży przygotowali dla nich nietypowe i bardzo wymagające zadanie.,The Groży prepared an unusual and very demanding task for them.,apprehension,fear,moderate
+1/1/1900 0:01,1/1/1900 0:01,"I zobacz, jak piękny ten rynek krakowski.","And look, how beautiful this Krakow market square is.",admiration,happiness,mild
+1/1/1900 0:01,1/1/1900 0:01,"Myślę, że lepszej mięsy nie ma, żeby gotować coś dobrego w końcu.",I think there is no better meat to finally cook something good.,satisfaction,happiness,mild
+1/1/1900 0:01,1/1/1900 0:01,No i żeby gotować dla takich gości.,And to have to cook for such guests.,resentment,anger,moderate
+1/1/1900 0:01,1/1/1900 0:01,Wchodzę na rynek i patrzę.,I enter the market square and look.,curiosity,neutral,neutral
+1/1/1900 0:01,1/1/1900 0:01,Wszyscy spodziewaliśmy się czegoś zupełnie innego.,We all expected something completely different.,disappointment,sadness,moderate
+1/1/1900 0:01,1/1/1900 0:01,Dotąd gotowali na własny rachunek.,"Until now, they cooked on their own account.",independence,neutral,neutral
+1/1/1900 0:01,1/1/1900 0:01,"Dziś, żeby wygrać, będą musieli współpracować.","Today, to win, they will have to cooperate.",expectation,neutral,neutral
+1/1/1900 0:01,1/1/1900 0:01,"To co, łapiemy gołębie na czas?","So, are we catching pigeons for time?",playfulness,happiness,mild
+1/1/1900 0:01,1/1/1900 0:01,Adam będzie szukał wiewiórek.,Adam will be looking for squirrels.,curiosity,neutral,mild
+1/1/1900 0:01,1/1/1900 0:01,Ja mam wiewiórki.,I have squirrels.,contentment,happiness,mild
+1/1/1900 0:01,1/1/1900 0:01,"Co, jakieś drzewa?","What, some trees?",confusion,surprise,mild
+1/1/1900 0:01,1/1/1900 0:01,Jak posadzisz.,As you plant.,curiosity,neutral,neutral
+1/1/1900 0:02,1/1/1900 0:02,Witajcie na krakowskim rynku.,Welcome to the Krakow market square.,welcome,happiness,mild
+1/1/1900 0:02,1/1/1900 0:02,Przed Wami monumentalne zadanie.,A monumental task lies ahead of you.,anticipation,surprise,moderate
+1/1/1900 0:02,1/1/1900 0:02,"Nigdy w moim życiu nie przypuszczałbym, że ja rynku będę gotować coś fajnego.",Never in my life would I have thought that I would be cooking something cool at the market.,amazement,surprise,moderate
+1/1/1900 0:02,1/1/1900 0:02,Były jakieś spekulacje.,There were some speculations.,uncertainty,neutral,mild
+1/1/1900 0:02,1/1/1900 0:02,"Może na wesele, może dla kogoś ważnego.","Maybe for a wedding, maybe for someone important.",consideration,neutral,mild
+1/1/1900 0:02,1/1/1900 0:02,"Różne pomysły, może kuchnia francuska.","Various ideas, maybe French cuisine.",curiosity,neutral,mild
+1/1/1900 0:02,1/1/1900 0:02,"Kuchnia hiszpańska, kuchnia włoska.","Spanish cuisine, Italian cuisine.",interest,neutral,neutral
+1/1/1900 0:02,1/1/1900 0:02,Ja byłam przygotowana na Meksyk.,I was prepared for Mexico.,readiness,neutral,neutral
+1/1/1900 0:02,1/1/1900 0:02,Na Meksyk.,To Mexico.,anticipation,happiness,mild
+1/1/1900 0:02,1/1/1900 0:02,Przygotujecie imprezę urodzinową dla 150 wyjątkowych osób.,You will prepare a birthday party for 150 special people.,anticipation,happiness,moderate
+1/1/1900 0:02,1/1/1900 0:02,Dla tak dużej ilości ludzi nigdy nie gotowałem.,I have never cooked for so many people.,apprehension,fear,mild
+1/1/1900 0:02,1/1/1900 0:02,Waszymi gośćmi będą...,Your guests will be...,anticipation,surprise,mild
+1/1/1900 0:02,1/1/1900 0:02,DZIECI!,CHILDREN!,alarm,surprise,intense
+1/1/1900 0:02,1/1/1900 0:02,Lubię gotować leleczki.,I like to cook leleczki.,fondness,happiness,mild
+1/1/1900 0:02,1/1/1900 0:02,Sam mam troje i naprawdę super.,I myself have three and it's really great.,contentment,happiness,mild
+1/1/1900 0:02,1/1/1900 0:02,Każda drużyna zrobi dziecięce menu składające się z głównego dania i deserów.,Each team will make a children's menu consisting of a main course and desserts.,anticipation,neutral,neutral
+1/1/1900 0:02,1/1/1900 0:03,150 dzieciaków.,150 kids.,neutrality,neutral,neutral
+1/1/1900 0:03,1/1/1900 0:03,No ręce mi opadły.,"Well, my hands dropped (idiom: I'm at a loss / I'm exasperated).",exasperation,sadness,moderate
+1/1/1900 0:03,1/1/1900 0:03,Jeszcze mnie nikt nie chciał wziąć do drużyny.,No one has wanted to take me into the team yet.,rejection,sadness,moderate
+1/1/1900 0:03,1/1/1900 0:03,Podzielicie się na dwie drużyny i to będzie pojedynek.,You will split into two teams and it will be a duel.,anticipation,surprise,mild
+1/1/1900 0:03,1/1/1900 0:03,Bardzo trudny pojedynek.,A very difficult duel.,challenge,fear,moderate
+1/1/1900 0:03,1/1/1900 0:03,"Leszek, to ty wygrałeś ostatnią konkurencję i teraz w nagrodę to ty będziesz mógł sobie wybrać najlepszą twoim zdaniem ekipę i będziesz jej kapitanem.","Leszek, you won the last competition and now as a reward you will be able to choose the team you think is the best and you will be its captain.",recognition,happiness,mild
+1/1/1900 0:03,1/1/1900 0:03,Dobry wybór to kluczowa decyzja.,A good choice is a key decision.,thoughtfulness,neutral,neutral
+1/1/1900 0:03,1/1/1900 0:03,Zespół musi być jak świetnie działający mechanizm.,The team must be like a perfectly functioning mechanism.,expectation,neutral,neutral
+1/1/1900 0:03,1/1/1900 0:03,Leszek mi wybrał nawet jako pierwszy.,Leszek even chose me first.,gratitude,happiness,mild
+1/1/1900 0:03,1/1/1900 0:03,"Zaskoczony byłem, ale no fajnie.","I was surprised, but well, nice.",curiosity,surprise,mild
+1/1/1900 0:03,1/1/1900 0:03,Ania.,Ania.,neutrality,neutral,neutral
+1/1/1900 0:03,1/1/1900 0:03,Jola.,Jola.,neutrality,neutral,neutral
+1/1/1900 0:03,1/1/1900 0:03,Beata.,Beata.,neutrality,neutral,neutral
+1/1/1900 0:03,1/1/1900 0:03,I ostatni w zespole Adam.,And the last one in the team is Adam.,acknowledgment,neutral,neutral
+1/1/1900 0:03,1/1/1900 0:03,"No tak, Leszek mnie nie wziął do swojej drużyny.","Well, Leszek didn't take me into his team.",rejection,sadness,moderate
+1/1/1900 0:03,1/1/1900 0:03,No troszkę mnie było przykro.,"Well, I was a little sad.",disappointment,sadness,mild
+1/1/1900 0:03,1/1/1900 0:04,Ja go też nie wybiorę.,I won't choose him either.,rejection,disgust,mild
+1/1/1900 0:04,1/1/1900 0:04,"Wydawało mi się, że to będzie takie dobre zestawienie trzech wybuchowych, dynamicznych facetów.","It seemed to me that it would be such a good combination of three explosive, dynamic guys.",expectation,happiness,mild
+1/1/1900 0:04,1/1/1900 0:04,"No i postawiłem na trzy dziewczyny, które są spokojne, bardzo schematyczne co prawda, ale można wydawać im polecenia.","So I chose three girls who are calm, very methodical to be honest, but you can give them orders.",pragmatism,neutral,neutral
+1/1/1900 0:04,1/1/1900 0:04,Przyjmują to jakby z pokorą.,They accept it as if with humility.,acceptance,neutral,mild
+1/1/1900 0:04,1/1/1900 0:04,"On ma bardzo silny charakter, tak samo jak my obaj raczej dominujemy.","He has a very strong character, just like both of us, we tend to dominate.",assertiveness,neutral,moderate
+1/1/1900 0:04,1/1/1900 0:04,"Więc ja myślę, że gdyby on mnie wybrał to by było samobójstwo, bo ja bym nie był grzeczny.","So I think that if he chose me, it would be suicide, because I wouldn't be well-behaved.",apprehension,fear,moderate
+1/1/1900 0:04,1/1/1900 0:04,Ja bym rozwalił cały zespół pewnie.,I would probably destroy the whole team.,hostility,anger,moderate
+1/1/1900 0:04,1/1/1900 0:04,Reszta tworzy drugą drużynę i musicie spośród siebie wybrać kapitana.,The rest form the second team and you have to choose a captain among yourselves.,instruction,neutral,neutral
+1/1/1900 0:04,1/1/1900 0:04,Krzysztof jesteś w takim razie kapitanem.,"Krzysztof, you are the captain then.",acceptance,neutral,neutral
+1/1/1900 0:04,1/1/1900 0:04,"Nie mieliśmy problemu z tym, żeby ustawić Krzyśka jako lidera.",We had no problem with appointing Krzysiek as the leader.,acceptance,neutral,neutral
+1/1/1900 0:04,1/1/1900 0:04,On charakteryzuje się dość dużym ego i jest taki bardzo pewny siebie i tak dalej.,He is characterized by quite a big ego and is very self-confident and so on.,judgment,neutral,mild
+1/1/1900 0:04,1/1/1900 0:04,Dlaczego nie zrzucić tej całej odpowiedzialności na niego?,Why not put all this responsibility on him?,resentment,anger,moderate
+1/1/1900 0:04,1/1/1900 0:04,"Leszek, kto to będzie?","Leszek, who will it be?",curiosity,neutral,mild
+1/1/1900 0:04,1/1/1900 0:04,Jola.,Jola.,neutrality,neutral,neutral
+1/1/1900 0:04,1/1/1900 0:05,"Jola ma dzieci, gotuje dla dzieci, także to będzie bezpieczne, fajne rozwiązanie.","Jola has children, she cooks for children, so it will be a safe, nice solution.",reassurance,happiness,mild
+1/1/1900 0:05,1/1/1900 0:05,Krzysiek?,Krzysiek?,curiosity,neutral,mild
+1/1/1900 0:05,1/1/1900 0:05,"Diana, z bardzo prostej przyczyny Diana jest naszą najlepszą sukienniczką.","Diana, for a very simple reason, Diana is our best seamstress.",pride,happiness,mild
+1/1/1900 0:05,1/1/1900 0:05,"Jest odpowiedzialna za deser, więc najlepiej wybierze do niego składniki.","She is responsible for the dessert, so she will choose the ingredients for it best.",confidence,neutral,mild
+1/1/1900 0:05,1/1/1900 0:05,No i uwaga!,And attention!,alertness,surprise,moderate
+1/1/1900 0:05,1/1/1900 0:05,Start!,Start!,anticipation,surprise,mild
+1/1/1900 0:05,1/1/1900 0:05,"Szybko, szybko!","Quickly, quickly!",urgency,fear,moderate
+1/1/1900 0:05,1/1/1900 0:05,Kapitanowie i pomocnicy mają pięć minut.,Captains and assistants have five minutes.,anticipation,neutral,neutral
+1/1/1900 0:05,1/1/1900 0:05,"Kapitanowie i pomocnicy mają pięć minut, żeby wybrać wszystkie potrzebne produkty.",Captains and assistants have five minutes to choose all the necessary products.,anticipation,neutral,neutral
+1/1/1900 0:05,1/1/1900 0:05,Jajka są niewygodne?,Are eggs uncomfortable?,confusion,surprise,mild
+1/1/1900 0:05,1/1/1900 0:05,Tak.,Yes.,acceptance,neutral,neutral
+1/1/1900 0:05,1/1/1900 0:05,"Dobra, ja biorę w rękę jajka.","Alright, I'll take the eggs in my hand.",readiness,neutral,neutral
+1/1/1900 0:05,1/1/1900 0:05,"Masło, masło, masło.","Butter, butter, butter.",insistence,neutral,neutral
+1/1/1900 0:05,1/1/1900 0:05,Ile?,How much?,curiosity,neutral,neutral
+1/1/1900 0:05,1/1/1900 0:05,Masło.,Butter.,neutrality,neutral,neutral
+1/1/1900 0:05,1/1/1900 0:05,Kurde.,Damn.,frustration,anger,mild
+1/1/1900 0:05,1/1/1900 0:05,"Ty jesteś za desery, ja nic nie szukam dla deserów, ty wszystko do deserów ty szukasz.","You are for desserts, I don't look for anything for desserts, you look for everything for desserts.",accusation,anger,mild
+1/1/1900 0:05,1/1/1900 0:05,"Okej, dobra.","Okay, fine.",acceptance,neutral,neutral
+1/1/1900 0:05,1/1/1900 0:05,Masz wszystko do ciasta?,Do you have everything for the cake?,curiosity,neutral,neutral
+1/1/1900 0:05,1/1/1900 0:05,Tak.,Yes.,acceptance,neutral,neutral
+1/1/1900 0:05,1/1/1900 0:05,Bo ja w ogóle o tym nie myślę.,Because I don't think about it at all.,detachment,neutral,neutral
+1/1/1900 0:05,1/1/1900 0:05,Bierz pomidora.,Take the tomato.,instruction,neutral,neutral
+1/1/1900 0:05,1/1/1900 0:05,Ja biorę pomidora.,I am taking a tomato.,determination,neutral,neutral
+1/1/1900 0:05,1/1/1900 0:05,"Taką presję czułam na sobie, że no cokolwiek zabraknie, tak?","I felt such pressure on myself, that if anything was missing, right?",pressure,fear,moderate
+1/1/1900 0:05,1/1/1900 0:05,To potem będzie to moja wina.,Then it will be my fault.,guilt,sadness,moderate
+1/1/1900 0:06,1/1/1900 0:06,"Myślałem, że mnie tam Włodek zabije, jak wychodziłem z chłopniem, bo tak trochę dużo na nim było.","I thought Włodek would kill me there when I was leaving with the boy, because there was a bit too much on him.",apprehension,fear,moderate
+1/1/1900 0:06,1/1/1900 0:06,"Uważaj, lezuj!","Watch out, chill!",warning,fear,moderate
+1/1/1900 0:06,1/1/1900 0:06,"Jest, jest.","Jest, jest.",dismissiveness,neutral,mild
+1/1/1900 0:06,1/1/1900 0:06,"Cicho, cicho, cicho.","Quiet, quiet, quiet.",warning,anger,moderate
+1/1/1900 0:06,1/1/1900 0:06,"Weź paprykę, więcej cebuli, więcej pomidorów.","Take the pepper, more onions, more tomatoes.",determination,neutral,neutral
+1/1/1900 0:06,1/1/1900 0:06,Nie ma poszu.,There is no poszu.,confusion,neutral,neutral
+1/1/1900 0:06,1/1/1900 0:06,To bierz rękę i biegaj.,So grab the hand and run.,urgency,fear,moderate
+1/1/1900 0:06,1/1/1900 0:06,Nie bierz rękę!,Don't take the hand!,alarm,fear,moderate
+1/1/1900 0:06,1/1/1900 0:06,Nie bierz rękę!,Don't take the hand!,warning,fear,moderate
+1/1/1900 0:06,1/1/1900 0:06,"Biegałam chyba, nie wiem, z pięć, sześć, siedem, nie liczę, ale już tylko biegałam i biegałam.","I was running, I think, I don't know, five, six, seven times, I don't count, but I was just running and running.",restlessness,neutral,moderate
+1/1/1900 0:06,1/1/1900 0:06,"Krzysiek, Leszek, 30 sekund!","Krzysiek, Leszek, 30 seconds!",urgency,fear,moderate
+1/1/1900 0:06,1/1/1900 0:06,Nie bierz rękę!,Don't take the hand!,warning,fear,moderate
+1/1/1900 0:06,1/1/1900 0:06,Nie bierz rękę!,Don't take the hand!,alarm,fear,moderate
+1/1/1900 0:06,1/1/1900 0:06,Nie bierz rękę!,Don't take the hand!,alarm,fear,moderate
+1/1/1900 0:06,1/1/1900 0:06,"Cztery, trzy, dwa, jeden, stop!","Four, three, two, one, stop!",anticipation,surprise,moderate
+1/1/1900 0:06,1/1/1900 0:06,Stop!,Stop!,alarm,fear,intense
+1/1/1900 0:06,1/1/1900 0:06,"To, co Krzysiek razem z Dianą wybrali nam z pizzarni MasterChefa, starczyłoby spokojnie do wykarmienia pół klakowa.",What Krzysiek and Diana picked for us from the MasterChef pizzeria would easily be enough to feed half the town.,amusement,happiness,mild
+1/1/1900 0:06,1/1/1900 0:06,Jakie menu?,What menu?,confusion,surprise,mild
+1/1/1900 0:06,1/1/1900 0:07,"Zaczniemy od najprostszych rzeczy, zwykłą pizzę Fungi, z tym, że przyprawioną dużo delikatniej, niż my byśmy to zjedli.","We will start with the simplest things, a regular Fungi pizza, but seasoned much more delicately than we would eat it ourselves.",consideration,neutral,mild
+1/1/1900 0:07,1/1/1900 0:07,Dzieci lubią pieczarki?,Do children like mushrooms?,curiosity,neutral,mild
+1/1/1900 0:07,1/1/1900 0:07,Dzieci lubią pizzę.,Children like pizza.,fondness,happiness,mild
+1/1/1900 0:07,1/1/1900 0:07,A pieczarki?,And mushrooms?,curiosity,neutral,mild
+1/1/1900 0:07,1/1/1900 0:07,"Dzieci nie lubią grzybów, a szczególnie pieczarek. Pieczarki to jest bleee.","Children don't like mushrooms, especially champignons. Champignons are yuck.",aversion,disgust,moderate
+1/1/1900 0:07,1/1/1900 0:07,"Łapy w górę, kto bez pieczarek?","Hands up, who is without mushrooms?",curiosity,neutral,mild
+1/1/1900 0:07,1/1/1900 0:07,Kto jest za bez pieczarek?,Who is in favor of without mushrooms?,curiosity,neutral,neutral
+1/1/1900 0:07,1/1/1900 0:07,Bez pieczarek.,Without mushrooms.,preference,neutral,neutral
+1/1/1900 0:07,1/1/1900 0:07,Deser?,Desert?,curiosity,neutral,mild
+1/1/1900 0:07,1/1/1900 0:07,"Deser będzie czekoladny biskwit, bo dzieci lubią czekoladę.","The dessert will be a chocolate biscuit, because children like chocolate.",consideration,happiness,mild
+1/1/1900 0:07,1/1/1900 0:07,"Czekolada musi być. Dzieci, czekolada to i kropka.","There must be chocolate. Kids, chocolate, that's it, period.",insistence,neutral,moderate
+1/1/1900 0:07,1/1/1900 0:07,Co będzie?,What will happen?,uncertainty,fear,mild
+1/1/1900 0:07,1/1/1900 0:07,"Jako danie głównie nuggetsy, do tego będą chipsy ziemniaczane.","As the main dish, mainly nuggets, and there will also be potato chips.",anticipation,neutral,neutral
+1/1/1900 0:07,1/1/1900 0:07,"Wiadomo, wszyscy w tej chwili obecni lubią fast foody, tym bardziej dzieci.","Obviously, everyone present at this moment likes fast food, especially children.",acceptance,neutral,neutral
+1/1/1900 0:07,1/1/1900 0:07,"Na deser będą naleśniki z serem mascarpone z żółtkami, będzie to udekorowane bitą śmietaną i bardzo dużo owoców.","For dessert there will be pancakes with mascarpone cheese and egg yolks, it will be decorated with whipped cream and lots of fruit.",anticipation,happiness,mild
+1/1/1900 0:07,1/1/1900 0:07,150 dzieci?,150 children?,bewilderment,surprise,moderate
+1/1/1900 0:07,1/1/1900 0:07,150 dzieci.,150 children.,neutrality,neutral,neutral
+1/1/1900 0:07,1/1/1900 0:07,Naleśniki?,Pancakes?,curiosity,surprise,mild
+1/1/1900 0:07,1/1/1900 0:07,Naleśniki.,Pancakes.,craving,happiness,mild
+1/1/1900 0:07,1/1/1900 0:07,Zrobiłeś to kiedyś?,Have you ever done it?,curiosity,neutral,mild
+1/1/1900 0:07,1/1/1900 0:07,Zrobimy.,We will do it.,determination,neutral,mild
+1/1/1900 0:07,1/1/1900 0:07,Jestem w programie Masterchefa.,I am on the Masterchef show.,pride,happiness,mild
+1/1/1900 0:07,1/1/1900 0:07,Ta konkurencja jest nasza.,This competition is ours.,confidence,happiness,moderate
+1/1/1900 0:07,1/1/1900 0:07,Jesteście gotowi? Czerwoni?,Are you ready? Reds?,anticipation,surprise,mild
+1/1/1900 0:07,1/1/1900 0:08,Tak!,Yes!,agreement,happiness,mild
+1/1/1900 0:08,1/1/1900 0:08,Niebiescy?,The Blues?,curiosity,neutral,mild
+1/1/1900 0:08,1/1/1900 0:08,Tak!,Yes!,agreement,happiness,mild
+1/1/1900 0:08,1/1/1900 0:08,Gotujemy!,We are cooking!,enthusiasm,happiness,moderate
+1/1/1900 0:08,1/1/1900 0:08,Drużyna Czerwonych to kucharze odrzuceni przez Leszka.,The Red Team consists of chefs rejected by Leszek.,rejection,sadness,moderate
+1/1/1900 0:08,1/1/1900 0:08,Odrzuceni nie oznacza gorsi.,Being rejected does not mean being worse.,reassurance,happiness,mild
+1/1/1900 0:08,1/1/1900 0:08,"Planem jest to, żeby zrobić najpyszniejszą pizzę, żeby wszystkie dzieci były zaszarowane naszą pizzą.",The plan is to make the most delicious pizza so that all the children are enchanted by our pizza.,enthusiasm,happiness,moderate
+1/1/1900 0:08,1/1/1900 0:08,"Fajnie jest gotować dla takiej ilości osób, taki live cooking.","It's nice to cook for such a number of people, such live cooking.",enjoyment,happiness,mild
+1/1/1900 0:08,1/1/1900 0:08,A jak oni sobie radzą?,And how are they coping?,curiosity,neutral,mild
+1/1/1900 0:08,1/1/1900 0:08,U niebieskich wszystko działa jak w zegarku.,"With the blues, everything works like clockwork.",admiration,happiness,mild
+1/1/1900 0:08,1/1/1900 0:08,Nie stresujemy się!,We are not stressing!,reassurance,neutral,mild
+1/1/1900 0:08,1/1/1900 0:08,Stresujemy się!,We are stressed!,anxiety,fear,moderate
+1/1/1900 0:08,1/1/1900 0:08,Nie stresujemy się!,We are not stressing!,reassurance,happiness,mild
+1/1/1900 0:08,1/1/1900 0:08,"Leszek, kapitan niebieski wymyślił chipsy i nuggetsy.","Leszek, the blue captain invented chips and nuggets.",amusement,happiness,mild
+1/1/1900 0:08,1/1/1900 0:08,Mega amerykańskie menu.,Mega American menu.,interest,neutral,mild
+1/1/1900 0:08,1/1/1900 0:08,"Powiem szczerze, że jestem trochę zasmucona.","I'll be honest, I'm a little sad.",disappointment,sadness,mild
+08:52.4,08:56.9,"Niebezpiecznie, bo moim zdaniem pizza dla 150 osób to jest niemożliwe.","Dangerous, because in my opinion pizza for 150 people is impossible.",doubt,fear,moderate
+08:56.9,08:58.9,"Pizze nie wyobrażam, to jest niemożliwe.","I can't imagine pizza, it's impossible.",incredulity,surprise,moderate
+08:58.9,09:00.9,Ile pizze ma na 150 dzieci?,How many pizzas are there for 150 children?,curiosity,neutral,neutral
+09:01.8,09:04.3,"Krzysiek, jesteś kapitan, ty masz kierować to, nie ja.","Krzysiek, you are the captain, you are supposed to lead this, not me.",resignation,sadness,mild
+09:04.3,09:08.2,"Myślałem, chłopie, idź mi stąd, daj mi pracować, tak?","I thought, man, get out of here, let me work, right?",irritation,anger,moderate
+09:08.2,09:10.7,"Ale szybszej, co ty mi robisz, kolego?","But faster, what are you doing to me, buddy?",impatience,anger,mild
+09:11.5,09:12.9,Jak postawisz ten ser?,How will you place that cheese?,curiosity,neutral,mild
+09:13.5,09:17.9,"Dzieci, dzieci, dzieci, a za dziećmi jeszcze stały dzieci.","Children, children, children, and behind the children there were still more children standing.",overwhelm,surprise,intense
+09:22.5,09:23.5,Jak to idzie?,How is it going?,curiosity,neutral,neutral
+09:24.5,09:27.5,"Ja cały czas kontroluję, jak jest na wszystkich stanowiskach",I am constantly monitoring how things are at all the stations,vigilance,neutral,mild
+09:27.5,09:30.5,"no i pomagam te nieszczęsne naleśniki, żeby z nich wybrnąć.","so I'm helping with these unfortunate pancakes, just to get out of it.",resignation,sadness,mild
+09:30.5,09:31.5,"Jakie nieszczęsne, o czym ty mówisz?","What unfortunate things, what are you talking about?",confusion,surprise,mild
+09:31.5,09:32.5,Ale będzie zaraz dobrze.,But it will be fine soon.,reassurance,happiness,mild
+09:32.5,09:35.5,"Pierwszych mi się nie udało, natomiast nie jest to nic strasznego,","I didn't succeed with the first ones, but it's nothing terrible,",acceptance,neutral,mild
+09:35.5,09:37.5,bo ja jestem człowiekiem.,because I am a human being.,assertion,neutral,neutral
+09:37.5,09:40.5,"Zresztą zasada też jest taka, która mówi, że zawsze pierwszy idzie","Anyway, the rule is also that the first one always goes",assertion,neutral,neutral
+09:40.5,09:42.5,"do zjedzenia na szybko, tak?","to eat quickly, right?",curiosity,neutral,mild
+09:42.5,09:43.5,"Ilesiek, co to jest?","Ilesiek, what is this?",curiosity,neutral,mild
+09:43.5,09:44.5,To jest niespodzianka.,This is a surprise.,unexpectedness,surprise,moderate
+09:44.5,09:46.5,"Ale powiedz mi, jaka niespodzianka?","But tell me, what surprise?",curiosity,surprise,mild
+09:46.5,09:48.5,To jak będzie niespodzianka?,So will there be a surprise?,curiosity,surprise,mild
+09:48.5,09:49.5,"Powiedz mi, co to jest?","Tell me, what is this?",curiosity,neutral,mild
+09:49.7,09:50.7,To ma być beza na początku.,This is supposed to be meringue at the beginning.,expectation,neutral,neutral
+09:52.7,09:53.7,Beza?,Beza?,curiosity,neutral,mild
+09:53.7,09:54.7,"Podnosimy poprzeczkę, tak.","We are raising the bar, yes.",determination,happiness,moderate
+09:54.7,09:56.7,"Słuchajcie, wysoka poczewka, wysoka.","Listen, high expectation, high.",expectation,neutral,mild
+09:56.7,09:57.7,Wysoka.,High.,neutrality,neutral,neutral
+09:57.7,09:58.7,Tam przygotuję się.,I will get ready there.,preparation,neutral,neutral
+09:58.7,09:59.7,Dwie i pół godziny.,Two and a half hours.,impatience,anger,mild
+09:59.7,10:02.7,"Leszku, wracaj na ziemi, wracaj na ziemi, Leszku.","Leszek, come back to earth, come back to earth, Leszek.",concern,fear,moderate
+10:02.7,10:03.7,Wracam do pracy.,I'm going back to work.,resignation,neutral,neutral
+10:03.7,10:04.7,Wracaj.,Come back.,command,neutral,neutral
+10:07.7,10:09.7,"Lub dwa razy po trzy kilo, to idziemy z ogromnym zapasem ciasta,","Or two times three kilos, so we're going with a huge supply of cake,",assurance,neutral,mild
+10:09.7,10:12.7,"ale wolę z ogromnym zapasem, niż ma zabraknąć, tak?","but I prefer to have a huge surplus, rather than run out, right?",prudence,fear,mild
+10:12.7,10:15.7,"Sam się zgłosiłem do wyrabiania ciasta,","I volunteered myself to knead the dough,",willingness,happiness,mild
+10:15.9,10:18.9,"gdyż wiedziałem, że mi najbardziej starczy siły",because I knew that I would have the most strength,confidence,happiness,mild
+10:18.9,10:21.9,na wyrobienie dziesięciu kilo mąki.,to knead ten kilos of flour.,determination,neutral,neutral
+10:26.9,10:28.9,"Tu jeszcze musi ze szklana wody wejść, tak?","Here, someone still has to come in with a glass of water, right?",expectation,neutral,mild
+10:28.9,10:31.9,"To jest typowy pieróg, a to ma być dwa razy lżejszy.","This is a typical dumpling, and this one is supposed to be twice as light.",expectation,neutral,mild
+10:33.9,10:34.9,Synu.,Son.,affection,happiness,mild
+10:34.9,10:35.9,"Tak, matko?","Yes, mother?",readiness,neutral,neutral
+10:35.9,10:36.9,Popraw się.,Improve yourself.,criticism,anger,mild
+10:36.9,10:37.9,Poprawię.,I will correct it.,determination,neutral,mild
+10:39.9,10:41.9,"Zostawiam, niech się trochę przeżyje.","I leave it, let it be experienced a little.",resignation,sadness,mild
+10:42.0,10:43.0,Co się ma przeżyć?,What is meant to be experienced?,curiosity,neutral,neutral
+10:43.0,10:47.0,"Drożdże popracować, żeby tylko podjadły sobie.","Let the yeast work, just so they nibble a little.",anticipation,neutral,mild
+10:47.0,10:48.0,To ma...,It has...,uncertainty,neutral,neutral
+10:48.0,10:49.0,"O, przepraszam.","Oh, I'm sorry.",regret,sadness,mild
+10:49.0,10:50.0,To ma urosnąć?,Is this supposed to grow?,doubt,surprise,mild
+10:50.0,10:51.0,Tak.,Yes.,acceptance,neutral,neutral
+10:53.0,10:54.0,"Maria, co robisz?","Maria, what are you doing?",curiosity,neutral,mild
+10:54.0,10:55.0,Ubijam białka.,I'm beating egg whites.,focus,neutral,neutral
+10:55.0,10:58.0,"Do ciasta, do ciasta, do brownies.","For cake, for cake, for brownies.",enthusiasm,happiness,mild
+10:58.0,11:00.0,To jest uśmiech murzynka.,This is the smile of a black boy.,affection,happiness,mild
+11:00.0,11:02.0,Uśmiech murzynka.,Smile of a black boy.,warmth,happiness,mild
+11:02.0,11:04.0,Rozweseli dzisiaj dzieci.,He will cheer up the children today.,cheerfulness,happiness,mild
+11:04.0,11:05.0,I wygramy.,And we will win.,confidence,happiness,moderate
+11:05.2,11:07.2,Minęło 45 minut.,45 minutes have passed.,impatience,anger,mild
+11:07.2,11:08.2,Cieszycie się?,Are you happy?,curiosity,neutral,neutral
+11:08.2,11:09.2,Nie słyszę?,I can't hear?,confusion,surprise,mild
+11:09.2,11:10.2,Tak!,Yes!,agreement,happiness,mild
+11:10.2,11:11.2,Dobrze.,Okay.,acceptance,neutral,neutral
+11:11.2,11:12.2,Do roboty!,Get to work!,impatience,anger,moderate
+11:18.2,11:19.2,Wszystkie?,All of them?,curiosity,surprise,mild
+11:19.2,11:20.2,Wszystkie?,All of them?,doubt,surprise,mild
+11:20.2,11:21.2,Tak.,Yes.,acceptance,neutral,neutral
+11:21.2,11:22.2,Każdą peseczkę?,Every little piece?,curiosity,surprise,mild
+11:22.2,11:23.2,Na pół.,In half.,indifference,neutral,neutral
+11:23.2,11:24.2,Daj na pół.,Split it in half.,request,neutral,neutral
+11:24.2,11:25.2,"No, daj.","Come on, give it.",impatience,anger,mild
+11:26.2,11:27.2,Dobra.,Okay.,acceptance,neutral,neutral
+11:27.2,11:29.2,"Przemknęła mi myśl, czy to jest dobrze, że ja...","A thought crossed my mind, is it good that I...",doubt,fear,mild
+11:29.2,11:30.2,"Nie, nie, nie.","No, no, no.",rejection,anger,moderate
+11:30.2,11:31.2,"Nie, nie, nie.","No, no, no.",rejection,anger,moderate
+11:31.2,11:32.2,"Nie, nie, nie.","No, no, no.",rejection,anger,moderate
+11:32.2,11:33.2,"Nie, nie, nie.","No, no, no.",rejection,anger,moderate
+11:33.2,11:34.2,"Nie, nie, nie.","No, no, no.",rejection,anger,moderate
+11:34.3,11:37.3,"Czy to jest dobrze, że ja tracę tyle czasu, żeby obrać warzywa,","Is it good that I waste so much time peeling vegetables,",doubt,sadness,mild
+11:37.3,11:39.3,"ale potem sobie myślę, hmm...","but then I think to myself, hmm...",contemplation,neutral,mild
+11:39.3,11:43.3,"Dziecko potrafi wydłubać z sosiku kawałeczek skórki,","A child can pick out a piece of skin from the sauce,",admiration,happiness,mild
+11:43.3,11:45.3,"kawałeczek ziarenka i powiedzieć,","a little piece of grain and to say,",curiosity,neutral,neutral
+11:45.3,11:47.3,"ble, nie, jem niedobre, fuj.","yuck, no, I eat something bad, ew.",aversion,disgust,moderate
+11:47.3,11:48.3,Ładne jest.,It is nice.,appreciation,happiness,mild
+11:48.3,11:50.3,Ja też się już trochę nauczyłam.,I have also learned a bit already.,pride,happiness,mild
+11:53.3,11:54.3,A ile już wam brakuje naleśników?,And how many pancakes are you missing already?,curiosity,neutral,mild
+11:54.3,11:57.3,"16, 17, 18, 15, 20, 21.","16, 17, 18, 15, 20, 21.",neutrality,neutral,neutral
+11:57.3,11:58.3,Dobra.,Okay.,acceptance,neutral,neutral
+11:59.3,12:02.3,"Tu jeszcze 20, a ponad 20 muszę usmażyć.","Here are 20 more, and I have to fry over 20.",resignation,neutral,mild
+12:02.5,12:04.5,Żeby nie zabyła głodu dla żadnego dziecka.,So that no child would ever know hunger.,compassion,sadness,moderate
+12:04.5,12:06.5,Zrobię trochę więcej dla głodoworów.,I will do a little more for the hungry ones.,compassion,happiness,mild
+12:11.5,12:14.5,"Krzysiek, kapitan czerwonych, jest informatykiem.","Krzysiek, the captain of the reds, is an IT specialist.",objectivity,neutral,neutral
+12:14.5,12:16.5,Teraz musi być szefem kuchni.,Now he has to be the chef.,expectation,neutral,neutral
+12:16.5,12:17.5,"Dobra, piekarnik.","Alright, oven.",acceptance,neutral,neutral
+12:17.5,12:21.5,"Wschodzi skórka, wyjmujesz, jesz co dalej, tak?","The crust rises, you take it out, you eat, what next, right?",curiosity,neutral,mild
+12:23.5,12:24.5,"Krzysiek, jak idzie?","Krzysiek, how's it going?",curiosity,neutral,neutral
+12:24.5,12:27.5,"Kompocik, myślę, że za jakieś 15-20 minut skończy.","Kompocik, I think it will be done in about 15-20 minutes.",expectation,neutral,neutral
+12:27.5,12:30.5,"Sos do pizzy mamy już cały, w tym momencie się smaży.","We already have all the pizza sauce, it's frying at this moment.",contentment,happiness,mild
+12:30.5,12:31.5,I wyrobi się się?,And will he manage?,uncertainty,fear,mild
+12:31.7,12:32.7,Nie ma problemu.,No problem.,acceptance,neutral,neutral
+12:32.7,12:33.7,Ciasto idzie do pieca?,Is the cake going into the oven?,curiosity,neutral,mild
+12:33.7,12:35.7,Mamy wszystkie elementy składowe.,We have all the components.,satisfaction,happiness,mild
+12:36.7,12:38.7,"Ale Krzysiek, wszystko zostało do zrobienia.","But Krzysiek, everything still needs to be done.",resignation,sadness,moderate
+12:38.7,12:40.7,"Musisz teraz zaczynać, dasz do pieca.","You have to start now, you'll give it your all.",determination,happiness,moderate
+12:40.7,12:42.7,Nie można czekać na ostatniego minuta.,You can't wait until the last minute.,urgency,fear,moderate
+12:42.7,12:43.7,Wszystko 150.,Everything 150.,indifference,neutral,neutral
+12:43.7,12:46.7,"Krzysiek, jesteś kapitan, ty masz kierować to, nie ja.","Krzysiek, you are the captain, you are supposed to lead this, not me.",resignation,sadness,mild
+12:46.7,12:47.7,Dobrze?,Good?,uncertainty,neutral,mild
+12:47.7,12:48.7,Oczywiście.,Of course.,agreement,neutral,neutral
+12:48.7,12:49.7,Okej.,Okay.,acceptance,neutral,neutral
+12:49.7,12:50.7,"Piana, ciasto do pieca.","Foam, dough to the oven.",anticipation,neutral,neutral
+12:50.7,12:51.7,"Jedzie, jedzie, jedzie.","He/she/it is going, going, going.",anticipation,neutral,mild
+12:51.7,12:52.7,"Nareszcie, nareszcie.","Finally, finally.",relief,happiness,moderate
+12:52.7,12:53.7,"Jest szef, jest szef.","There is the boss, there is the boss.",acknowledgment,neutral,neutral
+12:53.7,12:54.7,Dzięki szefie.,Thanks boss.,gratitude,happiness,mild
+12:56.7,12:57.7,Puszczą gotowe?,Will they play the finished one?,curiosity,neutral,mild
+12:57.7,12:58.7,Tak.,Yes.,acceptance,neutral,neutral
+12:58.8,13:01.8,"Uwaga, każdy degustuje nuggetsy, szybciutko.","Attention, everyone is tasting the nuggets, quickly.",urgency,surprise,moderate
+13:01.8,13:03.8,Dla mnie są zajebiste.,"For me, they are awesome.",admiration,happiness,moderate
+13:03.8,13:04.8,Spróbujcie.,Try it.,encouragement,neutral,mild
+13:04.8,13:07.8,"Ale takie będą w tym, my wyjmiemy z frytury, spokojnie.","But that's how they will be in this, we'll take them out of the fryer, don't worry.",reassurance,happiness,mild
+13:07.8,13:09.8,"Wszyscy mi się słuchali, nie ze względu na wiek,","Everyone listened to me, not because of my age,",pride,happiness,mild
+13:09.8,13:13.8,"tylko ze względu na to, że byłem ich szefem w tej momencie.",only because I was their boss at that moment.,resignation,neutral,mild
+13:13.8,13:14.8,Czy słuchacie się szefa?,Do you listen to the boss?,curiosity,neutral,neutral
+13:14.8,13:15.8,Tak.,Yes.,acceptance,neutral,neutral
+13:15.8,13:16.8,Jakie pytanie.,What question.,confusion,surprise,mild
+13:17.8,13:19.8,"Fajnie mieć taki zespół potem w kuchni,","It's nice to have such a team later in the kitchen,",appreciation,happiness,mild
+13:19.8,13:23.8,gotując już naprawdę w restauracji czy gdziekolwiek.,cooking for real in a restaurant or anywhere.,reflection,neutral,neutral
+13:24.0,13:25.0,"Myślisz, że czerwoni są lepsi?",Do you think the reds are better?,curiosity,neutral,mild
+13:25.0,13:28.0,"Ja się obawiam, że jeszcze ciasto do pizza jest w trakcie zrobienia.",I'm afraid that the pizza dough is still in the process of being made.,worry,fear,mild
+13:28.0,13:31.0,"Paweł od godzina ma mozzarella w maszyny,","Paweł has had mozzarella in the machine for an hour,",impatience,anger,mild
+13:31.0,13:33.0,które mieli od godziny.,which they had for an hour.,boredom,neutral,neutral
+13:35.0,13:37.0,Ja jestem przy fabryce sera po prostu teraz.,I am just at the cheese factory right now.,calm,neutral,neutral
+13:37.0,13:40.0,"Mamy tego sera tyle, ale potrzeba go tyle dla dzieciaków na pizzę,","We have so much of this cheese, but we need this much for the kids' pizza,",concern,fear,mild
+13:40.0,13:43.0,bo pizza bez sera jest jak żołnierz bez karabinu.,because pizza without cheese is like a soldier without a rifle.,disappointment,sadness,mild
+13:43.0,13:45.0,"Paweł, ile czasu potrzebujesz do końca sera?","Paweł, how much time do you need to finish the cheese?",curiosity,neutral,neutral
+13:45.0,13:46.0,Pół godziny.,Half an hour.,expectation,neutral,neutral
+13:46.0,13:47.0,Pół godziny?,Half an hour?,curiosity,surprise,mild
+13:47.0,13:48.0,Pół godziny.,Half an hour.,neutrality,neutral,neutral
+13:48.0,13:49.0,Pół godziny.,Half an hour.,neutrality,neutral,neutral
+13:49.0,13:50.0,Pół godziny.,Half an hour.,neutrality,neutral,neutral
+13:50.0,13:51.0,Pół godziny.,Half an hour.,neutrality,neutral,neutral
+13:51.1,13:53.1,"Paweł, ile czasu potrzebujesz do końca sera?","Paweł, how much time do you need to finish the cheese?",curiosity,neutral,neutral
+13:53.1,13:54.1,Pół godziny.,Half an hour.,expectation,neutral,neutral
+13:54.1,13:55.1,Masz 20 minut.,You have 20 minutes.,pressure,fear,mild
+13:56.1,13:57.1,Okej.,Okay.,acceptance,neutral,neutral
+13:57.1,13:58.1,To tyle potrzebuję.,That's all I need.,contentment,happiness,mild
+13:58.1,13:59.1,Dzięki.,Thanks.,gratitude,happiness,mild
+13:59.1,14:02.1,"Za każdym razem jak wykonałem zadanie zgłaszałem się do Krzyśka,","Every time I completed a task, I reported to Krzysiek,",diligence,neutral,mild
+14:02.1,14:03.1,tak jak ustaliliśmy.,as we agreed.,agreement,neutral,neutral
+14:04.1,14:06.1,"On mówił okej, to teraz zrób to.","He said okay, now do it.",compliance,neutral,neutral
+14:06.1,14:08.1,"Paweł, jesteś własnością Marii, pomóż mi z tym.","Paweł, you are Maria's property, help me with this.",submission,neutral,mild
+14:09.1,14:11.1,"Czułem się może trochę jak kuchcik,","I felt maybe a bit like a kitchen helper,",self-deprecation,sadness,mild
+14:11.1,14:13.1,"ale wiedziałem, że taka osoba jest niezbędna",but I knew that such a person is indispensable,certainty,neutral,mild
+14:13.1,14:15.1,"po to, żeby zadanie zostało wykonane.",so that the task gets done.,determination,neutral,neutral
+14:21.1,14:22.1,Chodź.,Come.,invitation,neutral,neutral
+14:24.1,14:25.1,Paweł.,Paweł.,neutrality,neutral,neutral
+14:25.1,14:28.1,"Paweł, prosiłbym Cię o smarowanie już tych blatów","Paweł, I would ask you to start greasing those countertops now",request,neutral,neutral
+14:28.1,14:30.1,"i nakładanie sera, dziękuję.","and putting on cheese, thank you.",gratitude,happiness,mild
+14:32.1,14:34.1,"To wkładamy już pizzę, pieczemy i następnie...","Now we put the pizza in, bake it, and then...",anticipation,neutral,mild
+14:34.1,14:36.1,Tam pod wianą masz sos.,There under the wreath you have sauce.,calm,neutral,neutral
+14:37.1,14:39.1,A w Kanadzie macie keczup?,"And in Canada, do you have ketchup?",curiosity,neutral,mild
+14:40.1,14:41.1,Tak.,Yes.,acceptance,neutral,neutral
+14:41.1,14:42.1,A spróbowałeś ten?,And did you try this one?,curiosity,neutral,mild
+14:43.1,14:44.1,Tak.,Yes.,acceptance,neutral,neutral
+14:44.1,14:45.1,I?,I?,confusion,surprise,mild
+14:45.1,14:47.1,"No, muszę dostosować go do dzieci.","No, I have to adapt it for children.",responsibility,neutral,neutral
+14:48.1,14:50.1,"Ale dzieci lubią keczup, keczup.","But children like ketchup, ketchup.",fondness,happiness,mild
+14:50.3,14:52.3,"O smaku keczupu, a nie przecieru.","With the taste of ketchup, not puree.",preference,neutral,neutral
+14:53.3,14:54.3,Czarli to doświadczony tata.,Czarli is an experienced dad.,pride,happiness,mild
+14:54.3,14:56.3,"Wie, co dzieci lubią.",He/she knows what children like.,confidence,neutral,neutral
+14:58.3,15:00.3,Nie wykorzystaliśmy tej wskazówki.,We didn't use this clue.,regret,sadness,mild
+15:00.3,15:03.3,"Nie wiem w tej chwili, czy to dobrze, czy to źle.",I don't know right now if it's good or bad.,uncertainty,neutral,mild
+15:03.3,15:04.3,To się okaże.,We'll see.,uncertainty,neutral,neutral
+15:06.3,15:08.3,"Spokojnie, nie mamy źle, tak?","Calm down, we don't have it bad, right?",reassurance,happiness,mild
+15:09.3,15:11.3,"Mamy obsuwę, ale jest dobrze.","We have a delay, but it's okay.",reassurance,happiness,mild
+15:13.3,15:16.3,"Ludzie, słuchajcie, nie nakładamy tak ciasta.","People, listen, we don't put the dough on like that.",impatience,anger,mild
+15:16.3,15:17.3,Co to jest?,What is this?,curiosity,neutral,neutral
+15:17.3,15:19.3,To jest ciasto jeszcze raz do zrobienia.,This is a cake to be made again.,resignation,neutral,neutral
+15:20.3,15:21.3,Dobra.,Okay.,acceptance,neutral,neutral
+15:22.3,15:25.3,Minęło już godzinę i piętnaście minut.,An hour and fifteen minutes have already passed.,impatience,anger,mild
+15:25.3,15:26.3,Pół metra.,Half a meter.,neutrality,neutral,neutral
+15:27.3,15:28.3,Słyszycie?,Do you hear?,curiosity,neutral,mild
+15:28.3,15:29.3,Jest pół metra?,Is it half a meter?,uncertainty,neutral,neutral
+15:29.3,15:30.3,"Pół metra, tak.","Half a meter, yes.",acceptance,neutral,neutral
+15:32.3,15:34.3,A ja zaczynam się martwić.,And I'm starting to worry.,worry,fear,mild
+15:34.3,15:36.3,"Jak skończymy z mięsem, zawijamy naleśniki.","When we finish with the meat, we wrap the pancakes.",anticipation,neutral,mild
+15:36.3,15:37.3,Kto żyw?,Who is alive?,curiosity,surprise,mild
+15:37.3,15:42.3,"Dla mnie u niebieskich jest dobre to, że już coś usmażyli.","For me, what's good about the blue team is that they've already fried something.",appreciation,happiness,mild
+15:43.3,15:44.3,"Tak, to prawda.","Yes, that's true.",acceptance,neutral,neutral
+15:45.3,15:49.3,"Czarli, stajesz tu, ja ci podaję, a ty zwijasz i odkrabasz, dobrze?","Czarli, you stand here, I hand it to you, and you roll it up and scrape it off, okay?",instruction,neutral,neutral
+15:49.5,15:50.5,Dobra.,Okay.,acceptance,neutral,neutral
+15:51.5,15:54.5,"Ruchaj teraz, trzeba się ruszać tam.","Move now, we need to move there.",urgency,fear,moderate
+15:58.5,16:02.5,"Czy jesteś przekonany, że się wyrobisz, czy masz wątpliwości?","Are you convinced that you will make it, or do you have doubts?",uncertainty,fear,moderate
+16:02.5,16:03.5,Uczciwie powiedz.,Say it honestly.,expectation,neutral,mild
+16:03.5,16:05.5,"Mam lekkie wątpliwości, ale staramy się, żeby było dobrze.","I have slight doubts, but we are trying to make it right.",uncertainty,fear,mild
+16:05.5,16:07.5,Co najbardziej ci martwi teraz?,What worries you the most right now?,concern,fear,mild
+16:07.5,16:08.5,Ciasto.,Cake.,neutrality,neutral,neutral
+16:08.5,16:11.5,"Michel zauważył, że mamy troszeczkę spowolnione tempo.",Michel noticed that we have a slightly slowed pace.,observation,neutral,neutral
+16:11.5,16:14.5,"Ty widzisz tę pizzę w piecu za dwie minuty, zgadza się?","You see that pizza in the oven in two minutes, right?",expectation,neutral,mild
+16:14.5,16:15.5,"Tak, szef.","Yes, boss.",compliance,neutral,neutral
+16:15.5,16:17.5,"Muszą być w piecu, dlatego że nie się wyrobisz.","They have to be in the oven, because otherwise you won't make it in time.",pressure,fear,moderate
+16:17.6,16:19.6,"Ciasto ma być w piecu, teraz.","The cake is supposed to be in the oven, now.",impatience,anger,moderate
+16:19.6,16:22.6,"Myślałem, chłopie, idź mi stąd, daj mi pracować, tak?","I thought, man, get out of here, let me work, right?",irritation,anger,moderate
+16:23.6,16:26.6,"Daniel, Paweł, wałkować ciasto na pizzę.","Daniel, Paweł, roll out the pizza dough.",instruction,neutral,neutral
+16:26.6,16:29.6,"I do piecu mają być pizze, tutaj są ciastka, dobra?","And pizzas are supposed to go in the oven, here are cookies, okay?",confusion,surprise,mild
+16:29.6,16:30.6,"Tak, tak, szef.","Yes, yes, boss.",compliance,neutral,neutral
+16:32.6,16:36.6,"Michel miał rację, dlatego że nie zdawaliśmy sobie sprawy z tego,","Michel was right, because we were not aware of it,",realization,neutral,mild
+16:36.6,16:39.6,że musimy wsadzić tyle ptacy pizzy naraz.,that we have to put so many pizza birds in at once.,resignation,neutral,neutral
+16:40.6,16:43.6,"Ale szybszej, co ty mi robisz, kolego?","But faster, what are you doing to me, buddy?",impatience,anger,moderate
+16:44.6,16:45.6,Jak postawisz ten ser?,How will you place this cheese?,curiosity,neutral,mild
+16:47.6,16:49.6,"Do pieca, nie czekaj, do pieca.","To the oven, don't wait, to the oven.",impatience,anger,moderate
+16:50.6,16:51.6,"Do pieca, dawaj.","To the oven, come on.",impatience,anger,mild
+16:52.6,16:53.6,"Dał nam kopa, dał nam powera.","He gave us a kick, he gave us power.",motivation,happiness,moderate
+16:53.6,16:55.6,"Pizza ma być sos, nie może być sucha.","There has to be sauce on the pizza, it can't be dry.",insistence,anger,mild
+16:56.6,16:57.6,I było naprawdę...,And it was really...,anticipation,neutral,mild
+17:02.6,17:05.6,"Byłem przekonany, że czerwoni są lepsi, a ja martwię.","I was convinced that the reds are better, and I am worried.",worry,fear,moderate
+17:05.6,17:08.6,"Organizacja rozpadła się całkowicie, jest dramat.","The organization has completely fallen apart, it's a drama.",despair,sadness,intense
+17:08.6,17:11.6,"A u niebiescy myślę, że trochę lepszy.","And with the blue ones, I think it's a bit better.",preference,neutral,mild
+17:11.6,17:12.6,A co do smaku jest lepiej.,"And as for the taste, it's better.",satisfaction,happiness,mild
+17:12.6,17:15.6,"Mają to dać dzieciom jeść, to jest ewidentne.","They are supposed to give this to the children to eat, that's obvious.",certainty,neutral,neutral
+17:15.8,17:20.8,"Ostatnie piętnaście minut i słuchajcie, dzieci jadą do nas już.","The last fifteen minutes and listen, the children are already coming to us.",anticipation,happiness,moderate
+17:20.8,17:22.8,Ostatnie piętnaście minut.,The last fifteen minutes.,anticipation,neutral,neutral
+17:22.8,17:24.8,Ugotowanie potraw to nie wszystko.,Cooking the dishes is not everything.,resignation,neutral,neutral
+17:24.8,17:26.8,Trzeba pomyśleć o ich sprawnym wydawaniu.,We need to think about distributing them efficiently.,consideration,neutral,neutral
+17:27.8,17:31.8,"Ja wydaję nuggetsy, Adam kładzie chipsy, Jola nakłada naleśnik.","I serve nuggets, Adam puts chips, Jola puts a pancake.",routine,neutral,neutral
+17:31.8,17:32.8,Kto warzywa daje dla dzieci?,Who gives vegetables to the children?,curiosity,neutral,neutral
+17:33.8,17:35.8,"I keczup, dobrze?","And ketchup, okay?",expectation,neutral,mild
+17:35.8,17:37.8,"Słucham, jesteś koło mnie tutaj.","I'm listening, you are next to me here.",receptiveness,neutral,neutral
+17:37.8,17:39.8,"Za warzywa, owoce i keczup.","For vegetables, fruits, and ketchup.",indifference,neutral,neutral
+17:39.8,17:42.8,"Dla mnie najważniejsze, żeby zadowolować te dzieci.","For me, the most important thing is to please these children.",care,happiness,mild
+17:42.8,17:43.8,Niech się najedzą.,Let them eat their fill.,resignation,neutral,neutral
+17:44.8,17:56.8,Kiedyś hejnał Zwierzy Mariackiej ogłaszał niebezpieczeństwo. Dziś także będzie się działo.,"Once, the bugle call of St. Mary's Church announced danger. Today, something will also happen.",anticipation,surprise,mild
+17:56.8,18:20.8,Muzyka,Music,neutrality,neutral,neutral
+18:20.8,18:24.8,Jak zobaczyłem ta banda dzieciaków.,When I saw that gang of kids.,apprehension,fear,mild
+18:24.8,18:26.8,Wow!,Wow!,amazement,surprise,moderate
+18:26.8,18:29.8,Muzyka,Music,neutrality,neutral,neutral
+18:29.8,18:32.8,"Nie jest dobrze, jest ich multum.","It's not good, there are a lot of them.",concern,fear,moderate
+18:32.8,18:34.8,Muzyka,Music,neutrality,neutral,neutral
+18:34.8,18:38.8,"Nie no, wydało mi się, że jest więcej niż 150 dzieciaków, no nie?","No, I thought there were more than 150 kids, right?",doubt,surprise,mild
+18:38.8,18:40.8,Muzyka,Music,neutrality,neutral,neutral
+18:40.8,18:44.8,"Dzieci, dzieci, dzieci, a za dziećmi jeszcze stały dzieci.","Children, children, children, and behind the children there were still more children standing.",overwhelm,surprise,intense
+18:44.8,18:47.8,Witajcie w Masterchefie!,Welcome to Masterchef!,excitement,happiness,moderate
+18:47.8,18:51.8,Gdzie są solenizanci?,Where are the birthday people?,curiosity,neutral,mild
+18:51.8,18:55.8,Muzyka,Music,neutrality,neutral,neutral
+18:55.8,18:57.8,Lubicie prezenty?,Do you like gifts?,curiosity,neutral,mild
+18:57.8,18:58.8,Tak.,Yes.,acceptance,neutral,neutral
+18:58.8,19:01.8,Mamy prawdziwy fartucha Masterchefa.,We have a real Masterchef apron.,pride,happiness,moderate
+19:01.8,19:05.8,"Pójdź Kalenka, ładny.","Come on, Kalenka, pretty one.",affection,happiness,mild
+19:05.8,19:07.8,Troszkę za duży.,A little too big.,dissatisfaction,disgust,mild
+19:07.8,19:09.8,Będziesz mogła gotować w prawdziwym fartuchu.,You will be able to cook in a real apron.,anticipation,happiness,mild
+19:09.8,19:11.8,Wyglądasz jak prawdziwy Masterchef.,You look like a real Masterchef.,admiration,happiness,mild
+19:11.8,19:13.8,Oklaski,Applause,appreciation,happiness,mild
+19:13.8,19:16.8,Oczywiście kosze też są dla Was.,"Of course, the baskets are for you too.",inclusion,happiness,mild
+19:16.8,19:20.8,"Słuchajcie, tutaj są dwie drużyny, niebiescy i czerwony,","Listen, there are two teams here, the blue and the red,",announcement,neutral,neutral
+19:20.8,19:22.8,które przygotowali coś dla Was.,who prepared something for you.,appreciation,happiness,mild
+19:22.8,19:25.8,Będziecie spróbowali danie główne i deser.,You will try the main course and dessert.,expectation,neutral,neutral
+19:25.8,19:28.8,"I najważniejszej po jedzeniu musicie wybierać,","And most importantly, after eating you have to choose,",instruction,neutral,neutral
+19:28.8,19:31.8,która drużyna najlepszej gotowała.,which team cooked the best.,curiosity,neutral,neutral
+19:31.8,19:33.8,I to jest ważne dzisiaj.,And this is important today.,importance,neutral,mild
+19:33.8,19:38.8,Dostaniecie szpigulec i wybijecie balon kolorowy,You will get a pin and pop a colorful balloon,anticipation,surprise,mild
+19:38.8,19:40.8,"na tę drużynę, której nie smakował.","for that team, which he did not like.",displeasure,disgust,mild
+19:40.8,19:42.8,"Albo niebieski, albo czerwony.",Either blue or red.,indecision,neutral,neutral
+19:42.8,19:44.8,Ok?,Ok?,uncertainty,neutral,mild
+19:44.8,19:46.8,Jesteście głodni?,Are you hungry?,curiosity,neutral,neutral
+19:46.8,19:48.8,Tak!,Yes!,agreement,happiness,mild
+19:48.8,19:50.8,"Trzy minuty do końca, trzy minuty.","Three minutes to the end, three minutes.",anticipation,surprise,moderate
+19:50.8,19:52.8,Muzyka,Music,neutrality,neutral,neutral
+19:52.8,19:54.8,Muzyka,Music,neutrality,neutral,neutral
+19:54.8,19:56.8,Muzyka,Music,neutrality,neutral,neutral
+19:56.8,19:58.8,Muzyka,Music,neutrality,neutral,neutral
+19:58.8,20:00.8,Muzyka,Music,neutrality,neutral,neutral
+20:00.8,20:02.8,Muzyka,Music,neutrality,neutral,neutral
+20:02.8,20:04.8,Muzyka,Music,neutrality,neutral,neutral
+20:04.8,20:06.8,Muzyka,Music,neutrality,neutral,neutral
+20:06.8,20:08.8,Muzyka,Music,neutrality,neutral,neutral
+20:08.8,20:10.8,Muzyka,Music,neutrality,neutral,neutral
+20:10.8,20:12.8,Muzyka,Music,neutrality,neutral,neutral
+20:12.8,20:14.8,Muzyka,Music,neutrality,neutral,neutral
+20:14.8,20:16.8,Muzyka,Music,neutrality,neutral,neutral
+20:16.8,20:18.8,Muzyka,Music,neutrality,neutral,neutral
+20:18.8,20:20.8,Muzyka,Music,neutrality,neutral,neutral
+20:20.8,20:22.8,Muzyka,Music,neutrality,neutral,neutral
+20:22.8,20:24.8,Muzyka,Music,neutrality,neutral,neutral
+20:24.8,20:26.8,Muzyka,Music,neutrality,neutral,neutral
+20:26.8,20:28.8,Muzyka,Music,neutrality,neutral,neutral
+20:28.8,20:30.8,Muzyka,Music,neutrality,neutral,neutral
+20:30.8,20:32.8,Muzyka,Music,neutrality,neutral,neutral
+20:32.8,20:34.8,Muzyka,Music,neutrality,neutral,neutral
+20:34.8,20:36.8,Muzyka,Music,neutrality,neutral,neutral
+20:36.8,20:38.8,Muzyka,Music,neutrality,neutral,neutral
+20:38.8,20:40.8,Muzyka,Music,neutrality,neutral,neutral
+20:40.8,20:42.8,Muzyka,Music,neutrality,neutral,neutral
+20:42.8,20:44.8,Muzyka,Music,neutrality,neutral,neutral
+20:44.8,20:46.8,Muzyka,Music,neutrality,neutral,neutral
+20:46.8,20:48.8,Muzyka,Music,neutrality,neutral,neutral
+20:48.8,20:50.8,Muzyka,Music,neutrality,neutral,neutral
+20:50.8,20:52.8,Muzyka,Music,neutrality,neutral,neutral
+20:52.8,20:54.8,Muzyka,Music,neutrality,neutral,neutral
+20:54.8,20:56.8,Muzyka,Music,neutrality,neutral,neutral
+20:56.8,20:58.8,Muzyka,Music,neutrality,neutral,neutral
+20:58.8,21:00.8,Muzyka,Music,neutrality,neutral,neutral
+21:00.8,21:02.8,Muzyka,Music,neutrality,neutral,neutral
+21:02.8,21:04.8,Muzyka,Music,neutrality,neutral,neutral
+21:04.8,21:06.8,Muzyka,Music,neutrality,neutral,neutral
+21:06.8,21:08.8,Muzyka,Music,neutrality,neutral,neutral
+21:08.8,21:10.8,Muzyka,Music,neutrality,neutral,neutral
+21:10.8,21:12.8,Muzyka,Music,neutrality,neutral,neutral
+21:12.8,21:14.8,Muzyka,Music,neutrality,neutral,neutral
+21:14.8,21:16.8,Muzyka,Music,neutrality,neutral,neutral
+21:16.8,21:18.8,Muzyka,Music,neutrality,neutral,neutral
+21:18.8,21:20.8,Muzyka,Music,neutrality,neutral,neutral
+21:20.8,21:22.8,Muzyka,Music,neutrality,neutral,neutral
+21:22.8,21:24.8,Muzyka,Music,neutrality,neutral,neutral
+21:24.8,21:26.8,Muzyka,Music,neutrality,neutral,neutral
+21:26.8,21:28.8,Muzyka,Music,neutrality,neutral,neutral
+21:28.8,21:30.8,Muzyka,Music,neutrality,neutral,neutral
+21:30.8,21:32.8,Muzyka,Music,neutrality,neutral,neutral
+21:32.8,21:34.8,Muzyka,Music,neutrality,neutral,neutral
+21:34.8,21:36.8,Muzyka,Music,neutrality,neutral,neutral
+21:36.8,21:38.8,Muzyka,Music,neutrality,neutral,neutral
+21:38.8,21:40.8,Muzyka,Music,neutrality,neutral,neutral
+21:40.8,21:42.8,Muzyka,Music,neutrality,neutral,neutral
+21:42.8,21:44.8,Muzyka,Music,neutrality,neutral,neutral
+21:44.8,21:46.8,Muzyka,Music,neutrality,neutral,neutral
+21:46.8,21:48.8,Muzyka,Music,neutrality,neutral,neutral
+21:48.8,21:50.8,Muzyka,Music,neutrality,neutral,neutral
+21:50.8,21:52.8,Muzyka,Music,neutrality,neutral,neutral
+21:52.8,21:54.8,Muzyka,Music,neutrality,neutral,neutral
+21:54.8,21:56.8,Muzyka,Music,neutrality,neutral,neutral
+21:56.8,21:58.8,Muzyka,Music,neutrality,neutral,neutral
+21:58.8,22:00.8,Muzyka,Music,neutrality,neutral,neutral
+22:00.8,22:02.8,Muzyka,Music,neutrality,neutral,neutral
+22:02.8,22:04.8,Muzyka,Music,neutrality,neutral,neutral
+22:05.8,22:10.8,"Na szybko rzucamy jakieś pomysły w stylu pomidorki, to są oczy Shreka.","We quickly throw out some ideas like little tomatoes, these are Shrek's eyes.",spontaneity,neutral,mild
+22:10.8,22:14.8,I tu mamy zęby Shreka. Co wolisz? Oczy czy zęby?,And here we have Shrek's teeth. What do you prefer? Eyes or teeth?,curiosity,neutral,mild
+22:14.8,22:18.8,Metoda na Shreka pomogła. Niebiescy odrabiają straty.,The Shrek method helped. The Blues are making a comeback.,hope,happiness,moderate
+22:18.8,22:21.8,"No trzeba walczyć do końca, zawsze trzeba walczyć do końca.","You have to fight until the end, you always have to fight until the end.",determination,happiness,moderate
+22:21.8,22:24.8,"Pod okładkę możesz wrócić później, jak będziesz chciał.","You can come back under the cover later, whenever you want.",permission,neutral,neutral
+22:24.8,22:29.8,"Bardzo mi smakowały niebiescy, że zrobili niebiescy.","I really liked the blue ones, that they made the blue ones.",appreciation,happiness,mild
+22:30.8,22:34.8,Najbardziej mi smakują naleśniki.,I like pancakes the most.,preference,happiness,mild
+22:36.8,22:38.8,Ja głosuję na niebieski.,I vote for blue.,preference,neutral,neutral
+22:38.8,22:40.8,Na przykład ćwiczenie.,"For example, exercise.",neutrality,neutral,neutral
+22:42.8,22:44.8,Głosujemy na niebieski.,We vote for blue.,preference,neutral,neutral
+22:44.8,22:47.8,Całe siły! Całe siły!,All strength! All strength!,determination,happiness,intense
+22:48.8,22:51.8,"Byłem zadowolony, byłem pewien, że wygramy to zadanie.","I was satisfied, I was sure that we would win this task.",confidence,happiness,moderate
+22:52.8,22:53.8,Kto wygra?,Who will win?,curiosity,neutral,mild
+22:53.8,22:54.8,Czerwoni.,Red ones.,neutrality,neutral,neutral
+22:54.8,22:55.8,Dlaczego?,Why?,confusion,surprise,mild
+22:55.8,22:57.8,No bo oni mają to.,Because they have it.,resentment,anger,mild
+22:57.8,22:59.8,"Oni mają to, czekoladę.","They have it, chocolate.",desire,happiness,mild
+23:00.8,23:04.8,Uśmiechnięte dzieci. Całe brązowe buzie od murzynka.,Smiling children. Entirely brown faces from chocolate cake.,amusement,happiness,mild
+23:04.8,23:06.8,To szaleństwo.,This is madness.,bewilderment,surprise,moderate
+23:11.8,23:14.8,Czerwoni! Czerwoni!,Reds! Reds!,excitement,happiness,intense
+23:15.8,23:17.8,"Proszę bardzo, truskawka.","Here you go, strawberry.",generosity,happiness,mild
+23:19.8,23:22.8,"Dzieciaki, chce ktoś jeszcze pizzę?","Kids, does anyone want more pizza?",curiosity,neutral,neutral
+23:22.8,23:25.8,Zapraszamy do nas z talerzykami!,Come to us with your plates!,invitation,happiness,mild
+23:25.8,23:26.8,Można dwa kawałki?,Can I have two pieces?,desire,happiness,mild
+23:26.8,23:27.8,Proszę bardzo.,You're welcome.,politeness,neutral,neutral
+23:28.8,23:30.8,"To jest najlepszy komplement, który może być,","This is the best compliment there can be,",appreciation,happiness,mild
+23:30.8,23:33.8,kiedy dzieciaki przychodzą do ciebie i mówią,when the kids come to you and say,anticipation,surprise,mild
+23:33.8,23:36.8,"wy mieli smaczne danie, będziemy za Czerwonych.","you had a tasty dish, we will be for the Reds.",preference,neutral,neutral
+23:36.8,23:39.8,"I ja tak, jest, my to zrobili, jest!","And me too, yes, we did it, yes!",triumph,happiness,intense
+23:39.8,23:44.8,Czerwoni! Czerwoni! Czerwoni!,Reds! Reds! Reds!,excitement,happiness,intense
+23:45.8,23:46.8,Dokładkę?,A second helping?,curiosity,neutral,neutral
+23:47.8,23:49.8,"Jak fajnie, dokładkę, jest!","How nice, seconds, yes!",excitement,happiness,moderate
+23:50.8,23:51.8,Dzięki!,Thanks!,gratitude,happiness,mild
+23:52.8,23:53.8,Jesteście super!,You are great!,admiration,happiness,moderate
+23:55.8,23:58.8,"Moi kochani, większość z was już zagłosowała","My dears, most of you have already voted",affection,happiness,mild
+23:58.8,24:03.8,i teraz wynik jest z przewagą drużyny czerwonej.,and now the score is in favor of the red team.,acknowledgment,neutral,neutral
+24:03.8,24:06.8,80 do 58.,80 to 58.,indifference,neutral,neutral
+24:06.8,24:08.8,"Natomiast wszystko może się zdarzyć,","However, anything can happen,",uncertainty,surprise,mild
+24:08.8,24:11.8,"ponieważ trzy najważniejsze dzisiaj osoby,","because the three most important people today,",anticipation,neutral,mild
+24:11.8,24:14.8,"Dawid, Oliwia i Helenka, jeszcze nie zagłosowały,","Dawid, Oliwia and Helenka have not voted yet,",expectation,neutral,neutral
+24:14.8,24:18.8,a ich głos liczy się tak jak 10 balonów.,and their voice counts as much as 10 balloons.,comparison,neutral,neutral
+24:19.8,24:25.8,"Dziękujemy, dziękujemy, dziękujemy!","Thank you, thank you, thank you!",gratitude,happiness,intense
+24:25.8,24:28.8,"Nie, nie, nie, proszę, proszę, nie, nie, nie.","No, no, no, please, please, no, no, no.",pleading,fear,intense
+24:28.8,24:31.8,"Dziękujemy, dziękujemy, dziękujemy!","Thank you, thank you, thank you!",gratitude,happiness,intense
+24:31.8,24:33.8,10 balonów opisanych po półtora miesiąca.,10 balloons described after one and a half months.,curiosity,neutral,neutral
+24:33.8,24:35.8,Czy po półtora zacznie się otworzyć?,Will it start to open after one and a half?,uncertainty,neutral,mild
+24:41.8,24:44.8,"Koniec, jesteśmy ugotowani generalnie.","It's over, we're basically done for.",resignation,sadness,moderate
+24:44.8,24:45.8,Wymywaliśmy.,We were making things up.,improvisation,neutral,neutral
+24:47.8,24:51.8,"Kamień serca, naprawdę, my się sobie wygraliśmy!","A weight off the heart, really, we won for ourselves!",relief,happiness,intense
+24:59.8,25:02.8,Wszystko w rękach dziewięcioletniej Oliwki.,Everything is in the hands of nine-year-old Oliwka.,anticipation,surprise,moderate
+25:02.8,25:05.8,Tym samym wygrywa drużyna czerwona!,"Thus, the red team wins!",triumph,happiness,moderate
+25:20.8,25:22.8,Uwielbiam wygrywać.,I love winning.,exhilaration,happiness,moderate
+25:22.8,25:24.8,Jak ja uwielbiam wygrywać.,How I love to win.,exhilaration,happiness,intense
+25:26.8,25:27.8,Super!,Super!,enthusiasm,happiness,moderate
+25:28.8,25:30.8,Drużyna odrzuconych zwyciężyła.,The team of the rejected has won.,triumph,happiness,moderate
+25:33.8,25:34.8,Dzięki!,Thanks!,gratitude,happiness,mild
+25:36.8,25:38.8,Czemu przegraliśmy?,Why did we lose?,disappointment,sadness,moderate
+25:41.8,25:43.8,Czemu przegraliśmy?,Why did we lose?,disappointment,sadness,moderate
+25:43.8,25:46.8,"No bo dzieci wolały pizzę, no nie?","Because the kids preferred pizza, right?",resignation,neutral,mild
+25:49.8,25:50.8,"I mużynek, który...","And the little black boy, who...",hesitation,neutral,neutral
+25:50.8,25:51.8,Uśmiech mużynka!,Smile of a black man!,appreciation,happiness,mild
+25:51.8,25:55.8,"I uśmiech mużynka, który w przeciwieństwie do naleśnika z serem","And the smile of the black man, which unlike the cheese pancake",curiosity,neutral,mild
+25:55.8,25:57.8,dzieci uważają za deser!,children consider it a dessert!,amusement,happiness,mild
+25:57.8,26:00.8,"Czekolada, ser, wygrana.","Chocolate, cheese, victory.",satisfaction,happiness,mild
+26:00.8,26:02.8,"Maria, Maria, Maria!","Maria, Maria, Maria!",longing,sadness,intense
+26:03.8,26:07.8,"Gdyby była kolejna grupowa konkurencja, biorę dokładnie w ten sam sposób.","If there was another group competition, I would do it exactly the same way.",determination,neutral,mild
+26:13.8,26:17.8,Drużyna Leszka przegrała na rynku i będzie musiała walczyć w kolejnym zadaniu.,Leszek's team lost in the market and will have to fight in the next task.,disappointment,sadness,moderate
+26:17.8,26:22.8,Krzysiek i reszta czerwonych w nagrodę za zwycięstwo są już bezpieczni.,Krzysiek and the rest of the reds are already safe as a reward for their victory.,relief,happiness,mild
+26:30.8,26:34.8,"Patrząc na was z boku, ja zauważyłam, że pracowaliście jak dobry szwajcarski zegarek,","Looking at you from the side, I noticed that you worked like a good Swiss watch,",admiration,happiness,mild
+26:34.8,26:36.8,ale chyba gdzieś tam zbagatelizowaliście.,but I think you somehow neglected it somewhere.,disappointment,sadness,mild
+26:37.2,26:41.2,wysublimowany smak naszych gości.,the sophisticated taste of our guests.,admiration,happiness,mild
+26:41.2,26:44.2,"Co mnie rozczarowało, gdzie jest ta niespodzianka,","What disappointed me, where is that surprise,",disappointment,sadness,moderate
+26:44.2,26:45.2,która miała być?,which one was supposed to be?,confusion,surprise,mild
+26:45.2,26:48.2,"Miała być niespodzianka i ta główna niespodzianka,","There was supposed to be a surprise and the main surprise,",expectation,surprise,mild
+26:48.2,26:51.2,"którą przygotowaliśmy, rozpłynęła się w piecu.",the one we prepared melted in the oven.,disappointment,sadness,mild
+26:51.2,26:55.2,"Miał być tort bezowy, no ale tak się zdarzyło","There was supposed to be a meringue cake, but that's just how it happened",resignation,sadness,mild
+26:55.2,26:57.2,i jest nam przykro.,and we are sorry.,regret,sadness,mild
+26:57.2,26:59.2,"Leszek, byłeś kapitanem, prawda?","Leszek, you were the captain, right?",curiosity,neutral,mild
+26:59.2,27:02.2,"Według ciebie, kto wśród was był najlepszy?","In your opinion, who among you was the best?",curiosity,neutral,mild
+27:03.2,27:09.2,Drużyna naprawdę była wspaniała i nie mogę wymienić.,The team was really wonderful and I can't name them.,admiration,happiness,moderate
+27:09.2,27:11.2,"Jeżeli byłaby naprawdę wspaniała,","If she were truly wonderful,",doubt,neutral,mild
+27:11.2,27:12.2,to byśmy wygrali.,then we would have won.,regret,sadness,mild
+27:12.2,27:14.2,"Ty byłeś z nimi na balkonie, a oni tam na dole.","You were with them on the balcony, and they were down there.",recollection,neutral,neutral
+27:14.2,27:15.2,Przepraszam.,I'm sorry.,remorse,sadness,mild
+27:16.2,27:20.2,"Leszek, a jeśli teraz mógłbyś wybrać jedną osobę,","Leszek, and if you could choose one person now,",curiosity,neutral,mild
+27:20.2,27:22.2,"która na pewno mogłaby zachować fartuch,","who could definitely keep the apron,",certainty,neutral,mild
+27:22.2,27:24.2,to kogo byś wybrał?,so who would you choose?,curiosity,neutral,mild
+27:24.2,27:26.2,To możesz być również ty.,It could be you too.,possibility,neutral,neutral
+27:26.2,27:27.2,Pamiętaj o tym.,Remember this.,insistence,neutral,mild
+27:27.2,27:29.2,"Nie, siebie nie mogę wybrać.","No, I can't choose myself.",resignation,sadness,mild
+27:30.2,27:33.2,"Byłby to kac moralny i nie na moim poziomie,","It would be a moral hangover and not on my level,",disapproval,disgust,moderate
+27:33.2,27:36.2,bo pójście na taką łatwiznę.,because taking such an easy way out.,disapproval,disgust,moderate
+27:36.2,27:41.2,"Byłbym chyba tchórzem i myślę, że postąpiłem tak, jak powinienem.",I would probably be a coward and I think I acted as I should have.,self-reflection,neutral,mild
+27:41.2,27:43.2,Wybieram...,I choose...,anticipation,happiness,mild
+27:48.2,27:49.2,Charles.,Charles.,neutrality,neutral,neutral
+27:51.2,27:55.2,"Decyzja Leszka jest zaskoczeniem, także dla Charlesa.","Leszek's decision is a surprise, also for Charles.",astonishment,surprise,moderate
+27:56.2,27:58.2,"Szok, nie?","Shock, right?",astonishment,surprise,moderate
+27:59.2,28:01.2,"Czemu ja, to nie wiem.","Why me, I don't know.",confusion,sadness,mild
+28:03.2,28:05.2,"Nie, że musiałem wybrać Charlie'ego.",Not that I had to choose Charlie.,regret,sadness,mild
+28:05.2,28:07.2,Ja chciałem wybrać Charlie'ego z dwóch powodów.,I wanted to choose Charlie for two reasons.,preference,neutral,neutral
+28:07.2,28:10.2,"Raz to jest przyjaźń, druga to jest pomoc dla przyjaciela.","First, it is friendship, second, it is help for a friend.",camaraderie,happiness,mild
+28:10.2,28:14.2,"Fajny facet i myślę, że postąpiłem słusznie.",Nice guy and I think I did the right thing.,satisfaction,happiness,mild
+28:16.2,28:19.2,"Potrafię w biznesie być bardzo twardy,","I can be very tough in business,",determination,neutral,moderate
+28:19.2,28:23.2,ale te emocje wygrają na twardego człowieka.,but these emotions will win over a tough man.,resignation,sadness,moderate
+28:24.2,28:26.2,Na miejscu Leszka to...,If I were in Leszek's place...,contemplation,neutral,neutral
+28:28.2,28:30.2,"Nie wiem, co ja bym zrobił.",I don't know what I would do.,uncertainty,fear,mild
+28:30.2,28:31.2,Nie wiem.,I don't know.,uncertainty,neutral,neutral
+28:31.2,28:34.2,"Myślę, że też może Leszek bym wybrał.",I think maybe I would also choose Leszek.,consideration,neutral,mild
+28:39.2,28:42.2,"Dzisiejsza konkurencja pokazała,","Today's competition showed,",anticipation,neutral,mild
+28:44.2,28:46.2,jakie to wszystko jest trudne.,how difficult all this is.,discouragement,sadness,moderate
+28:49.2,28:51.2,"Byliście drużyną, drużyną niebieskich,","You were a team, a team of the blue ones,",nostalgia,sadness,mild
+28:51.2,28:53.2,ale teraz macie czarne fartuchy,but now you have black aprons,observation,neutral,neutral
+28:53.2,28:57.2,i teraz każdy z was będzie musiał walczyć sam o siebie.,and now each of you will have to fight for yourself.,apprehension,fear,moderate
+28:57.2,28:59.2,"Czy to będzie deser, czy to będzie ryba, czy to będzie mięso,","Will it be dessert, will it be fish, will it be meat,",curiosity,surprise,mild
+28:59.2,29:01.2,"czy to będzie, nie wiem, wieloryb.","will it be, I don't know, a whale.",uncertainty,surprise,mild
+29:01.2,29:04.2,"Jestem przygotowany na to chwilę, na wszystko.","I am prepared for this moment, for everything.",readiness,neutral,mild
+29:04.2,29:08.2,"Jako pierwszy z konkurencją zmierzy się kapitan, czyli Leszek.","The captain, that is Leszek, will be the first to face the competition.",anticipation,surprise,mild
+29:22.2,29:25.2,"Masterchef musi wiedzieć, z czego gotuje.",Masterchef must know what he is cooking with.,certainty,neutral,neutral
+29:25.2,29:28.2,Dlatego pragniemy sprawdzić twoją wiedzę.,"Therefore, we want to test your knowledge.",curiosity,neutral,mild
+29:28.2,29:32.2,Na tym stole jest 37 produktów z całego świata.,There are 37 products from all over the world on this table.,curiosity,neutral,neutral
+29:32.2,29:35.2,"Owoce, kwiaty, nasiona, korzenie.","Fruits, flowers, seeds, roots.",neutrality,neutral,neutral
+29:35.2,29:37.2,Podróż poprzez smak.,Journey through taste.,curiosity,neutral,neutral
+29:37.2,29:41.2,Twoim zadaniem będzie rozpoznanie jak największej ilości produktów.,Your task will be to recognize as many products as possible.,expectation,neutral,neutral
+29:41.2,29:45.2,"Możesz je oglądać, dotykać, wąchać, podnosić,","You can watch them, touch them, smell them, pick them up,",curiosity,neutral,mild
+29:45.2,29:48.2,ale nie możesz ich próbować.,but you can't try them.,restriction,sadness,mild
+29:48.2,29:52.2,"Ja jestem takim facetem, który lubi chodzić po sklepach, pooglądać.","I am the kind of guy who likes to walk around shops, to look around.",interest,happiness,mild
+29:52.2,29:54.2,Dzisiaj jest kontakt z tymi produktami.,Today there is contact with these products.,expectation,neutral,neutral
+29:54.2,29:56.2,"Sporo z nich znam, no byłem spokojny.","I know quite a few of them, but I was calm.",calmness,neutral,mild
+29:56.2,29:58.2,"No Leszek, jesteś gotowy?","So Leszek, are you ready?",anticipation,surprise,mild
+30:03.2,30:04.2,No zaczynaj.,"Well, start.",impatience,anger,mild
+30:14.2,30:15.2,Granat.,Grenade.,alarm,fear,moderate
+30:16.2,30:17.2,Granat.,Grenade.,alertness,surprise,mild
+30:18.2,30:19.2,"Tak, to jest granat.","Yes, this is a grenade.",certainty,neutral,neutral
+30:30.2,30:31.2,Pietruszka.,Parsley.,neutrality,neutral,neutral
+30:31.2,30:32.2,Jestem pewien.,I am sure.,confidence,happiness,mild
+30:37.2,30:38.2,100%?,100%?,doubt,surprise,mild
+30:38.2,30:39.2,100%.,100%.,certainty,neutral,neutral
+30:40.2,30:41.2,Może zmienić się jeszcze?,Can it still change?,uncertainty,fear,mild
+30:43.2,30:44.2,Nie.,No.,rejection,anger,mild
+30:46.2,30:47.2,Leszek.,Leszek.,neutrality,neutral,neutral
+30:47.2,30:50.2,"To jest, znaczy, pietruszka w sensie, że to jest korzeń z pietruszki.","This is, I mean, parsley in the sense that this is the root of parsley.",clarification,neutral,neutral
+30:50.2,30:52.2,"Dobrze, ja ci powiem co to jest.","Alright, I'll tell you what it is.",readiness,neutral,neutral
+30:55.2,30:56.2,To jest pasternak.,This is a parsnip.,neutrality,neutral,neutral
+31:00.2,31:04.2,"Pietruszka jest taka bardzo, czuje się ten, a tu faktycznie jest mniejszy ten, ten, ten,","Parsley is so very, you can feel it, and here actually it's less, less, less,",uncertainty,neutral,mild
+31:04.2,31:05.2,mniej intensywny zapach.,less intense smell.,indifference,neutral,neutral
+31:05.2,31:08.2,Jest i faktycznie można jako takie warzywo używać.,"It is, and you can actually use it as a kind of vegetable.",acceptance,neutral,neutral
+31:08.2,31:10.2,Na pewno go wytestujemy.,We will definitely test it.,determination,neutral,moderate
+31:11.2,31:12.2,"Leszek, zapraszam ci.","Leszek, I invite you.",invitation,neutral,neutral
+31:13.2,31:18.2,"Dwaj kucharze, którzy odgadną najmniej produktów, będą czekać w kuchni.",The two chefs who guess the fewest products will wait in the kitchen.,apprehension,fear,mild
+31:18.2,31:21.2,"Pozostali, bezpieczni, trafią na balkon.","The others, safe, will go to the balcony.",reassurance,neutral,mild
+31:35.2,31:37.2,Adam nie wie jaki jest wynik Leszka.,Adam doesn't know what Leszek's result is.,uncertainty,neutral,neutral
+31:37.2,31:38.2,Pietruszka.,Parsley.,neutrality,neutral,neutral
+31:41.2,31:42.2,Nie chce ryzykować.,I don't want to take a risk.,apprehension,fear,mild
+31:42.2,31:43.2,Zaczyna od pewniaka.,He starts with a sure thing.,confidence,happiness,mild
+31:46.2,31:47.2,Pietruszka.,Parsley.,neutrality,neutral,neutral
+31:57.2,31:58.2,I odkładać to?,And to put it away?,confusion,surprise,mild
+32:00.2,32:02.2,"Adam, czy jesteś pewien?","Adam, are you sure?",doubt,fear,mild
+32:04.2,32:06.2,Chyba idioti ze mnie jakieś debile robią.,I think idiots are making a fool out of me.,contempt,anger,moderate
+32:06.2,32:09.2,"Nie zastanowi, no co jest innego podobnego do tej pietruszki.",He won't think about what else is similar to this parsley.,indifference,neutral,neutral
+32:15.2,32:16.2,"Tak, jestem pewien.","Yes, I am sure.",certainty,neutral,moderate
+32:19.2,32:22.2,"Adam, to jest pasternak.","Adam, this is a parsnip.",informing,neutral,neutral
+32:27.2,32:28.2,Trudno.,It's hard.,resignation,sadness,mild
+32:29.2,32:30.2,Ale zaczęłabym.,But I would start.,hesitation,neutral,mild
+32:32.2,32:35.2,"Przed momentem ja popełniłem ten sam błąd, nie?","A moment ago I made the same mistake, didn't I?",regret,sadness,mild
+32:36.2,32:39.2,"Radość jakaś, no bo, no trzeba powiedzieć, to jest też rywalizacja.","Some kind of joy, because, well, you have to say, it's also a competition.",excitement,happiness,moderate
+32:39.2,32:41.2,"Ja myślę, że do tego tak trzeba podejść.",I think that's the way to approach this.,thoughtfulness,neutral,neutral
+32:41.2,32:42.2,Bardzo podobne.,Very similar.,indifference,neutral,neutral
+32:46.2,32:48.2,Leszek i Adam się nie popisali.,Leszek and Adam did not do well.,disappointment,sadness,mild
+32:48.2,32:52.2,"Żeby być bezpieczną, Ania musi rozpoznać tylko dwa produkty.","To be safe, Ania only has to recognize two products.",caution,fear,mild
+32:57.2,32:58.2,To jest granat?,Is this a grenade?,suspicion,fear,moderate
+33:00.2,33:01.2,"Tak, to jest granat.","Yes, this is a grenade.",confirmation,neutral,neutral
+33:07.2,33:08.2,To jest kardamon?,Is this cardamom?,curiosity,surprise,mild
+33:12.2,33:13.2,Tak.,Yes.,acceptance,neutral,neutral
+33:18.2,33:19.2,To jest mango?,Is this a mango?,curiosity,neutral,mild
+33:20.2,33:21.2,"Tak, to jest mango.","Yes, this is a mango.",certainty,neutral,neutral
+33:37.2,33:38.2,To jest owoc litchi?,Is this a lychee fruit?,curiosity,neutral,mild
+33:53.2,33:56.2,"Aniu, to niestety nie jest owoc litchi.","Aniu, unfortunately, this is not a lychee fruit.",disappointment,sadness,mild
+33:57.2,33:58.2,To jest miechunka.,This is a physalis.,neutrality,neutral,neutral
+34:07.2,34:10.2,"37 składników, odgadłaś tylko 3.","37 ingredients, you guessed only 3.",disappointment,sadness,moderate
+34:12.2,34:15.2,"To nie jest wiedza na miarę Masterchefa, ale równocześnie","This is not knowledge on the level of Masterchef, but at the same time",doubt,neutral,mild
+34:15.2,34:19.2,"posiadałaś większą wiedzę niż Leszek i Adam,","you had more knowledge than Leszek and Adam,",pride,happiness,mild
+34:19.2,34:22.2,w związku z czym jesteś bezpieczna i możesz iść na balkon.,therefore you are safe and you can go to the balcony.,reassurance,happiness,mild
+34:24.2,34:26.2,Nie mogłam w to uwierzyć.,I couldn't believe it.,disbelief,surprise,moderate
+34:26.2,34:28.2,"Pomyślałam, że w ogóle to jest abstrakcyjne.","I thought that, in general, this is abstract.",bewilderment,surprise,mild
+34:28.2,34:30.2,Nie docierało to do mnie w ogóle.,It didn't reach me at all.,detachment,neutral,neutral
+34:31.2,34:33.2,W ogóle nie mogłam w to uwierzyć.,I couldn't believe it at all.,disbelief,surprise,intense
+34:33.2,34:35.2,Nie docierało to do mnie w ogóle.,It didn't reach me at all.,confusion,neutral,mild
+34:36.2,34:39.2,"W ogóle nie pamiętam drogi od momentu, kiedy to usłyszałam, aż na góra.",I don't remember the way at all from the moment I heard it until the top.,bewilderment,surprise,moderate
+34:41.2,34:43.2,"Jola marzy o własnym, małym bistro.","Jola dreams of her own, small bistro.",longing,happiness,mild
+34:44.2,34:46.2,"Tytuł Masterchefa ma jej pomóc w spełnieniu marzenia,","The title of Masterchef is supposed to help her fulfill her dream,",hope,happiness,mild
+34:46.2,34:48.2,więc jest bardzo zdeterminowana.,so she is very determined.,determination,neutral,intense
+34:50.2,34:51.2,Jesteś gotowa?,Are you ready?,anticipation,neutral,neutral
+34:51.2,34:52.2,Jestem gotowa.,I am ready.,readiness,neutral,neutral
+34:54.2,34:55.2,To zaczynaj.,Then start.,impatience,anger,mild
+34:56.2,34:57.2,Mango.,Mango.,neutrality,neutral,neutral
+34:58.2,34:59.2,"Tak, to jest mango.","Yes, this is a mango.",certainty,neutral,neutral
+35:14.2,35:19.2,"Jakbym brał udział, to ja bym grał tego pasternaka na dzień dobry,","If I were participating, I would play that Pasternak right away,",eagerness,happiness,mild
+35:19.2,35:21.2,no to bym się nie spodziewała.,"Well, I wouldn't have expected that.",astonishment,surprise,moderate
+35:21.2,35:26.2,"Jakbym grał tego pasternaka na dzień dobry, no to bym upadł dzisiaj.","If I had played that pasternak right away, I would have collapsed today.",regret,sadness,mild
+35:27.2,35:28.2,Jesteś pewna?,Are you sure?,doubt,fear,mild
+35:29.6,35:52.6,"Na 99% byłam pewna, że to jest pasternak, ale mówię, jeszcze nie powiem, bo jak pietruszka, no to niepotrzebnie mogę ryzykować, prawda?","I was 99% sure it was parsnip, but I thought, I won't say anything yet, because if it's parsley, then I might be taking an unnecessary risk, right?",uncertainty,fear,moderate
+35:52.6,35:58.6,Bazylia.,Bazylia.,neutrality,neutral,neutral
+35:58.6,35:59.6,Ale jaka bazylia?,But which basil?,confusion,surprise,mild
+35:59.6,36:10.6,Bazylia fioletowa.,Purple basil.,neutrality,neutral,neutral
+36:10.6,36:14.6,"Tak, to jest bazylia fioletowa i też bazylia czerwona.","Yes, this is purple basil and also red basil.",confirmation,neutral,neutral
+36:14.6,36:18.6,Granat.,Grenade.,alarm,fear,moderate
+36:18.6,36:41.6,"Tak, to jest granat.","Yes, this is a grenade.",certainty,neutral,neutral
+36:41.6,36:46.6,Oregano.,Oregano.,neutrality,neutral,neutral
+36:46.6,36:54.6,"Tak, to jest oregano.","Yes, this is oregano.",certainty,neutral,neutral
+36:54.6,36:57.6,Owoce goi.,Eat the fruit.,encouragement,neutral,neutral
+36:57.6,37:00.6,Jesteś pewna?,Are you sure?,doubt,fear,mild
+37:00.6,37:02.6,"Mam nadzieję, że się nie mylę.",I hope I'm not wrong.,hope,fear,mild
+37:02.6,37:09.6,Nie mieliście.,You didn't have.,disappointment,sadness,mild
+37:09.6,37:11.6,Trawa cytrynowa.,Lemongrass.,neutrality,neutral,neutral
+37:11.6,37:40.6,"Tak, to jest trawa cytrynowa.","Yes, this is lemongrass.",confirmation,neutral,neutral
+37:40.6,37:44.6,Marakuja.,Marakuja.,neutrality,neutral,neutral
+37:44.6,37:56.6,"Tak, to jest marakuja.","Yes, this is passion fruit.",confirmation,neutral,neutral
+37:56.6,37:58.6,Grzyby shiitake.,Shiitake mushrooms.,neutrality,neutral,neutral
+37:58.6,38:08.6,"Tak, to są grzyby shiitake.","Yes, these are shiitake mushrooms.",confirmation,neutral,neutral
+38:08.6,38:10.6,Bakłażan chiński.,Chinese eggplant.,neutrality,neutral,neutral
+38:10.6,38:20.6,"Tak, to jest bakłażan.","Yes, this is an eggplant.",certainty,neutral,neutral
+38:20.6,38:23.6,Pigwa.,Pigwa.,neutrality,neutral,neutral
+38:23.6,38:25.6,Jesteś pewna?,Are you sure?,doubt,fear,mild
+38:25.6,38:29.6,"To jest moja odpowiedź, pigwa.","This is my answer, quince.",assertiveness,neutral,neutral
+38:29.6,38:32.6,"Jola, to się nazywa papaya.","Jola, this is called papaya.",informing,neutral,neutral
+38:32.6,38:33.6,To nie jest pigwa.,This is not a quince.,denial,neutral,neutral
+38:33.6,38:36.6,Pigwa trochę inaczej wygląda.,Quince looks a little different.,curiosity,neutral,mild
+38:36.6,38:39.6,"Nie wiem, ile odgadnęli pozostali.",I don't know how many the others guessed.,uncertainty,fear,mild
+38:39.6,38:44.6,"Jak stałam, ja mówię, czy to wystarczy.","As I stood, I said, is that enough?",uncertainty,fear,mild
+38:44.6,38:51.6,"Jola, to nie jest bardzo zły wynik, jeśli porównamy go z wynikiem Twoich kolegów.","Jola, this is not a very bad result if we compare it with the results of your colleagues.",reassurance,happiness,mild
+38:51.6,39:07.6,"Od nich lepsza, dlatego możesz wejść na balkon, jesteś bezpieczna.","Better than them, so you can go out on the balcony, you are safe.",reassurance,happiness,mild
+39:07.6,39:11.6,Beata podchodzi do testu wiedzy jak do kolejnego naukowego eksperymentu.,Beata approaches the knowledge test as if it were another scientific experiment.,curiosity,neutral,mild
+39:11.6,39:13.6,Konkretnie i precyzyjnie.,Specifically and precisely.,determination,neutral,neutral
+39:13.6,39:15.6,Czy to się sprawdzi?,Will it work?,uncertainty,fear,mild
+39:15.6,39:16.6,"Beata, jesteś gotowa?","Beata, are you ready?",curiosity,neutral,neutral
+39:16.6,39:18.6,"Tak, jak w jakimś supermarkecie.","Yes, like in some supermarket.",comparison,neutral,neutral
+39:18.6,39:28.6,"Potrzebuję coś, biorę, sięgam, wącham, nie zastanawiam się, co to jest, ponieważ z tymi produktami miałam do czynienia i są mi znane.","I need something, I take it, I reach for it, I smell it, I don't wonder what it is, because I have dealt with these products before and they are familiar to me.",familiarity,neutral,neutral
+39:28.6,39:30.6,Karambola.,Karambola.,neutrality,neutral,neutral
+39:30.6,39:35.6,"Tak, to jest karambola.","Yes, this is a carambola.",confirmation,neutral,neutral
+39:35.6,39:46.6,"Jest to pitaya, bądź też pitahaya.","This is pitaya, or also pitahaya.",information,neutral,neutral
+39:46.6,40:00.6,"Tak, masz rację, po polsku można go również nazwać smoczym owocem.","Yes, you are right, in Polish it can also be called dragon fruit.",agreement,neutral,neutral
+40:00.6,40:02.6,Czarnuszka.,Czarnuszka.,neutrality,neutral,neutral
+40:02.6,40:18.6,"Tak, to jest czarnuszka.","Yes, this is black cumin.",certainty,neutral,neutral
+40:18.6,40:19.6,Kardamon.,Cardamom.,neutrality,neutral,neutral
+40:19.6,40:24.6,"Tak, to jest kardamon.","Yes, this is cardamom.",certainty,neutral,neutral
+40:24.6,40:25.6,Granat.,Grenade.,alarm,fear,moderate
+40:25.6,40:31.6,"Tak, to jest granat.","Yes, this is a grenade.",certainty,neutral,neutral
+40:31.6,40:32.6,Jalapeno.,Jalapeno.,neutrality,neutral,neutral
+40:32.6,40:36.6,Czy jesteś pewna?,Are you sure?,doubt,fear,mild
+40:36.6,40:37.6,Jestem pewna.,I am sure.,confidence,happiness,mild
+40:37.6,40:53.6,"Ja wiem, jak wygląda jalapeno. To jest taka krótka, czerwona, jak mały pomidorek papryczka.","I know what a jalapeno looks like. It's a short, red pepper, like a small tomato.",certainty,neutral,neutral
+40:53.6,40:54.6,"Wiesz, co tu mam?",Do you know what I have here?,curiosity,neutral,mild
+40:54.6,40:55.6,Jalapeno.,Jalapeno.,neutrality,neutral,neutral
+40:55.6,40:56.6,"Wiesz, co tu masz?",Do you know what you have here?,curiosity,neutral,mild
+40:56.6,40:57.6,Nie.,No.,rejection,anger,mild
+40:58.6,41:04.6,"Papryka jalapeno, papryka jalapeno zielona i czerwona. Prezent.","Jalapeno pepper, green and red jalapeno pepper. Gift.",curiosity,neutral,neutral
+41:04.6,41:09.6,Dziękuję. Kolejna nauka.,Thank you. Another lesson.,gratitude,happiness,mild
+41:09.6,41:16.6,"No i tak, że byłaś lepsza niż kolegów, znalazłaś pięć produktów, jest też bezpieczna, możesz iść na balkon.","And also, you were better than your colleagues, you found five products, it's also safe, you can go to the balcony.",pride,happiness,mild
+41:16.6,41:19.6,Dziękuję bardzo.,Thank you very much.,gratitude,happiness,mild
+41:19.6,41:24.6,"Dzisiaj jestem bardzo szczęśliwa, że jeszcze nie pora na mnie.",Today I am very happy that it is not my time yet.,relief,happiness,intense
+41:24.6,41:29.6,"Manko przecież tam leży, leży trawa cytrynowa.","But after all, there it is, there is lemongrass lying there.",confusion,surprise,mild
+41:29.6,41:31.6,"Leszek, Adam, zapraszam do nas.","Leszek, Adam, I invite you to us.",welcoming,happiness,mild
+41:31.6,41:37.6,"Leszek odgadł zaledwie jeden produkt, Adam nie poznał żadnego. Czy obaj pożegnają się z programem?","Leszek guessed only one product, Adam didn't recognize any. Will both of them say goodbye to the show?",uncertainty,fear,mild
+41:37.6,41:46.6,"Ta konkurencja pokazała, że dziewczyny były od was znacznie lepsze. One mają się czym chwalić, a wy niestety nie.","This competition showed that the girls were much better than you. They have something to boast about, and unfortunately you do not.",disappointment,sadness,moderate
+41:46.6,41:55.6,"Leszek, odgadłeś jeden składnik, a ty, Adam, żadnego. To jest po prostu nie do wymyślenia sobie taki scenariusz.","Leszek, you guessed one ingredient, and you, Adam, none. It's just impossible to imagine such a scenario.",bewilderment,surprise,moderate
+41:55.6,42:00.6,Myśmy się tego absolutnie nie spodziewali. To duży szok dla nas.,We absolutely did not expect this. This is a big shock for us.,shock,surprise,intense
+42:00.6,42:10.6,Kuchnia MasterChefa opuści Adam.,Adam will leave the MasterChef kitchen.,resignation,sadness,moderate
+42:16.6,42:27.6,"Adam, ja wiem, że ty umiesz gotować. Ja wiem, że ty masz olbrzymią wiedzę, ale takie są zasady tej gry.","Adam, I know that you can cook. I know that you have enormous knowledge, but these are the rules of this game.",resignation,sadness,mild
+42:27.6,42:35.6,"Życzę ci powodzenia i radości z gotowania nie tylko ryb i owoców morza, ale również kurczaków.","I wish you good luck and joy in cooking not only fish and seafood, but also chicken.",encouragement,happiness,mild
+42:35.6,42:45.6,Odłóż fartucha na swoje stanowisko.,Put the apron back in your place.,command,neutral,neutral
+42:45.6,42:51.6,Po prostu źle trafiłem i tyle. Zabawa idzie dalej. Ja też mam swoje zajęcie.,"I just had bad luck, that's all. The fun goes on. I also have my own thing to do.",resignation,sadness,mild
+42:51.6,42:56.6,"Myślę, że ktoś mnie zauważy po tym programie i może jakąś inną szansę dostanę.",I think someone will notice me after this show and maybe I'll get another chance.,hope,happiness,moderate
+42:56.6,43:04.6,"Na chwilę obecną wracam do Londynu, a mam nadzieję, że szybko wrócę do Polski.","For now, I'm going back to London, and I hope I'll return to Poland soon.",longing,sadness,mild
+43:04.6,43:13.6,"Jakbym brał udział, to ja bym grał tego pasternaka na dzień dobry, no to bym upadł dzisiaj.","If I were participating, I would play that Pasternak right away, well, then I would have failed today.",resignation,sadness,mild
+43:13.6,43:16.6,"Ale fajnie, że jestem.",But it's nice that I'm here.,contentment,happiness,mild
+43:16.6,43:21.6,Już za tydzień dzisiaj zrobimy wam warsztaty z mistrzem kuchni.,"In just a week today, we will do a workshop with a master chef for you.",anticipation,happiness,moderate
+43:21.6,43:25.6,No i się nie zawiodłam. Na to czekam.,And I was not disappointed. This is what I'm waiting for.,satisfaction,happiness,moderate
+43:25.6,43:31.6,"Magda Gessler pokaże wam swoje popisowe danie, a waszym zadaniem będzie odtworzenie go w jak najlepszy sposób.","Magda Gessler will show you her signature dish, and your task will be to recreate it in the best possible way.",anticipation,neutral,mild
+43:31.6,43:35.6,Bardzo ważną rzeczą jest temperatura tego farszu.,A very important thing is the temperature of this filling.,attentiveness,neutral,neutral
+43:35.6,43:38.6,"Nie rzucę w ciebie, obiecuję.","I won't throw it at you, I promise.",reassurance,happiness,mild
+43:38.6,43:41.6,"To tu, to tu. Na co czekasz?","Here, here. What are you waiting for?",impatience,anger,moderate
+43:41.6,43:42.6,No nie ma czasu.,"Well, there is no time.",impatience,sadness,moderate
+43:42.6,43:44.6,Czas szybko leci.,Time flies quickly.,nostalgia,sadness,mild
+43:44.6,43:47.6,"Czuję, że będziemy mieli niespodziankę dzisiaj następnej.",I feel that we will have a surprise today or next time.,anticipation,surprise,mild
+43:47.6,43:48.6,Przeprawiłeś?,Did you cross?,curiosity,neutral,mild
+43:48.6,43:50.6,Jeszcze nie.,Not yet.,patience,neutral,neutral
+43:50.6,43:51.6,"Kurczę, zapomniałem.","Damn, I forgot.",frustration,sadness,mild
+43:51.6,43:54.6,To będzie po prostu poezja.,It will simply be poetry.,anticipation,happiness,mild
+43:54.6,43:56.6,Takich rzeczy się nie podaje ludziom.,You don't give such things to people.,disapproval,disgust,moderate
+43:56.6,43:59.6,"To ciasto jest tak twarde, ja go nie chcę próbować.","This cake is so hard, I don't want to try it.",aversion,disgust,moderate
+43:59.6,44:02.6,"Jak ci powiedzisz prawda, to ja już nie mam siły.","If I tell you the truth, I just don't have the strength anymore.",exhaustion,sadness,moderate
