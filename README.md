@@ -38,6 +38,7 @@ Follow these steps to set up the project and install dependencies:
    or if installed as a package:
 
    ```bash
+   cd src
    python -m krzycz_trybson.pipeline -h
    ```
 
