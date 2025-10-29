@@ -10,8 +10,8 @@ Follow these steps to set up the project and install dependencies:
 2. **Clone the repository**
 
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/BredaUniversityADSAI/fae2-nlpr-group-group-9
+   cd fae2-nlpr-group-group-9
    ```
 
 3. **Install dependencies**
