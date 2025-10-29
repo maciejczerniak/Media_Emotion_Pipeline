@@ -183,6 +183,9 @@ async def main():
         title = await download_youtube_video(args.youtube_url, str(output_file))
         logger.info(f"Downloaded: {title}")
 
+        if not output_file.suffix:
+            output_file = output_file.with_suffix(".wav")
+
         input_file = output_file
     else:
         # Use provided input file
