@@ -108,8 +108,6 @@ It is suited for **media companies**, **researchers**, and **developers** perfor
 ### Stakeholder Summary
 This model provides the **Content Intelligence Agency** with a transparent, maintainable, and cost-effective tool for emotion classification in media transcripts - enabling scalable emotion analytics without reliance on external LLM APIs.
 
----
-
 ## 7. Sustainability Considerations
 
 ### Energy Used for Training
