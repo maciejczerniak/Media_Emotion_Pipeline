@@ -80,7 +80,7 @@ After classifiyng each mistake to each class, we discovered that the largest amo
 The XAI methods confirmed our theory of emotionally charged single words pulling the model the wrong way, and showed low confidence in the predictions of our model.
 
 ### Full Report
-[Link here](https://github.com/BredaUniversityADSAI/fae2-nlpr-group-group-9/blob/25ae52d0bf15c733bd755639651f7613b93b3c00/task11/Task%2010%20Report%20(XAI).pdf)
+[Link here](https://github.com/BredaUniversityADSAI/fae2-nlpr-group-group-9/blob/main/task10/Task%2010%20Report%20(XAI).pdf)
 
 ## 6. Recommendations for Use
 
