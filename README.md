@@ -10,7 +10,7 @@ Follow these steps to set up the project and install dependencies:
 2. **Clone the repository**
 
    ```bash
-   git clone https://github.com/BredaUniversityADSAI/fae2-nlpr-group-group-9
+   git clone https://github.com/maciejczerniak/Media_Emotion_Pipeline
    cd fae2-nlpr-group-group-9
    ```
 
@@ -32,14 +32,14 @@ Follow these steps to set up the project and install dependencies:
    Run the main script to check that everything is set up correctly:
 
    ```bash
-   python .\src\krzycz_trybson\pipeline.py -h
+   python .\src\media_emotion_pipeline\pipeline.py -h
    ```
 
    or if installed as a package:
 
    ```bash
    cd src
-   python -m krzycz_trybson.pipeline -h
+   python -m media_emotion_pipeline.pipeline -h
    ```
 
    This should display the script's help message.
@@ -53,25 +53,25 @@ Run the pipeline with the desired input:
 ### 1. Local Video File
 
 ```bash
-python .\src\krzycz_trybson\pipeline.py --input video.mp4 --output ./results
+python .\src\media_emotion_pipeline\pipeline.py --input video.mp4 --output ./results
 ```
 
 or as a package:
 
 ```bash
-python -m krzycz_trybson.pipeline --input video.mp4 --output ./results
+python -m media_emotion_pipeline.pipeline --input video.mp4 --output ./results
 ```
 
 ### 2. YouTube Video
 
 ```bash
-python .\src\krzycz_trybson\pipeline.py --youtube-url "https://www.youtube.com/watch?v=..." --output ./results
+python .\src\media_emotion_pipeline\pipeline.py --youtube-url "https://www.youtube.com/watch?v=..." --output ./results
 ```
 
 or as a package:
 
 ```bash
-python -m krzycz_trybson.pipeline --youtube-url "https://www.youtube.com/watch?v=..." --output ./results
+python -m media_emotion_pipeline.pipeline --youtube-url "https://www.youtube.com/watch?v=..." --output ./results
 ```
 
 Replace `video.mp4` with your file path and `./results` with your desired output directory.
@@ -85,13 +85,13 @@ Replace `video.mp4` with your file path and `./results` with your desired output
 By default, the pipeline performs transcription autocorrection using a large language model. This can sometimes slow down processing or cause delays if the Ollama server is overloaded. To skip this step, use the `--no-autocorrect` flag:
 
 ```bash
-python .\src\krzycz_trybson\pipeline.py --input video.mp4 --output ./results --no-autocorrect
+python .\src\media_emotion_pipeline\pipeline.py --input video.mp4 --output ./results --no-autocorrect
 ```
 
 or as a package:
 
 ```bash
-python -m krzycz_trybson.pipeline --input video.mp4 --output ./results --no-autocorrect
+python -m media_emotion_pipeline.pipeline --input video.mp4 --output ./results --no-autocorrect
 ```
 
 ---
@@ -116,7 +116,7 @@ python -m krzycz_trybson.pipeline --input video.mp4 --output ./results --no-auto
 
 ## Model Card
 
-Model card can be found [here](https://github.com/BredaUniversityADSAI/fae2-nlpr-group-group-9/blob/74772a70a22b6aeba6f86ef4424f9be86eadfe46/task11/readme.md).
+Model card can be found [here](./docs/model_card.md).
 
 ## Requirements List
 Full list of dependencies can be found [here](./requirements.txt).

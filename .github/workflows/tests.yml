@@ -23,4 +23,4 @@ jobs:
 
       - name: Run pytest
         run: |
-          poetry run pytest --cov=krzycz_trybson --cov-report=xml
+          poetry run pytest --cov=src --cov-report=term-missing --cov-fail-under=80

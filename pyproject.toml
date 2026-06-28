@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "krzycz-trybson"
+name = "media-emotion-pipeline"
 version = "0.1.0"
 description = ""
 authors = ["Szymon Chirowski <242621@buas.nl>"]
 readme = "README.md"
-packages = [{ include = "krzycz_trybson", from = "src" }]
+packages = [{ include = "media_emotion_pipeline", from = "src" }]
 
 [tool.poetry.dependencies]
 python = ">=3.11,<3.13"
@@ -131,6 +131,19 @@ ignore = [
 
 [tool.ruff.lint.per-file-ignores]
 "__init__.py" = ["F401"]
+
+[tool.coverage.run]
+source = ["media_emotion_pipeline"]
+omit = [
+    "*/__init__.py",
+    "*/tests/*",
+    "src/media_emotion_pipeline/speach_to_text/transcribe_yt_videos.py",
+    "src/media_emotion_pipeline/speach_to_text/utils/download_youtube_video.py",
+]
+
+[tool.coverage.report]
+show_missing = true
+fail_under = 80
 
 
 [build-system]
