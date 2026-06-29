@@ -1,15 +1,15 @@
 import logging
 from pathlib import Path
 
-from media_emotion_pipeline.config import Settings
-from media_emotion_pipeline.logger import get_logger
+from emotion_detection_pipeline.config import Settings
+from emotion_detection_pipeline.logger import get_logger
 
 
 def test_settings_defaults_use_project_name() -> None:
     settings = Settings()
 
-    assert settings.app_name == "media-emotion-pipeline"
-    assert settings.get_app_info()["name"] == "media-emotion-pipeline"
+    assert settings.app_name == "emotion-detection-pipeline"
+    assert settings.get_app_info()["name"] == "emotion-detection-pipeline"
     assert settings.get_log_level() == logging.INFO
 
 

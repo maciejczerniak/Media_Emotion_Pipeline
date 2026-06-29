@@ -2,10 +2,10 @@ from types import SimpleNamespace
 
 import pandas as pd
 
-from media_emotion_pipeline.autocorrection import autocorrection
-from media_emotion_pipeline.speach_to_text.utils import download_youtube_video
-from media_emotion_pipeline.speach_to_text.stt_master import SpeachToText
-from media_emotion_pipeline.translation import translate
+from emotion_detection_pipeline.autocorrection import autocorrection
+from emotion_detection_pipeline.speach_to_text.utils import download_youtube_video
+from emotion_detection_pipeline.speach_to_text.stt_master import SpeachToText
+from emotion_detection_pipeline.translation import translate
 
 
 def test_correct_with_ollama_returns_json_correction(monkeypatch) -> None:
@@ -227,7 +227,7 @@ def test_speach_to_text_routes_to_whisper(monkeypatch):
             return {"full_text": "from whisper"}
 
     monkeypatch.setattr(
-        "media_emotion_pipeline.speach_to_text.stt_master.WhisperTranscriber",
+        "emotion_detection_pipeline.speach_to_text.stt_master.WhisperTranscriber",
         lambda: FakeWhisper(),
     )
 
@@ -249,7 +249,7 @@ def test_speach_to_text_routes_to_assemblyai(monkeypatch):
             return {"full_text": "from assembly"}
 
     monkeypatch.setattr(
-        "media_emotion_pipeline.speach_to_text.stt_master.AssemblyAITranscriber",
+        "emotion_detection_pipeline.speach_to_text.stt_master.AssemblyAITranscriber",
         lambda: FakeAssembly(),
     )
 

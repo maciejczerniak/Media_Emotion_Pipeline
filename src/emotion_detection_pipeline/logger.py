@@ -2,7 +2,7 @@ import logging
 from pathlib import Path
 from typing import Optional
 
-from media_emotion_pipeline.config import Settings, settings
+from emotion_detection_pipeline.config import Settings, settings
 
 
 def get_logger(

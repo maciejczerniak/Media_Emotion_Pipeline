@@ -10,7 +10,7 @@ Follow these steps to set up the project and install dependencies:
 2. **Clone the repository**
 
    ```bash
-   git clone https://github.com/maciejczerniak/Media_Emotion_Pipeline
+   git clone https://github.com/maciejczerniak/Emotion_Detection_Pipeline
    cd fae2-nlpr-group-group-9
    ```
 
@@ -32,14 +32,14 @@ Follow these steps to set up the project and install dependencies:
    Run the main script to check that everything is set up correctly:
 
    ```bash
-   python .\src\media_emotion_pipeline\pipeline.py -h
+   python .\src\emotion_detection_pipeline\pipeline.py -h
    ```
 
    or if installed as a package:
 
    ```bash
    cd src
-   python -m media_emotion_pipeline.pipeline -h
+   python -m emotion_detection_pipeline.pipeline -h
    ```
 
    This should display the script's help message.
@@ -53,25 +53,25 @@ Run the pipeline with the desired input:
 ### 1. Local Video File
 
 ```bash
-python .\src\media_emotion_pipeline\pipeline.py --input video.mp4 --output ./results
+python .\src\emotion_detection_pipeline\pipeline.py --input video.mp4 --output ./results
 ```
 
 or as a package:
 
 ```bash
-python -m media_emotion_pipeline.pipeline --input video.mp4 --output ./results
+python -m emotion_detection_pipeline.pipeline --input video.mp4 --output ./results
 ```
 
 ### 2. YouTube Video
 
 ```bash
-python .\src\media_emotion_pipeline\pipeline.py --youtube-url "https://www.youtube.com/watch?v=..." --output ./results
+python .\src\emotion_detection_pipeline\pipeline.py --youtube-url "https://www.youtube.com/watch?v=..." --output ./results
 ```
 
 or as a package:
 
 ```bash
-python -m media_emotion_pipeline.pipeline --youtube-url "https://www.youtube.com/watch?v=..." --output ./results
+python -m emotion_detection_pipeline.pipeline --youtube-url "https://www.youtube.com/watch?v=..." --output ./results
 ```
 
 Replace `video.mp4` with your file path and `./results` with your desired output directory.
@@ -85,13 +85,13 @@ Replace `video.mp4` with your file path and `./results` with your desired output
 By default, the pipeline performs transcription autocorrection using a large language model. This can sometimes slow down processing or cause delays if the Ollama server is overloaded. To skip this step, use the `--no-autocorrect` flag:
 
 ```bash
-python .\src\media_emotion_pipeline\pipeline.py --input video.mp4 --output ./results --no-autocorrect
+python .\src\emotion_detection_pipeline\pipeline.py --input video.mp4 --output ./results --no-autocorrect
 ```
 
 or as a package:
 
 ```bash
-python -m media_emotion_pipeline.pipeline --input video.mp4 --output ./results --no-autocorrect
+python -m emotion_detection_pipeline.pipeline --input video.mp4 --output ./results --no-autocorrect
 ```
 
 ---

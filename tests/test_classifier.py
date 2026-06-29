@@ -1,7 +1,7 @@
 import pandas as pd
 import torch
 
-from media_emotion_pipeline.classifier import classify
+from emotion_detection_pipeline.classifier import classify
 
 
 class FakeTokenizer:

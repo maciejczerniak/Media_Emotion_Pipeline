@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "media-emotion-pipeline"
+name = "emotion-detection-pipeline"
 version = "0.1.0"
 description = ""
 authors = ["Szymon Chirowski <242621@buas.nl>"]
 readme = "README.md"
-packages = [{ include = "media_emotion_pipeline", from = "src" }]
+packages = [{ include = "emotion_detection_pipeline", from = "src" }]
 
 [tool.poetry.dependencies]
 python = ">=3.11,<3.13"
@@ -133,12 +133,12 @@ ignore = [
 "__init__.py" = ["F401"]
 
 [tool.coverage.run]
-source = ["media_emotion_pipeline"]
+source = ["emotion_detection_pipeline"]
 omit = [
     "*/__init__.py",
     "*/tests/*",
-    "src/media_emotion_pipeline/speach_to_text/transcribe_yt_videos.py",
-    "src/media_emotion_pipeline/speach_to_text/utils/download_youtube_video.py",
+    "src/emotion_detection_pipeline/speach_to_text/transcribe_yt_videos.py",
+    "src/emotion_detection_pipeline/speach_to_text/utils/download_youtube_video.py",
 ]
 
 [tool.coverage.report]

@@ -4,8 +4,8 @@ from typing import Dict, Any, Union, List, Optional
 import pandas as pd
 from typing_extensions import Literal
 
-from media_emotion_pipeline.config import settings
-from media_emotion_pipeline.speach_to_text.utils.save_transcription_artifacts import (
+from emotion_detection_pipeline.config import settings
+from emotion_detection_pipeline.speach_to_text.utils.save_transcription_artifacts import (
     _save_artifacts,
 )
 import assemblyai as aai  # type: ignore[import-untyped]

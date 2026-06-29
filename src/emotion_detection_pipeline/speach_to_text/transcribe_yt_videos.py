@@ -6,7 +6,7 @@ async def transcribe(video_dir: Union[Path, str]):
 
     # download videos from youtube (multithreaded)
     import asyncio
-    from media_emotion_pipeline.speach_to_text.stt_master import SpeachToText
+    from emotion_detection_pipeline.speach_to_text.stt_master import SpeachToText
     from tqdm import tqdm
 
     if isinstance(video_dir, str):

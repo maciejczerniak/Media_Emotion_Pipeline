@@ -1,10 +1,10 @@
 from pathlib import Path
 from typing import Literal, Dict, Any, Union
-from media_emotion_pipeline.logger import get_logger
-from media_emotion_pipeline.speach_to_text.speech_to_text_assemblyAI import (
+from emotion_detection_pipeline.logger import get_logger
+from emotion_detection_pipeline.speach_to_text.speech_to_text_assemblyAI import (
     AssemblyAITranscriber,
 )
-from media_emotion_pipeline.speach_to_text.speech_to_text_whisper import (
+from emotion_detection_pipeline.speach_to_text.speech_to_text_whisper import (
     WhisperTranscriber,
 )
 

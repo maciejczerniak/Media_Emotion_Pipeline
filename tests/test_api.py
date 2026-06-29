@@ -4,7 +4,7 @@ from pathlib import Path
 import pytest
 from fastapi.testclient import TestClient
 
-from media_emotion_pipeline import main as api
+from emotion_detection_pipeline import main as api
 
 
 def test_transcribe_requires_one_input() -> None:

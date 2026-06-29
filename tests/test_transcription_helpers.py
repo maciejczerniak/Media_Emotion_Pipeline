@@ -4,16 +4,16 @@ from types import SimpleNamespace
 import pandas as pd
 import pytest
 
-from media_emotion_pipeline.speach_to_text.speech_to_text_assemblyAI import (
+from emotion_detection_pipeline.speach_to_text.speech_to_text_assemblyAI import (
     AssemblyAITranscriber,
     _create_transcription_dataframe as create_assembly_dataframe,
 )
-from media_emotion_pipeline.speach_to_text.speech_to_text_whisper import (
+from emotion_detection_pipeline.speach_to_text.speech_to_text_whisper import (
     WhisperTranscriber,
     _create_transcription_dataframe as create_whisper_dataframe,
     _format_timestamp,
 )
-from media_emotion_pipeline.speach_to_text.utils.save_transcription_artifacts import (
+from emotion_detection_pipeline.speach_to_text.utils.save_transcription_artifacts import (
     _save_artifacts,
 )
 
@@ -109,11 +109,11 @@ def test_save_artifacts_writes_text_and_segments(tmp_path: Path) -> None:
 
 def test_whisper_transcriber_can_return_text_only(monkeypatch, tmp_path: Path) -> None:
     monkeypatch.setattr(
-        "media_emotion_pipeline.speach_to_text.speech_to_text_whisper.whisper.load_model",
+        "emotion_detection_pipeline.speach_to_text.speech_to_text_whisper.whisper.load_model",
         lambda *args, **kwargs: object(),
     )
     monkeypatch.setattr(
-        "media_emotion_pipeline.speach_to_text.speech_to_text_whisper.whisper.transcribe",
+        "emotion_detection_pipeline.speach_to_text.speech_to_text_whisper.whisper.transcribe",
         lambda *args, **kwargs: {"text": "hello", "segments": []},
     )
 
@@ -129,11 +129,11 @@ def test_whisper_transcriber_can_return_artifacts_without_saving(
     tmp_path: Path,
 ) -> None:
     monkeypatch.setattr(
-        "media_emotion_pipeline.speach_to_text.speech_to_text_whisper.whisper.load_model",
+        "emotion_detection_pipeline.speach_to_text.speech_to_text_whisper.whisper.load_model",
         lambda *args, **kwargs: object(),
     )
     monkeypatch.setattr(
-        "media_emotion_pipeline.speach_to_text.speech_to_text_whisper.whisper.transcribe",
+        "emotion_detection_pipeline.speach_to_text.speech_to_text_whisper.whisper.transcribe",
         lambda *args, **kwargs: {
             "text": "hello",
             "segments": [{"id": 1, "start": 0, "end": 1, "text": "hello"}],
@@ -153,7 +153,7 @@ def test_assembly_transcriber_can_return_text_only(monkeypatch, tmp_path: Path) 
             pass
 
     monkeypatch.setattr(
-        "media_emotion_pipeline.speach_to_text.speech_to_text_assemblyAI.aai.TranscriptionConfig",
+        "emotion_detection_pipeline.speach_to_text.speech_to_text_assemblyAI.aai.TranscriptionConfig",
         FakeConfig,
     )
 

@@ -4,7 +4,7 @@ import pandas as pd
 import whisper  # type: ignore[import-untyped]
 from typing_extensions import Literal
 
-from media_emotion_pipeline.speach_to_text.utils.save_transcription_artifacts import (
+from emotion_detection_pipeline.speach_to_text.utils.save_transcription_artifacts import (
     _save_artifacts,
 )
 

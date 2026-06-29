@@ -11,9 +11,9 @@ from fastapi.params import File
 from pydantic import BaseModel
 from starlette.responses import FileResponse, JSONResponse
 
-from media_emotion_pipeline.logger import get_logger
-from media_emotion_pipeline.speach_to_text.stt_master import SpeachToText
-from media_emotion_pipeline.speach_to_text.utils.download_youtube_video import (
+from emotion_detection_pipeline.logger import get_logger
+from emotion_detection_pipeline.speach_to_text.stt_master import SpeachToText
+from emotion_detection_pipeline.speach_to_text.utils.download_youtube_video import (
     download_youtube_video,
 )
 

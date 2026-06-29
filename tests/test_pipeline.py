@@ -3,7 +3,7 @@ from pathlib import Path
 
 import pandas as pd
 
-from media_emotion_pipeline import pipeline as pipeline_module
+from emotion_detection_pipeline import pipeline as pipeline_module
 
 
 def test_parse_args_for_local_file(monkeypatch) -> None:

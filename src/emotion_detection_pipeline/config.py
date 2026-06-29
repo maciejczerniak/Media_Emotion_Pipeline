@@ -14,7 +14,7 @@ DOTENV = Path(__file__).parent.parent.parent / ".env"
 class Settings(BaseSettings):
     # Application settings
     app_name: str = Field(
-        default="media-emotion-pipeline", description="Application name"
+        default="emotion-detection-pipeline", description="Application name"
     )
     version: str = Field(default="0.1.0", description="Application version")
     authors: List[str] = Field(default=[""], description="List of authors")
@@ -28,7 +28,7 @@ class Settings(BaseSettings):
     # Logging settings
     log_level: str = Field(default="INFO", description="Logging level")
     log_file: Path = Field(
-        default=DOTENV.parent / "logs" / "media-emotion-pipeline.log",
+        default=DOTENV.parent / "logs" / "emotion-detection-pipeline.log",
         description="Log file path",
     )
 

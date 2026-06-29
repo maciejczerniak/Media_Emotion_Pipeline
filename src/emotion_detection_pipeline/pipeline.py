@@ -6,14 +6,14 @@ from pathlib import Path
 import pandas as pd
 import language_tool_python as ltp
 
-from media_emotion_pipeline.autocorrection.autocorrection import auto_correct_batch
-from media_emotion_pipeline.classifier.classify import EmotionPredictor
-from media_emotion_pipeline.logger import get_logger
-from media_emotion_pipeline.speach_to_text.stt_master import SpeachToText
-from media_emotion_pipeline.speach_to_text.utils.download_youtube_video import (
+from emotion_detection_pipeline.autocorrection.autocorrection import auto_correct_batch
+from emotion_detection_pipeline.classifier.classify import EmotionPredictor
+from emotion_detection_pipeline.logger import get_logger
+from emotion_detection_pipeline.speach_to_text.stt_master import SpeachToText
+from emotion_detection_pipeline.speach_to_text.utils.download_youtube_video import (
     download_youtube_video,
 )
-from media_emotion_pipeline.translation.translate import translate_batch
+from emotion_detection_pipeline.translation.translate import translate_batch
 
 logger = get_logger(__name__)
 os.environ["PYTHONIOENCODING"] = "utf-8"

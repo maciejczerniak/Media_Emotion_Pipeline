@@ -1,7 +1,7 @@
 from pathlib import Path
 from typing import Dict, Any
 
-from media_emotion_pipeline.logger import get_logger
+from emotion_detection_pipeline.logger import get_logger
 
 logger = get_logger(__name__)
 
